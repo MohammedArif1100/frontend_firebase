@@ -1,0 +1,2133 @@
+.IPSFrame1 {
+  width: 1909px;
+  height: 743px;
+  padding-top: 33px;
+  padding-bottom: 37.81px;
+  padding-left: 101px;
+  padding-right: 28px;
+  background: white;
+  justify-content: flex-end;
+  align-items: center;
+  display: inline-flex;
+}
+
+.IPSGroup1 {
+  width: 1780px;
+  height: 672.19px;
+  position: relative;
+  right: 50px;
+}
+
+.IPSRectangle1 {
+  width: 114.38px;
+  height: 225.26px;
+  left: 281.46px;
+  top: 0;
+  position: absolute;
+  background: #fdf0f0;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+.IPSLine1 {
+  width: 89.96px;
+  height: 0;
+  left: 191.49px;
+  top: 34.56px;
+  position: absolute;
+  border: 1px solid black;
+}
+.IPSLine2 {
+  width: 89.96px;
+  height: 0;
+  left: 191.49px;
+  top: 113.22px;
+  position: absolute;
+  border: 1px solid black;
+}
+.IPSLine3 {
+  width: 89.96px;
+  height: 0;
+  left: 191.49px;
+  top: 195.46px;
+  position: absolute;
+  border: 1px solid black;
+}
+.IPSAcu {
+  width: 203.06px;
+  height: 90.58px;
+  left: 316.16px;
+  top: 113.22px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSRectangle2 {
+  width: 107.96px;
+  height: 61.97px;
+  left: 83.54px;
+  top: 2.38px;
+  position: absolute;
+  background: #d9d9d9;
+}
+.IPSRectangle3 {
+  width: 107.96px;
+  height: 61.97px;
+  left: 83.54px;
+  top: 2.38px;
+  position: absolute;
+  background: #f6eeee;
+  border: 1px solid black;
+}
+.IPSRectangle4 {
+  width: 107.96px;
+  height: 61.97px;
+  left: 83.54px;
+  top: 83.43px;
+  position: absolute;
+  background: #fef8f8;
+  border: 1px solid black;
+}
+.IPSRectangle5 {
+  width: 107.96px;
+  height: 63.17px;
+  left: 83.54px;
+  top: 162.09px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px solid black;
+}
+.IPS132832a {
+  width: 98.96px;
+  height: 40.52px;
+  left: 100.54px;
+  top: 13.11px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPS132832a span {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPS132832a span:first-child {
+  color: #ec7575;
+}
+.IPS132832b {
+  width: 98.96px;
+  height: 40.52px;
+  left: 100.54px;
+  top: 89.39px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPS132832b span {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPS132832b span:first-child {
+  color: #59f111;
+}
+.IPS132832c {
+  width: 98.96px;
+  height: 40.52px;
+  left: 100.54px;
+  top: 166.86px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPS132832c span {
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPS132832c span:first-child {
+  color: #59f111;
+}
+.IPSLine4 {
+  width: 340.58px;
+  height: 0;
+  left: 395.84px;
+  top: 129.91px;
+  position: absolute;
+  border: 1px solid black;
+}
+.IPSRectangle6 {
+  width: 190.21px;
+  height: 28.6px;
+  left: 691.44px;
+  top: 113.22px;
+  position: absolute;
+  background: #fef8f8;
+  border-radius: 6px;
+  border: 1px solid black;
+}
+.IPSRectangle7 {
+  width: 96.39px;
+  height: 30.99px;
+  left: 749.27px;
+  top: 63.17px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.IPSRectangle8 {
+  width: 133.66px;
+  height: 30.99px;
+  left: 664.45px;
+  top: 174.01px;
+  position: absolute;
+  background: #fdf0f0;
+  border-radius: 6px;
+  border: 1px solid black;
+}
+.IPSRectangle9 {
+  width: 131.09px;
+  height: 30.99px;
+  left: 816.1px;
+  top: 172.81px;
+  position: absolute;
+  background: #fdf0f0;
+  border-radius: 6px;
+  border: 1px solid black;
+}
+
+.IPSRectangle10 {
+  width: 381.7px;
+  height: 29.8px;
+  left: 614.33px;
+  top: 238.37px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 6px;
+  border: 1px solid black;
+}
+.IPSRectangle12 {
+  width: 463.96px;
+  height: 129.91px;
+  left: 975.47px;
+  top: 94.15px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 10px;
+  border: 1px black solid;
+}
+
+.IPSVAc {
+  width: 165.79px;
+  height: 25.03px;
+  left: 996.03px;
+  top: 100.11px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSEllipse11 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 107.26px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSBattery {
+  width: 93.82px;
+  height: 23.84px;
+  left: 762.12px;
+  top: 65.55px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSFrbc {
+  width: 70.69px;
+  height: 22.64px;
+  left: 762.12px;
+  top: 115.61px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSAcdp {
+  width: 62.97px;
+  height: 22.64px;
+  left: 700.43px;
+  top: 177.58px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSDcdp {
+  width: 75.83px;
+  height: 22.64px;
+  left: 855.94px;
+  top: 177.58px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSPowerDistributionPanel {
+  width: 277.6px;
+  height: 22.64px;
+  left: 700.43px;
+  top: 244.32px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSLine5 {
+  width: 23.84px;
+  height: 0;
+  left: 798.11px;
+  top: 89.39px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine6 {
+  width: 33.33px;
+  height: 0;
+  left: 736.42px;
+  top: 141.25px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine7 {
+  width: 30.99px;
+  height: 0;
+  left: 855.94px;
+  top: 141.83px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine8 {
+  width: 35.33px;
+  height: 0;
+  left: 691.44px;
+  top: 203.8px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine9 {
+  width: 35.33px;
+  height: 0;
+  left: 715.86px;
+  top: 203.8px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine10 {
+  width: 35.33px;
+  height: 0;
+  left: 749.27px;
+  top: 204.99px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+.IPSLine11,
+.IPSLine12,
+.IPSLine13,
+.IPSLine14,
+.IPSLine16 {
+  width: 35.33px;
+  height: 0;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid black;
+}
+
+.IPSLine11 {
+  left: 832.81px;
+  top: 204.23px;
+}
+
+.IPSLine12 {
+  left: 855.94px;
+  top: 204.23px;
+}
+
+.IPSLine13 {
+  left: 773.69px;
+  top: 204.99px;
+}
+
+.IPSLine14 {
+  left: 904.78px;
+  top: 204.23px;
+}
+
+.IPSLine16 {
+  left: 931.77px;
+  top: 204.23px;
+}
+.IPSRectangle11 {
+  width: 284.04px;
+  height: 63.33px;
+  left: 418.97px;
+  top: 44.1px;
+  position: absolute;
+  background: #fef8f8;
+  border: 1px solid black;
+}
+
+.IPSChargingCurrent129130646 {
+  width: 108.67px;
+  height: 38.14px;
+  left: 425.4px;
+  top: 45.06px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSDischargingCurrent206130646 {
+  width: 125.52px;
+  height: 36.95px;
+  left: 556.49px;
+  top: 45.06px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+/* styles.css */
+
+.IPSRectangle12 {
+  width: 463.96px;
+  height: 129.91px;
+  left: 975.47px;
+  top: 94.15px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.IPSVAc {
+  width: 165.79px;
+  height: 25.03px;
+  left: 996.03px;
+  top: 100.11px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse11 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 107.26px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine26 {
+  width: 20.56px;
+  height: 0;
+  left: 1136.12px;
+  top: 109.65px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSInv1 {
+  width: 165.79px;
+  height: 23.84px;
+  left: 996.03px;
+  top: 125.14px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse12 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 131.1px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+/* styles.css */
+
+.IPSLine26 {
+  width: 20.56px;
+  height: 0;
+  left: 1136.12px;
+  top: 109.65px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSInv1 {
+  width: 165.79px;
+  height: 23.84px;
+  left: 996.03px;
+  top: 125.14px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse12 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 131.1px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine27 {
+  width: 20.56px;
+  height: 0;
+  left: 1136.12px;
+  top: 134.68px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSInv2 {
+  width: 165.79px;
+  height: 23.84px;
+  left: 996.03px;
+  top: 148.98px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse13 {
+  width: 9px;
+  height: 5.96px;
+  left: 1112.98px;
+  top: 156.13px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine28 {
+  width: 20.56px;
+  height: 0;
+  left: 1136.12px;
+  top: 158.51px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSInv3 {
+  width: 165.79px;
+  height: 25.03px;
+  left: 996.03px;
+  top: 172.81px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse14 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 179.97px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+/* styles.css */
+
+.IPSLine29 {
+  width: 20.7px;
+  height: 20.26px;
+  left: 1136.12px;
+  top: 187.12px;
+  position: absolute;
+  border-top: 2px black dotted;
+  border-bottom: 2px black dotted;
+  border-left: none;
+  border-right: none;
+}
+/* styles.css */
+
+.IPSInv4 {
+  width: 165.79px;
+  height: 25.03px;
+  left: 996.03px;
+  top: 197.84px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse15 {
+  width: 9px;
+  height: 7.15px;
+  left: 1112.98px;
+  top: 204.99px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSDcDcConv {
+  width: 165.79px;
+  height: 23.84px;
+  left: 1210.66px;
+  top: 102.5px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse16 {
+  width: 9px;
+  height: 7.15px;
+  left: 1372.59px;
+  top: 108.46px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine30 {
+  width: 20.56px;
+  height: 0;
+  left: 1397.01px;
+  top: 110.84px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSSmps {
+  width: 165.79px;
+  height: 23.84px;
+  left: 1210.66px;
+  top: 126.33px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse17 {
+  width: 10.28px;
+  height: 7.15px;
+  left: 1370.02px;
+  top: 132.29px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine31 {
+  width: 19.28px;
+  height: 0;
+  left: 1393.16px;
+  top: 135.87px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSCallST {
+  width: 165.79px;
+  height: 23.84px;
+  left: 1210.66px;
+  top: 150.17px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse18 {
+  width: 10.28px;
+  height: 5.96px;
+  left: 1370.02px;
+  top: 157.32px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine32 {
+  width: 19.28px;
+  height: 0;
+  left: 1393.16px;
+  top: 159.7px;
+  position: absolute;
+  border: 1px black dotted;
+}
+
+.IPSDod {
+  width: 165.79px;
+  height: 25.03px;
+  left: 1210.66px;
+  top: 174.01px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse19 {
+  width: 10.28px;
+  height: 7.15px;
+  left: 1370.02px;
+  top: 181.16px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+.IPSLine33 {
+  width: 20.7px;
+  height: 21.45px;
+  left: 1393.16px;
+  top: 188.31px;
+  position: absolute;
+  border-top: 2px black dotted;
+  border-bottom: 2px black dotted;
+  border-left: none;
+  border-right: none;
+}
+.IPSMains {
+  width: 165.79px;
+  height: 25.03px;
+  left: 1210.66px;
+  top: 199.03px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEllipse20 {
+  width: 10.28px;
+  height: 7.15px;
+  left: 1370.02px;
+  top: 206.19px;
+  position: absolute;
+  background: #f81010;
+  border-radius: 9999px;
+}
+
+.IPSLine34 {
+  width: 103.69px;
+  height: 0;
+  left: 1184.95px;
+  top: 106.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSRectangle13 {
+  width: 113.1px;
+  height: 66.74px;
+  left: 0px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+.IPSPoint124132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 9px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSPoint124132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSE11124132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 138.8px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSE11124132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSRectangle14 {
+  width: 113.1px;
+  height: 66.74px;
+  left: 129.81px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+.IPSRectangle15,
+.IPSRectangle16 {
+  width: 113.1px;
+  height: 66.74px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSE12124132832,
+.IPSVhf137132832 {
+  width: 104.1px;
+  height: 63.17px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSE12124132832 span,
+.IPSVhf137132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSRectangle17 {
+  width: 168.36px;
+  height: 66.74px;
+  position: absolute;
+  left: 586.05px;
+  top: 342.05px;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSCtrlPhone162132832 {
+  width: 167.08px;
+  height: 63.17px;
+  position: absolute;
+  left: 592.48px;
+  top: 345.63px;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSCtrlPhone162132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSLine35 {
+  width: 225.26px;
+  height: 0;
+  position: absolute;
+  left: 798.11px;
+  top: 268.16px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine36 {
+  width: 269.18px;
+  height: 0;
+  position: absolute;
+  left: 54.55px;
+  top: 310.03px;
+  border: 3px black solid;
+}
+.IPSLine37 {
+  width: 181.21px;
+  height: 0;
+  left: 488.66px;
+  top: 310.83px;
+  position: absolute;
+  border: 3px black solid;
+}
+
+.IPSLine38 {
+  width: 30.99px;
+  height: 0;
+  left: 56.55px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine39 {
+  width: 30.99px;
+  height: 0;
+  left: 186.35px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine40 {
+  width: 30.99px;
+  height: 0;
+  left: 323.87px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSLine41 {
+  width: 34.56px;
+  height: 0;
+  left: 489.66px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine42 {
+  width: 30.99px;
+  height: 0;
+  left: 669.59px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine43 {
+  width: 20.26px;
+  height: 0;
+  left: 664.45px;
+  top: 266.97px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine44 {
+  width: 477.38px;
+  height: 0;
+  left: 664.45px;
+  top: 287.23px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine45 {
+  width: 23.84px;
+  height: 0;
+  left: 188.92px;
+  top: 287.23px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine46 {
+  width: 30.99px;
+  height: 0;
+  left: 759.55px;
+  top: 268.16px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine47 {
+  width: 177.36px;
+  height: 0;
+  left: 582.2px;
+  top: 299.15px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.IPSLine48 {
+  width: 16.92px;
+  height: 0;
+  left: 582.2px;
+  top: 299.15px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSRectangle18 {
+  width: 165.79px;
+  height: 66.74px;
+  left: 819.96px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSBlkLineTy461132832 {
+  width: 179.93px;
+  height: 63.17px;
+  left: 827.67px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSBlkLineTy461132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSRectangle19 {
+  width: 187.64px;
+  height: 66.74px;
+  left: 1001.17px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSBlkLineNull439132832 {
+  width: 181.21px;
+  height: 63.17px;
+  left: 1007.6px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSBlkLineNull439132832 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSLine49 {
+  width: 181.21px;
+  height: 0;
+  left: 906.64px;
+  top: 310.83px;
+  position: absolute;
+  border: 3px black solid;
+}
+
+.IPSLine50 {
+  width: 30.99px;
+  height: 0;
+  left: 908.64px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine51 {
+  width: 30.99px;
+  height: 0;
+  left: 1087.28px;
+  top: 313.45px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSRectangle20 {
+  width: 111.81px;
+  height: 66.74px;
+  left: 1250.5px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSSigNill141132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 1258.21px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle21 {
+  width: 110.53px;
+  height: 66.74px;
+  left: 1386.73px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSSigTy117132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 1393.16px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle22 {
+  width: 110.53px;
+  height: 66.74px;
+  left: 1516.53px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+}
+
+.IPSTrkNill106132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 1522.96px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle23 {
+  width: 113.1px;
+  height: 66.74px;
+  left: 1651.48px;
+  top: 342.05px;
+  position: absolute;
+  background: #fdf0f0;
+  border: 1px black solid;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSTrkTy107132832 {
+  width: 104.1px;
+  height: 63.17px;
+  left: 1660.48px;
+  top: 345.63px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+.IPSLine52 {
+  width: 404.84px;
+  height: 0;
+  left: 1303.76px;
+  top: 310.83px;
+  position: absolute;
+  border: 3px black solid;
+}
+
+.IPSLine53 {
+  width: 30.99px;
+  height: 0;
+  left: 1305.76px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine54 {
+  width: 30.99px;
+  height: 0;
+  left: 1439.42px;
+  top: 312.26px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine55 {
+  width: 30.99px;
+  height: 0;
+  left: 1569.23px;
+  top: 313.45px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine56 {
+  width: 30.99px;
+  height: 0;
+  left: 1708.03px;
+  top: 311.07px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine57 {
+  width: 45.29px;
+  height: 0;
+  left: 930.48px;
+  top: 266.97px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine58 {
+  width: 20.26px;
+  height: 0;
+  left: 975.47px;
+  top: 266.97px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine59 {
+  width: 532.07px;
+  height: 0;
+  left: 975.47px;
+  top: 287.23px;
+  position: absolute;
+  border: 1px black solid;
+}
+.IPSLine60 {
+  width: 20.26px;
+  height: 0;
+  left: 1507.54px;
+  top: 287.23px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSRectangle24,
+.IPSRectangle25,
+.IPSRectangle26,
+.IPSRectangle27 {
+  width: 82.25px;
+  height: 32.18px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+  top: 428px;
+}
+.IPSRectangle24 {
+  left: 1265.73px;
+}
+.IPSRectangle25 {
+  left: 1395.73px;
+}
+
+.IPSRectangle26 {
+  left: 1538.38px;
+}
+
+.IPSRectangle27 {
+  left: 1677.18px;
+}
+
+.IPSLine61 {
+  width: 19.07px;
+  height: 0;
+  left: 1309.62px;
+  top: 408.8px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine62 {
+  width: 17.88px;
+  height: 0;
+  left: 1439.42px;
+  top: 412.37px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSLine63 {
+  width: 19.07px;
+  height: 0;
+  left: 1710.6px;
+  top: 407.6px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSLine64 {
+  width: 19.07px;
+  height: 0;
+  left: 1579.51px;
+  top: 407.6px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSEld {
+  width: 43.7px;
+  height: 20.26px;
+  left: 1291.62px;
+  top: 464.81px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSEld {
+  width: 44.98px;
+  height: 20.26px;
+  left: 1418.86px;
+  top: 464.81px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSEld {
+  width: 43.7px;
+  height: 20.26px;
+  left: 1562.8px;
+  top: 464.81px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSEld {
+  width: 43.7px;
+  height: 20.26px;
+  left: 1702.89px;
+  top: 464.81px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSLine65 {
+  width: 1403.44px;
+  height: 0;
+  left: 203.06px;
+  top: 493.18px;
+  position: absolute;
+  border: 3px black solid;
+}
+
+.IPSRectangle28 {
+  width: 80.97px;
+  height: 32.18px;
+  left: 11.57px;
+  top: 427.87px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSLine66 {
+  width: 19.07px;
+  height: 0;
+  left: 51.41px;
+  top: 408.8px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSEldTy {
+  width: 86.11px;
+  height: 21.45px;
+  left: 11.57px;
+  top: 461.24px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.IPSRectangle29 {
+  width: 145.23px;
+  height: 71.51px;
+  left: 143.94px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSDlSupply253132832 {
+  width: 133.66px;
+  height: 60.78px;
+  left: 155.51px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle30 {
+  width: 145.23px;
+  height: 71.51px;
+  left: 302.02px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSInternal132832 {
+  width: 133.66px;
+  height: 60.78px;
+  left: 313.59px;
+  top: 525.6px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle31 {
+  width: 125.95px;
+  height: 71.51px;
+  left: 461.39px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+.IPSExtNill320132832 {
+  width: 133.66px;
+  height: 60.78px;
+  left: 472.95px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle32 {
+  width: 127.23px;
+  height: 71.51px;
+  left: 598.9px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSExtTy315132832 {
+  width: 132.38px;
+  height: 60.78px;
+  left: 611.75px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle33 {
+  width: 110.53px;
+  height: 71.51px;
+  left: 741.56px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSBlkNill269132832 {
+  width: 134.95px;
+  height: 60.78px;
+  left: 730.84px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+.IPSRectangle34 {
+  width: 114.38px;
+  height: 71.51px;
+  left: 866.22px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSBlkTy258132832 {
+  width: 134.95px;
+  height: 60.78px;
+  left: 855.79px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle35 {
+  width: 185.07px;
+  height: 71.51px;
+  left: 993.46px;
+  top: 523.21px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSBpacUpNill297132832 {
+  width: 206.92px;
+  height: 59.59px;
+  left: 980.6px;
+  top: 530.36px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle36 {
+  width: 183.78px;
+  height: 71.51px;
+  left: 1193.95px;
+  top: 522.02px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSBpacDnNill301132832 {
+  width: 205.63px;
+  height: 60.78px;
+  left: 1185.52px;
+  top: 525.6px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle37 {
+  width: 156.79px;
+  height: 71.51px;
+  left: 1391.87px;
+  top: 523.21px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+.IPSBpacUpTy301132832 {
+  width: 204.35px;
+  height: 59.59px;
+  left: 1370.01px;
+  top: 530.36px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSRectangle38 {
+  width: 173.5px;
+  height: 71.51px;
+  left: 1560.23px;
+  top: 523.21px;
+  position: absolute;
+  background: #fdfafa;
+  border: 1px black solid;
+}
+
+.IPSBpacDnTy0132832 {
+  width: 205.63px;
+  height: 59.59px;
+  left: 1545.37px;
+  top: 530.36px;
+  position: absolute;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+}
+
+.IPSLine67 {
+  width: 28.6px;
+  height: 0;
+  left: 203.06px;
+  top: 493.42px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine68 {
+  width: 27.41px;
+  height: 0;
+  left: 373.99px;
+  top: 498.18px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine69 {
+  width: 28.6px;
+  height: 0;
+  left: 523.08px;
+  top: 494.61px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine70 {
+  width: 28.6px;
+  height: 0;
+  left: 660.59px;
+  top: 493.42px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSLine71 {
+  width: 28.6px;
+  height: 0;
+  left: 798.11px;
+  top: 494.61px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine72 {
+  width: 28.6px;
+  height: 0;
+  left: 922.77px;
+  top: 493.42px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine73 {
+  width: 28.6px;
+  height: 0;
+  left: 1077px;
+  top: 493.42px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine74 {
+  width: 28.6px;
+  height: 0;
+  left: 1286.48px;
+  top: 494.61px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine75 {
+  width: 27.41px;
+  height: 0;
+  left: 1463.84px;
+  top: 498.18px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine76 {
+  width: 28.6px;
+  height: 0;
+  left: 1606.5px;
+  top: 494.61px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSRectangle39 {
+  width: 82.25px;
+  height: 32.18px;
+  left: 1033.3px;
+  top: 611.41px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSRectangle40 {
+  width: 82.25px;
+  height: 32.18px;
+  left: 1236.36px;
+  top: 610.21px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+.IPSRectangle41 {
+  width: 79.68px;
+  height: 32.18px;
+  left: 1433px;
+  top: 616.17px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSRectangle42 {
+  width: 80.97px;
+  height: 32.18px;
+  left: 1609.07px;
+  top: 614.98px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSLine77 {
+  width: 19.07px;
+  height: 0;
+  left: 1074.43px;
+  top: 592.34px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine78 {
+  width: 19.07px;
+  height: 0;
+  left: 1281.34px;
+  top: 593.53px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine79 {
+  width: 19.07px;
+  height: 0;
+  left: 1645.05px;
+  top: 593.53px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine80 {
+  width: 20.26px;
+  height: 0;
+  left: 1474.12px;
+  top: 594.72px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSElda {
+  width: 46.27px;
+  height: 20.26px;
+  left: 1053.86px;
+  top: 648.35px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEldb {
+  width: 43.7px;
+  height: 19.07px;
+  left: 1260.78px;
+  top: 647.16px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEldc {
+  width: 46.27px;
+  height: 20.26px;
+  left: 1454.84px;
+  top: 651.93px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEldd {
+  width: 43.7px;
+  height: 20.26px;
+  left: 1634.77px;
+  top: 650.74px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSRectangle43 {
+  width: 82.25px;
+  height: 32.18px;
+  left: 479.38px;
+  top: 610.21px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSRectangle44 {
+  width: 80.97px;
+  height: 32.18px;
+  left: 616.9px;
+  top: 610.21px;
+  position: absolute;
+  background: #fdfafa;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.IPSLine81 {
+  width: 20.26px;
+  height: 0;
+  left: 520.51px;
+  top: 589.95px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.IPSLine82 {
+  width: 19.07px;
+  height: 0;
+  left: 660.59px;
+  top: 593.53px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.IPSElde {
+  width: 43.7px;
+  height: 19.07px;
+  left: 502.51px;
+  top: 647.16px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSEldf {
+  width: 44.98px;
+  height: 19.07px;
+  left: 640.03px;
+  top: 647.16px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSVDca,
+.IPSVDcb,
+.IPSVDcc,
+.IPSVDcd,
+.IPSVAce {
+  width: 98.96px;
+  height: 20.26px;
+  position: absolute;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSVDca {
+  left: 804.53px;
+  top: 468.39px;
+  color: #f81010;
+}
+
+.IPSVDcb {
+  left: 89.96px;
+  top: 288.42px;
+  color: #f81010;
+}
+
+.IPSVDcc {
+  left: 498.66px;
+  top: 289.61px;
+  color: #f81010;
+}
+
+.IPSVDcd {
+  left: 836.66px;
+  top: 289.61px;
+  color: #f81010;
+}
+
+.IPSVAce {
+  left: 1407.29px;
+  top: 287.23px;
+  color: #f81010;
+}
+
+.IPSLoadCurrent183024934 {
+  width: 90.22px;
+  height: auto; /* Change height to auto to accommodate multiple lines */
+  left: 467.81px;
+  top: 140.64px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+}
+
+.IPSLoadCurrent183024934 span {
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSLoadCurrent183024934 span:nth-child(2) {
+  color: rgba(7.65, 92.61, 36.54, 0.91); /* Green color */
+}
+
+.IPSVolta,
+.IPSVoltb,
+.IPSVoltc {
+  width: 51.41px;
+  height: 20.26px;
+  left: 217.2px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IPSVolta {
+  top: 9.53px;
+}
+
+.IPSVoltb {
+  top: 87px;
+}
+
+.IPSVoltc {
+  top: 170.43px;
+}
+@media (max-width: 768px) {
+  /* .IPSFrame1 {
+    display: flex;
+    flex-direction: row;
+    transform: rotate(90deg);
+    transform-origin: top right;
+    width: 100vh;
+    height: 100vw;
+    overflow-x: auto;
+    overflow-y: auto;
+    position: absolute;
+    top: calc(100vh - 100%);
+    left: -100vw;
+    padding: 10px;
+  }
+  .IPSFrame1 > .nested-div {
+    transform: rotate(90deg);
+    transform-origin: top left;
+  } */
+}
+

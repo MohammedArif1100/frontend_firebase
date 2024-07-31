@@ -1,0 +1,4050 @@
+.PMparent-div {
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.PMFrame1 {
+  width: 1160px;
+  /* height: 684px; */
+  height: 601px;
+  position: relative;
+  background: white;
+}
+
+.PMRectangle1 {
+  width: 217px;
+  height: 550px;
+  left: 116px;
+  top: 63px;
+  position: absolute;
+  /* background: rgb(201, 255, 168); */
+  background-color: rgb(198, 217, 187);
+}
+
+.PMRectangle2 {
+  width: 313px;
+  height: 550px;
+  left: 333px;
+  top: 63px;
+  position: absolute;
+  /* background: rgb(177, 176, 255); */
+  background-color: rgb(219, 219, 236);
+}
+
+.PMRectangle3 {
+  width: 378px;
+  height: 550px;
+  left: 646px;
+  top: 63px;
+  position: absolute;
+  /* background: rgb(252, 204, 250); */
+  background-color: rgb(188, 189, 236);
+}
+
+.PMRectangle4 {
+  width: 127px;
+  height: 179px;
+  left: 179px;
+  top: 121px;
+  position: absolute;
+  background: rgb(201, 255, 168);
+  border-radius: 19px;
+  border: 1px solid black;
+}
+
+.PMEiBits {
+  width: 168px;
+  height: 30px;
+  left: 156px;
+  top: 77px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 700;
+  overflow-wrap: break-word;
+}
+
+.PMRelayRoomDlBits {
+  width: 284px;
+  height: 30px;
+  left: 341px;
+  top: 77px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 700;
+  overflow-wrap: break-word;
+}
+
+.PMPoint50 {
+  width: 122px;
+  height: 30px;
+  left: 585px;
+  top: 77px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 700;
+  overflow-wrap: break-word;
+}
+
+.PMLocationBox7 {
+  width: 228px;
+  height: 33px;
+  left: 761px;
+  top: 76px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 700;
+  overflow-wrap: break-word;
+}
+
+.PMLine1 {
+  width: 345px;
+  height: 0px;
+  left: 610px;
+  top: 155px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine2 {
+  width: 33.5px;
+  height: 0px;
+  left: 955px;
+  top: 154px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine3 {
+  width: 85px;
+  height: 0px;
+  left: 515px;
+  top: 155px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine4 {
+  width: 58.01px;
+  height: 0px;
+  left: 448px;
+  top: 154px;
+  position: absolute;
+  transform: rotate(0.99deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine5 {
+  width: 59px;
+  height: 0px;
+  left: 379px;
+  top: 154px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine6 {
+  width: 8px;
+  height: 0px;
+  left: 372px;
+  top: 150px;
+  position: absolute;
+  transform: rotate(32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine7 {
+  width: 8px;
+  height: 0px;
+  left: 371.5px;
+  top: 158px;
+  position: absolute;
+  transform: rotate(-32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine8 {
+  width: 6px;
+  height: 0px;
+  left: 435px;
+  top: 150px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine9 {
+  width: 8px;
+  height: 0px;
+  left: 507px;
+  top: 155px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine10 {
+  width: 6px;
+  height: 0px;
+  left: 596px;
+  top: 150px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine11 {
+  width: 6px;
+  height: 0px;
+  left: 746px;
+  top: 149px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine12 {
+  width: 6px;
+  height: 0px;
+  left: 778px;
+  top: 150px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine13 {
+  width: 6px;
+  height: 0px;
+  left: 871px;
+  top: 156px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine14 {
+  width: 6px;
+  height: 0px;
+  left: 869px;
+  top: 160.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine15 {
+  width: 6px;
+  height: 0px;
+  left: 782px;
+  top: 154.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine16 {
+  width: 6px;
+  height: 0px;
+  left: 750px;
+  top: 153.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine17 {
+  width: 6px;
+  height: 0px;
+  left: 600px;
+  top: 154.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine18 {
+  width: 6px;
+  height: 0px;
+  left: 437px;
+  top: 154.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine19 {
+  width: 6px;
+  height: 0px;
+  left: 502px;
+  top: 162px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine20 {
+  width: 15px;
+  height: 0px;
+  left: 441px;
+  top: 141.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine21 {
+  width: 15px;
+  height: 0px;
+  left: 508px;
+  top: 142.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine22 {
+  width: 15px;
+  height: 0px;
+  left: 603px;
+  top: 142.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine23 {
+  width: 96px;
+  height: 0px;
+  left: 346px;
+  top: 172px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine24 {
+  width: 14px;
+  height: 0px;
+  left: 442px;
+  top: 158px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine25 {
+  width: 53px;
+  height: 0px;
+  left: 293px;
+  top: 159px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine26 {
+  width: 14px;
+  height: 0px;
+  left: 347px;
+  top: 159px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine27 {
+  width: 11px;
+  height: 0px;
+  left: 505px;
+  top: 158px;
+  position: absolute;
+  transform: rotate(163.3deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine28 {
+  width: 74px;
+  height: 0px;
+  left: 495px;
+  top: 160px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine29 {
+  width: 107px;
+  height: 0px;
+  left: 495px;
+  top: 232px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine30 {
+  width: 345px;
+  height: 0px;
+  left: 610px;
+  top: 232px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine31 {
+  width: 90px;
+  height: 0px;
+  left: 522px;
+  top: 187px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine32 {
+  width: 433px;
+  height: 0px;
+  left: 522px;
+  top: 277px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine33 {
+  width: 45px;
+  height: 0px;
+  left: 955px;
+  top: 277px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine34 {
+  width: 204px;
+  height: 0px;
+  left: 713px;
+  top: 319px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine35 {
+  width: 100px;
+  height: 0px;
+  left: 712.99px;
+  top: 366.01px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMRectangle5 {
+  width: 345px;
+  height: 122px;
+  left: 653px;
+  top: 396px;
+  position: absolute;
+  background: rgb(252, 204, 250);
+  border-radius: 11px;
+  border: 1px solid black;
+}
+
+.PMRectangle7 {
+  width: 255px;
+  height: 145px;
+  left: 347px;
+  top: 439px;
+  position: absolute;
+  background: white;
+  border-radius: 12px;
+}
+
+.PMLine36 {
+  width: 6px;
+  height: 0px;
+  left: 602px;
+  top: 231.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine37 {
+  width: 6px;
+  height: 0px;
+  left: 598px;
+  top: 227px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine38 {
+  width: 15px;
+  height: 0px;
+  left: 604.42px;
+  top: 218.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine39 {
+  width: 26.02px;
+  height: 0px;
+  left: 734.5px;
+  top: 146.01px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine40 {
+  width: 18.36px;
+  height: 0px;
+  left: 734px;
+  top: 146px;
+  position: absolute;
+  transform: rotate(29.36deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine41 {
+  width: 30px;
+  height: 0px;
+  left: 734px;
+  top: 121px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine42 {
+  width: 32px;
+  height: 0px;
+  left: 772px;
+  top: 121px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine43 {
+  width: 29px;
+  height: 0px;
+  left: 804px;
+  top: 120px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine44 {
+  width: 8.49px;
+  height: 0px;
+  left: 804px;
+  top: 148px;
+  position: absolute;
+  transform: rotate(135deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine45 {
+  width: 6px;
+  height: 0px;
+  left: 760px;
+  top: 116px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine47 {
+  width: 6px;
+  height: 0px;
+  left: 764px;
+  top: 120.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine48 {
+  width: 15px;
+  height: 0px;
+  left: 766.42px;
+  top: 107.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine49 {
+  width: 6px;
+  height: 0px;
+  left: 748px;
+  top: 226px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine50 {
+  width: 6px;
+  height: 0px;
+  left: 778px;
+  top: 226px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine51 {
+  width: 6px;
+  height: 0px;
+  left: 760px;
+  top: 201px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine52 {
+  width: 6px;
+  height: 0px;
+  left: 752px;
+  top: 230.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine53 {
+  width: 6px;
+  height: 0px;
+  left: 782px;
+  top: 230.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine54 {
+  width: 6px;
+  height: 0px;
+  left: 764px;
+  top: 205.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine55 {
+  width: 18.36px;
+  height: 0px;
+  left: 734px;
+  top: 222px;
+  position: absolute;
+  transform: rotate(29.36deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine56 {
+  width: 17.02px;
+  height: 0px;
+  left: 734.5px;
+  top: 222.01px;
+  position: absolute;
+  transform: rotate(-91.68deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine57 {
+  width: 30px;
+  height: 0px;
+  left: 734px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine58 {
+  width: 8.49px;
+  height: 0px;
+  left: 804px;
+  top: 225px;
+  position: absolute;
+  transform: rotate(135deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine59 {
+  width: 21px;
+  height: 0px;
+  left: 804px;
+  top: 205px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine60 {
+  width: 32px;
+  height: 0px;
+  left: 772px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine61 {
+  width: 15px;
+  height: 0px;
+  left: 765.42px;
+  top: 192.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine62 {
+  width: 6px;
+  height: 0px;
+  left: 872px;
+  top: 232px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine63 {
+  width: 6px;
+  height: 0px;
+  left: 869px;
+  top: 237.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine64 {
+  width: 6px;
+  height: 0px;
+  left: 541px;
+  top: 236.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine65 {
+  width: 6px;
+  height: 0px;
+  left: 543px;
+  top: 232px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMEllipse1 {
+  width: 5px;
+  height: 5px;
+  left: 553px;
+  top: 229px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse2 {
+  width: 5px;
+  height: 5px;
+  left: 880px;
+  top: 152px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse3 {
+  width: 5px;
+  height: 5px;
+  left: 884px;
+  top: 229px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse4 {
+  width: 5px;
+  height: 5px;
+  left: 757px;
+  top: 229px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMLine66 {
+  width: 18px;
+  height: 0px;
+  left: 678.5px;
+  top: 319px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine67 {
+  width: 18px;
+  height: 0px;
+  left: 680px;
+  top: 367px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine68 {
+  width: 12px;
+  height: 0px;
+  left: 664px;
+  top: 307px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine69 {
+  width: 12px;
+  height: 0px;
+  left: 679px;
+  top: 307px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine70 {
+  width: 12px;
+  height: 0px;
+  left: 697px;
+  top: 307px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine71 {
+  width: 12px;
+  height: 0px;
+  left: 713px;
+  top: 308px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine72 {
+  width: 12px;
+  height: 0px;
+  left: 663px;
+  top: 355px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine73 {
+  width: 12px;
+  height: 0px;
+  left: 680px;
+  top: 356px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine74 {
+  width: 12px;
+  height: 0px;
+  left: 698px;
+  top: 355px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine75 {
+  width: 12px;
+  height: 0px;
+  left: 713px;
+  top: 355px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine76 {
+  width: 12px;
+  height: 0px;
+  left: 665px;
+  top: 305px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine77 {
+  width: 12px;
+  height: 0px;
+  left: 698.5px;
+  top: 305px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine78 {
+  width: 12px;
+  height: 0px;
+  left: 666px;
+  top: 353px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine79 {
+  width: 12px;
+  height: 0px;
+  left: 700px;
+  top: 353px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine80 {
+  width: 6px;
+  height: 0px;
+  left: 731px;
+  top: 323.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine81 {
+  width: 6px;
+  height: 0px;
+  left: 762px;
+  top: 323.99px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine82 {
+  width: 6px;
+  height: 0px;
+  left: 791px;
+  top: 323.99px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine83 {
+  width: 6px;
+  height: 0px;
+  left: 861px;
+  top: 323.99px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine84 {
+  width: 6px;
+  height: 0px;
+  left: 733px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine85 {
+  width: 6px;
+  height: 0px;
+  left: 764px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine86 {
+  width: 6px;
+  height: 0px;
+  left: 794px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine87 {
+  width: 6px;
+  height: 0px;
+  left: 863px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine88 {
+  width: 6px;
+  height: 0px;
+  left: 738px;
+  top: 367px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine89 {
+  width: 6px;
+  height: 0px;
+  left: 776px;
+  top: 367px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine90 {
+  width: 6px;
+  height: 0px;
+  left: 812px;
+  top: 367px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine91 {
+  width: 6px;
+  height: 0px;
+  left: 736px;
+  top: 371.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine92 {
+  width: 6px;
+  height: 0px;
+  left: 775px;
+  top: 371.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine93 {
+  width: 6px;
+  height: 0px;
+  left: 810px;
+  top: 371.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine94 {
+  width: 47px;
+  height: 0px;
+  left: 848px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine95 {
+  width: 22px;
+  height: 0px;
+  left: 826px;
+  top: 365.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine96 {
+  width: 15px;
+  height: 0px;
+  left: 816.42px;
+  top: 352.72px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMEllipse5 {
+  width: 5px;
+  height: 5px;
+  left: 743px;
+  top: 316px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse6 {
+  width: 5px;
+  height: 5px;
+  left: 777px;
+  top: 316px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse7 {
+  width: 5px;
+  height: 5px;
+  left: 807px;
+  top: 316px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse8 {
+  width: 5px;
+  height: 5px;
+  left: 873px;
+  top: 316px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse9 {
+  width: 5px;
+  height: 5px;
+  left: 748px;
+  top: 363px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse10 {
+  width: 5px;
+  height: 5px;
+  left: 791px;
+  top: 363px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMLine97 {
+  width: 8px;
+  height: 0px;
+  left: 917px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(-32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine98 {
+  width: 8px;
+  height: 0px;
+  left: 917px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine99 {
+  width: 60px;
+  height: 0px;
+  left: 294px;
+  top: 143px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine100 {
+  width: 18px;
+  height: 0px;
+  left: 353px;
+  top: 144px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine101 {
+  width: 258px;
+  height: 0px;
+  left: 353px;
+  top: 125px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine102 {
+  width: 30.07px;
+  height: 0px;
+  left: 611px;
+  top: 155.03px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine103 {
+  width: 15px;
+  height: 0px;
+  left: 607px;
+  top: 234px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine104 {
+  width: 274px;
+  height: 0px;
+  left: 608px;
+  top: 249px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine105 {
+  width: 39px;
+  height: 0px;
+  left: 294px;
+  top: 175px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine106 {
+  width: 74px;
+  height: 0px;
+  left: 334px;
+  top: 175px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine107 {
+  width: 6px;
+  height: 0px;
+  left: 506px;
+  top: 324.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine108 {
+  width: 6px;
+  height: 0px;
+  left: 509px;
+  top: 320px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine109 {
+  width: 6px;
+  height: 0px;
+  left: 428px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine110 {
+  width: 6px;
+  height: 0px;
+  left: 425px;
+  top: 324.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine111 {
+  width: 6px;
+  height: 0px;
+  left: 428px;
+  top: 372.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine112 {
+  width: 6px;
+  height: 0px;
+  left: 506px;
+  top: 372.99px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine113 {
+  width: 6px;
+  height: 0px;
+  left: 432px;
+  top: 368px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine114 {
+  width: 6px;
+  height: 0px;
+  left: 509px;
+  top: 368px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMEllipse11 {
+  width: 5px;
+  height: 5px;
+  left: 441px;
+  top: 317px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse12 {
+  width: 5px;
+  height: 5px;
+  left: 524px;
+  top: 317px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse13 {
+  width: 5px;
+  height: 5px;
+  left: 441px;
+  top: 365px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse14 {
+  width: 5px;
+  height: 5px;
+  left: 524px;
+  top: 365px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMLine115 {
+  width: 57.01px;
+  height: 0px;
+  left: 509.5px;
+  top: 320px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine116 {
+  width: 184px;
+  height: 0px;
+  left: 508px;
+  top: 263px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine117 {
+  width: 14px;
+  height: 0px;
+  left: 324px;
+  top: 249px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine118 {
+  width: 28px;
+  height: 0px;
+  left: 296px;
+  top: 250px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine119 {
+  width: 47px;
+  height: 0px;
+  left: 526px;
+  top: 369px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine120 {
+  width: 202px;
+  height: 0px;
+  left: 324px;
+  top: 416px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine121 {
+  width: 145px;
+  height: 0px;
+  left: 324.51px;
+  top: 416px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMLine122 {
+  width: 29px;
+  height: 0px;
+  left: 295px;
+  top: 272px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.38);
+}
+
+.PMRectangle8 {
+  width: 42px;
+  height: 13px;
+  left: 909px;
+  top: 155px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+}
+
+.PMRectangle9 {
+  width: 42px;
+  height: 13px;
+  left: 909px;
+  top: 232px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+}
+
+.PMRectangle10 {
+  width: 42px;
+  height: 13px;
+  left: 372px;
+  top: 319px;
+  position: absolute;
+  background: rgb(29, 109, 42);
+}
+
+.PMRectangle11 {
+  width: 42px;
+  height: 13px;
+  left: 372px;
+  top: 367px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+}
+
+.PMLine123 {
+  width: 3.16px;
+  height: 0px;
+  left: 262.92px;
+  top: 134.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine124 {
+  width: 3.16px;
+  height: 0px;
+  left: 267.92px;
+  top: 134.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine125 {
+  width: 3.16px;
+  height: 0px;
+  left: 272.92px;
+  top: 134.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine126 {
+  width: 3.16px;
+  height: 0px;
+  left: 277.92px;
+  top: 134.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine127 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 152px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine128 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 152px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine129 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 152px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine130 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 152px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine131 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 170px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine133 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 170px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine134 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 170px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine135 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 189px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine136 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 189px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine137 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 189px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine138 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 189px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine139 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine140 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine141 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine142 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 206px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine143 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 244px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine144 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 244px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine145 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 244px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine146 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 244px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine147 {
+  width: 3.16px;
+  height: 0px;
+  left: 263px;
+  top: 226px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine148 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 226px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine149 {
+  width: 3.16px;
+  height: 0px;
+  left: 273px;
+  top: 226px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine150 {
+  width: 3.16px;
+  height: 0px;
+  left: 278px;
+  top: 226px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine151 {
+  width: 3.16px;
+  height: 0px;
+  left: 268px;
+  top: 170px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine152 {
+  width: 2px;
+  height: 0px;
+  left: 263px;
+  top: 263px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine153 {
+  width: 2px;
+  height: 0px;
+  left: 271px;
+  top: 263px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine154 {
+  width: 2px;
+  height: 0px;
+  left: 267px;
+  top: 263px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine155 {
+  width: 2px;
+  height: 0px;
+  left: 275px;
+  top: 263px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine156 {
+  width: 2px;
+  height: 0px;
+  left: 263px;
+  top: 282px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine157 {
+  width: 2px;
+  height: 0px;
+  left: 267px;
+  top: 282px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine158 {
+  width: 2px;
+  height: 0px;
+  left: 271px;
+  top: 282px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine159 {
+  width: 2px;
+  height: 0px;
+  left: 275px;
+  top: 282px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine160 {
+  width: 3.16px;
+  height: 0px;
+  left: 336.92px;
+  top: 357.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine161 {
+  width: 3.16px;
+  height: 0px;
+  left: 34292px;
+  top: 357.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine163 {
+  width: 3.16px;
+  height: 0px;
+  left: 354.92px;
+  top: 357.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine164 {
+  width: 3.16px;
+  height: 0px;
+  left: 348.92px;
+  top: 357.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine165 {
+  width: 3.16px;
+  height: 0px;
+  left: 337px;
+  top: 394px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine166 {
+  width: 3.16px;
+  height: 0px;
+  left: 343px;
+  top: 394px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine167 {
+  width: 3.16px;
+  height: 0px;
+  left: 349px;
+  top: 394px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine168 {
+  width: 3.16px;
+  height: 0px;
+  left: 355px;
+  top: 394px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine169 {
+  width: 3.16px;
+  height: 0px;
+  left: 899.92px;
+  top: 173.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine171 {
+  width: 3.16px;
+  height: 0px;
+  left: 911.92px;
+  top: 173.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine172 {
+  width: 3.16px;
+  height: 0px;
+  left: 917.92px;
+  top: 173.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine173 {
+  width: 3.16px;
+  height: 0px;
+  left: 905.92px;
+  top: 173.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine174 {
+  width: 3.16px;
+  height: 0px;
+  left: 899.92px;
+  top: 250.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine175 {
+  width: 3.16px;
+  height: 0px;
+  left: 905.92px;
+  top: 250.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine176 {
+  width: 3.16px;
+  height: 0px;
+  left: 911.92px;
+  top: 250.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine177 {
+  width: 3.16px;
+  height: 0px;
+  left: 917.92px;
+  top: 250.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMRectangle12 {
+  width: 39px;
+  height: 17px;
+  left: 664px;
+  top: 406px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle13 {
+  width: 39px;
+  height: 17px;
+  left: 664px;
+  top: 427px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle14 {
+  width: 39px;
+  height: 17px;
+  left: 769px;
+  top: 406px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle15 {
+  width: 39px;
+  height: 17px;
+  left: 769px;
+  top: 427px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle16 {
+  width: 39px;
+  height: 17px;
+  left: 873px;
+  top: 406px;
+  position: absolute;
+  background: rgb(29, 109, 42);
+  border-radius: 3px;
+}
+
+.PMRectangle17 {
+  width: 39px;
+  height: 17px;
+  left: 873px;
+  top: 427px;
+  position: absolute;
+  background: rgb(29, 109, 42);
+  border-radius: 3px;
+}
+
+.PMRectangle18 {
+  width: 39px;
+  height: 17px;
+  left: 706px;
+  top: 450px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle19 {
+  width: 44px;
+  height: 17px;
+  left: 704px;
+  top: 471px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle20 {
+  width: 39px;
+  height: 17px;
+  left: 811px;
+  top: 450px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMRectangle21 {
+  width: 44px;
+  height: 17px;
+  left: 809px;
+  top: 471px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+  border-radius: 3px;
+}
+
+.PMWcrB {
+  width: 45px;
+  height: 18px;
+  left: 812px;
+  top: 471px;
+  position: absolute;
+  color: white;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 700;
+  overflow-wrap: break-word;
+}
+
+.PMLine178 {
+  width: 3.16px;
+  height: 0px;
+  left: 709.92px;
+  top: 415.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine179 {
+  width: 3.16px;
+  height: 0px;
+  left: 721.92px;
+  top: 415.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine180 {
+  width: 3.16px;
+  height: 0px;
+  left: 727.92px;
+  top: 415.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine181 {
+  width: 3.16px;
+  height: 0px;
+  left: 715.92px;
+  top: 415.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine182 {
+  width: 3.16px;
+  height: 0px;
+  left: 709.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine183 {
+  width: 3.16px;
+  height: 0px;
+  left: 721.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine184 {
+  width: 3.16px;
+  height: 0px;
+  left: 727.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine185 {
+  width: 3.16px;
+  height: 0px;
+  left: 715.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine186 {
+  width: 3.16px;
+  height: 0px;
+  left: 749.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine187 {
+  width: 3.16px;
+  height: 0px;
+  left: 761.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine188 {
+  width: 3.16px;
+  height: 0px;
+  left: 767.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine189 {
+  width: 3.16px;
+  height: 0px;
+  left: 755.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine190 {
+  width: 3.16px;
+  height: 0px;
+  left: 751.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine191 {
+  width: 3.16px;
+  height: 0px;
+  left: 763.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine192 {
+  width: 3.16px;
+  height: 0px;
+  left: 769.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine193 {
+  width: 3.16px;
+  height: 0px;
+  left: 757.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine194 {
+  width: 3.16px;
+  height: 0px;
+  left: 813.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine195 {
+  width: 3.16px;
+  height: 0px;
+  left: 825.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine196 {
+  width: 3.16px;
+  height: 0px;
+  left: 831.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine197 {
+  width: 3.16px;
+  height: 0px;
+  left: 819.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine198 {
+  width: 3.16px;
+  height: 0px;
+  left: 813.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine199 {
+  width: 3.16px;
+  height: 0px;
+  left: 825.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine200 {
+  width: 3.16px;
+  height: 0px;
+  left: 831.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine201 {
+  width: 3.16px;
+  height: 0px;
+  left: 819.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine202 {
+  width: 3.16px;
+  height: 0px;
+  left: 855.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine203 {
+  width: 3.16px;
+  height: 0px;
+  left: 867.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine204 {
+  width: 3.16px;
+  height: 0px;
+  left: 873.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine205 {
+  width: 3.16px;
+  height: 0px;
+  left: 861.92px;
+  top: 458.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine206 {
+  width: 3.16px;
+  height: 0px;
+  left: 857.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine207 {
+  width: 3.16px;
+  height: 0px;
+  left: 869.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine208 {
+  width: 3.16px;
+  height: 0px;
+  left: 875.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine209 {
+  width: 3.16px;
+  height: 0px;
+  left: 863.92px;
+  top: 479.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine210 {
+  width: 3.16px;
+  height: 0px;
+  left: 916.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine211 {
+  width: 3.16px;
+  height: 0px;
+  left: 928.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine212 {
+  width: 3.16px;
+  height: 0px;
+  left: 934.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine213 {
+  width: 3.16px;
+  height: 0px;
+  left: 922.92px;
+  top: 414.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine214 {
+  width: 3.16px;
+  height: 0px;
+  left: 916.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine215 {
+  width: 3.16px;
+  height: 0px;
+  left: 928.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine216 {
+  width: 3.16px;
+  height: 0px;
+  left: 934.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine217 {
+  width: 3.16px;
+  height: 0px;
+  left: 922.92px;
+  top: 435.5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMRectangle22 {
+  width: 78px;
+  height: 21px;
+  left: 742px;
+  top: 492px;
+  position: absolute;
+  background: rgb(146, 254, 215);
+  border-radius: 3px;
+}
+
+.PMRectangle23 {
+  width: 84px;
+  height: 21px;
+  left: 910px;
+  top: 491px;
+  position: absolute;
+  background: rgb(146, 254, 215);
+  border-radius: 3px;
+}
+
+.PMRectangle24 {
+  width: 286px;
+  height: 84px;
+  left: 653px;
+  top: 523px;
+  position: absolute;
+  background: rgb(252, 204, 250);
+  border-radius: 9px;
+  border: 1px solid black;
+}
+
+.PMLine218 {
+  width: 84px;
+  height: 0px;
+  left: 715px;
+  top: 523px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine219 {
+  width: 84px;
+  height: 0px;
+  left: 770px;
+  top: 523px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine220 {
+  width: 84px;
+  height: 0px;
+  left: 827px;
+  top: 523px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine221 {
+  width: 84px;
+  height: 0px;
+  left: 884px;
+  top: 523px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine222 {
+  width: 285.01px;
+  height: 0px;
+  left: 653px;
+  top: 542.99px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine223 {
+  width: 285.01px;
+  height: 0px;
+  left: 654px;
+  top: 574.99px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMNoteFieldCircuitAreShownInSignalCutti {
+  width: 241px;
+  height: 18px;
+  left: 357px;
+  top: 448px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMLine224 {
+  width: 17px;
+  height: 0px;
+  left: 372px;
+  top: 485px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine225 {
+  width: 17px;
+  height: 0px;
+  left: 372px;
+  top: 501px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.PMLine226 {
+  width: 6px;
+  height: 0px;
+  left: 378px;
+  top: 505.99px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine227 {
+  width: 6px;
+  height: 0px;
+  left: 381px;
+  top: 501px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine228 {
+  width: 6px;
+  height: 0px;
+  left: 381px;
+  top: 484.66px;
+  position: absolute;
+  transform: rotate(-56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine229 {
+  width: 6px;
+  height: 0px;
+  left: 377px;
+  top: 480px;
+  position: absolute;
+  transform: rotate(56.31deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMRectangle25 {
+  width: 11px;
+  height: 10px;
+  left: 498px;
+  top: 477px;
+  position: absolute;
+  background: rgb(29, 109, 42);
+}
+
+.PMRectangle26 {
+  width: 11px;
+  height: 10px;
+  left: 498px;
+  top: 498px;
+  position: absolute;
+  background: rgb(159, 77, 77);
+}
+
+.PMPointMachine {
+  width: 92px;
+  height: 13px;
+  left: 654px;
+  top: 527px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMANormal {
+  width: 52px;
+  height: 13px;
+  left: 717px;
+  top: 527px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMAReverse {
+  width: 52px;
+  height: 13px;
+  left: 772px;
+  top: 527px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMBNormal {
+  width: 52px;
+  height: 13px;
+  left: 830px;
+  top: 527px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMBReverse {
+  width: 52px;
+  height: 13px;
+  left: 884px;
+  top: 527px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+
+.PMLine230 {
+  width: 584px;
+  height: 0px;
+  left: 955px;
+  top: 187px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine231 {
+  width: 8px;
+  height: 0px;
+  left: 371px;
+  top: 185px;
+  position: absolute;
+  transform: rotate(-32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine232 {
+  width: 8px;
+  height: 0px;
+  left: 371px;
+  top: 185px;
+  position: absolute;
+  transform: rotate(32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine233 {
+  width: 304px;
+  height: 0px;
+  left: 664px;
+  top: 319.78px;
+  position: absolute;
+  transform: rotate(-180deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine234 {
+  width: 8px;
+  height: 0px;
+  left: 361px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine235 {
+  width: 8px;
+  height: 0px;
+  left: 361px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine236 {
+  width: 304px;
+  height: 0px;
+  left: 663px;
+  top: 367.78px;
+  position: absolute;
+  transform: rotate(-180deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine237 {
+  width: 8px;
+  height: 0px;
+  left: 360px;
+  top: 366px;
+  position: absolute;
+  transform: rotate(-32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMLine238 {
+  width: 8px;
+  height: 0px;
+  left: 361px;
+  top: 366px;
+  position: absolute;
+  transform: rotate(32.01deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid black;
+}
+
+.PMEllipse15 {
+  width: 5px;
+  height: 5px;
+  left: 772px;
+  top: 118px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse16 {
+  width: 5px;
+  height: 5px;
+  left: 771px;
+  top: 203px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse17 {
+  width: 5px;
+  height: 5px;
+  left: 610px;
+  top: 229px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse18 {
+  width: 5px;
+  height: 5px;
+  left: 608px;
+  top: 153px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse19 {
+  width: 5px;
+  height: 5px;
+  left: 513px;
+  top: 153px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse20 {
+  width: 5px;
+  height: 5px;
+  left: 445px;
+  top: 152px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMEllipse21 {
+  width: 5px;
+  height: 5px;
+  left: 822px;
+  top: 363px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.PMLine239 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 138px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine240 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 130px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine241 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 135px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine242 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 157px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine243 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 148px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine244 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 153px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine245 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 175px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine246 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 166px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine247 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 172px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine248 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 212px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine249 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 204px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine250 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 210px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine251 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 250px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine252 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 242px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine253 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 248px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine254 {
+  width: 15px;
+  height: 0px;
+  left: 242.5px;
+  top: 288px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine255 {
+  width: 8px;
+  height: 0px;
+  left: 240px;
+  top: 281px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine256 {
+  width: 8px;
+  height: 0px;
+  left: 243px;
+  top: 286px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine257 {
+  width: 15px;
+  height: 0px;
+  left: 246.5px;
+  top: 254px;
+  position: absolute;
+  transform: rotate(90.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine258 {
+  width: 8px;
+  height: 0px;
+  left: 250px;
+  top: 262.66px;
+  position: absolute;
+  transform: rotate(-134.98deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine259 {
+  width: 8px;
+  height: 0px;
+  left: 244px;
+  top: 257px;
+  position: absolute;
+  transform: rotate(135.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine260 {
+  width: 15px;
+  height: 0px;
+  left: 246.5px;
+  top: 216px;
+  position: absolute;
+  transform: rotate(90.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine261 {
+  width: 8px;
+  height: 0px;
+  left: 250px;
+  top: 225.66px;
+  position: absolute;
+  transform: rotate(-134.98deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine262 {
+  width: 8px;
+  height: 0px;
+  left: 244px;
+  top: 220px;
+  position: absolute;
+  transform: rotate(135.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine263 {
+  width: 15px;
+  height: 0px;
+  left: 246.5px;
+  top: 179px;
+  position: absolute;
+  transform: rotate(90.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine264 {
+  width: 8px;
+  height: 0px;
+  left: 250px;
+  top: 189px;
+  position: absolute;
+  transform: rotate(-134.98deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine265 {
+  width: 8px;
+  height: 0px;
+  left: 244px;
+  top: 184px;
+  position: absolute;
+  transform: rotate(135.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine266 {
+  width: 15px;
+  height: 0px;
+  left: 405.66px;
+  top: 515px;
+  position: absolute;
+  transform: rotate(90.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine267 {
+  width: 8px;
+  height: 0px;
+  left: 410px;
+  top: 524.66px;
+  position: absolute;
+  transform: rotate(-134.98deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine268 {
+  width: 8px;
+  height: 0px;
+  left: 403px;
+  top: 519px;
+  position: absolute;
+  transform: rotate(135.02deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(45, 249, 12);
+}
+
+.PMLine269 {
+  width: 15px;
+  height: 0px;
+  left: 402px;
+  top: 549px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine270 {
+  width: 8px;
+  height: 0px;
+  left: 398px;
+  top: 540px;
+  position: absolute;
+  transform: rotate(45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+.PMLine271 {
+  width: 8px;
+  height: 0px;
+  left: 404px;
+  top: 546px;
+  position: absolute;
+  transform: rotate(-45deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid rgb(249, 12, 12);
+}
+
+/* As of now the rotation for dashbord is not needed they will scroll to view */
+/* @media (max-width: 768px) {
+  .PMparent-div {
+    display: flex;
+    flex-direction: row;
+    transform: rotate(90deg);
+    transform-origin: top right;
+    width: 112vh;
+    overflow-y: auto;
+    overflow-x: auto;
+    position: absolute;
+    top: calc(119.02vh);
+    left: -337px;
+  }
+  .nested-div {
+    transform: rotate(90deg);
+    transform-origin: top left;
+  }
+} */
+
+/* As of now the rotation for dashbord is not needed they will scroll to view */
+
+.common-style {
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Wnr {
+  width: 35px;
+  height: 18px;
+  left: 190px;
+  top: 125px;
+}
+
+.Wcr {
+  width: 35px;
+  height: 18px;
+  left: 190px;
+  top: 143px;
+}
+
+.Wrr {
+  width: 35px;
+  height: 18px;
+  left: 190px;
+  top: 160px;
+}
+
+.Nwkpr {
+  width: 50px;
+  height: 18px;
+  left: 190px;
+  top: 197px;
+}
+
+.Nwkpr_1 {
+  width: 50px;
+  height: 18px;
+  left: 190px;
+  top: 179px;
+}
+
+.Rwkr {
+  width: 45px;
+  height: 18px;
+  left: 190px;
+  top: 254px;
+}
+
+.Kwksr {
+  width: 50px;
+  height: 18px;
+  left: 190px;
+  top: 236px;
+}
+
+.Nwkpr_2 {
+  width: 45px;
+  height: 18px;
+  left: 190px;
+  top: 216px;
+}
+
+.Nwkr {
+  width: 45px;
+  height: 18px;
+  left: 190px;
+  top: 273px;
+}
+
+.Wcr_1 {
+  width: 35px;
+  height: 18px;
+  left: 448px;
+  top: 134px;
+}
+
+.Nwkr_1 {
+  width: 45px;
+  height: 18px;
+  left: 514px;
+  top: 134px;
+}
+
+.Wnr_1 {
+  width: 35px;
+  height: 18px;
+  left: 604px;
+  top: 154px;
+}
+
+.Wnpr {
+  width: 45px;
+  height: 18px;
+  left: 774px;
+  top: 102px;
+}
+
+.Atpr {
+  width: 35px;
+  height: 18px;
+  left: 738px;
+  top: 153px;
+}
+
+.Btpr {
+  width: 35px;
+  height: 18px;
+  left: 788px;
+  top: 152px;
+}
+
+.Wnpr_1 {
+  width: 45px;
+  height: 18px;
+  left: 870px;
+  top: 136px;
+}
+
+.Wnpr_2 {
+  width: 45px;
+  height: 18px;
+  left: 870px;
+  top: 136px;
+}
+
+.Wrpr,
+.Wrpr_1,
+.Atpr_1,
+.Btpr_1,
+.Wrr_1,
+.Rwkr_1,
+.Wnpr_3,
+.Wnpr_4 {
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Wrpr {
+  width: 45px;
+  height: 18px;
+  left: 876px;
+  top: 213px;
+}
+
+.Wrpr_1 {
+  width: 45px;
+  height: 18px;
+  left: 773px;
+  top: 188px;
+}
+
+.Atpr_1 {
+  width: 35px;
+  height: 18px;
+  left: 738px;
+  top: 231px;
+}
+
+.Btpr_1 {
+  width: 35px;
+  height: 18px;
+  left: 788px;
+  top: 230px;
+}
+
+.Wrr_1 {
+  width: 35px;
+  height: 18px;
+  left: 612px;
+  top: 214px;
+}
+
+.Rwkr_1 {
+  width: 45px;
+  height: 18px;
+  left: 535px;
+  top: 212px;
+}
+
+.Wnpr_3,
+.Wnpr_4 {
+  width: 45px;
+  height: 18px;
+  left: 914px;
+  color: white;
+}
+
+.Wnpr_3 {
+  top: 152px;
+}
+
+.Wnpr_4 {
+  top: 229px;
+}
+
+.common-style_1 {
+  width: 45px;
+  height: 18px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Nwkr_1 {
+  left: 378px;
+  top: 316px;
+  color: white;
+}
+
+.Rwkr_2 {
+  left: 377px;
+  top: 364px;
+  color: white;
+}
+
+.Wrr_2 {
+  width: 35px;
+  left: 456px;
+  top: 317px;
+}
+
+.Wnr_2 {
+  width: 35px;
+  left: 456px;
+  top: 365px;
+}
+
+.Rwkr_3 {
+  left: 522px;
+  top: 302px;
+}
+
+.Nwkr_2 {
+  left: 523px;
+  top: 349px;
+}
+
+.Nwpr {
+  left: 736px;
+  top: 347px;
+}
+
+.Wnpr_5 {
+  left: 830px;
+  top: 363px;
+}
+
+.Nwr {
+  width: 35px;
+  left: 783px;
+  top: 347px;
+}
+
+.Rwpr {
+  left: 726px;
+  top: 300px;
+}
+
+.Rwr {
+  left: 770px;
+  top: 300px;
+}
+
+.Wrpr_2 {
+  left: 814px;
+  top: 302px;
+}
+
+.NR {
+  width: 35px;
+  left: 879px;
+  top: 302px;
+}
+
+.BNd {
+  width: 35px;
+  left: 656px;
+  top: 289px;
+}
+
+.ANd {
+  width: 35px;
+  left: 692px;
+  top: 289px;
+}
+
+.BNd_1 {
+  width: 35px;
+  left: 656px;
+  top: 335px;
+}
+
+.ANd_1 {
+  width: 35px;
+  left: 692px;
+  top: 335px;
+}
+
+.Nwr_1,
+.Nwpr_1,
+.Rwr_1,
+.Rwpr_1,
+.Atpr_2,
+.Btpr_2,
+.Xr,
+.WcrA,
+.NR_1 {
+  width: 45px;
+  height: 18px;
+  position: absolute;
+  color: white;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Nwr_1 {
+  left: 671px;
+  top: 405px;
+  width: 35px;
+}
+
+.Nwpr_1 {
+  left: 668px;
+  top: 426px;
+  width: 35px;
+}
+
+.Rwr_1 {
+  left: 776px;
+  top: 405px;
+}
+
+.Rwpr_1 {
+  left: 774px;
+  top: 426px;
+}
+
+.Atpr_2 {
+  left: 878px;
+  top: 405px;
+}
+
+.Btpr_2 {
+  left: 878px;
+  top: 426px;
+}
+
+.Xr {
+  left: 717px;
+  top: 449px;
+}
+
+.WcrA {
+  left: 707px;
+  top: 471px;
+}
+
+.NR_1 {
+  left: 820px;
+  top: 450px;
+}
+
+.NwkrVoltage {
+  width: 107px;
+  height: 11px;
+  left: 656px;
+  top: 497px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.NwkrVoltage_1 {
+  width: 107px;
+  height: 11px;
+  left: 820px;
+  top: 497px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.NwkrVoltage_2 {
+  width: 36px;
+  height: 19px;
+  left: 744px;
+  top: 492px;
+  position: absolute;
+  color: #1D6D2A;
+  font-size: 12px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.V111710 {
+  width: 58px;
+  height: 18px;
+  left: 772px;
+  top: 495px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.V111710_1 {
+  width: 58px;
+  height: 18px;
+  left: 941px;
+  top: 494px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.V111710_2 {
+  width: 46px;
+  height: 19px;
+  left: 911px;
+  top: 492px;
+  position: absolute;
+  color: #9F4D4D;
+  font-size: 12px;
+  font-family: 'Inter';
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+.Current {
+  width: 50px;
+  height: 25px;
+  left: 658px;
+  top: 546px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Voltage {
+  width: 50px;
+  height: 25px;
+  left: 659px;
+  top: 578px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.FrontContact {
+  width: 87px;
+  height: 26px;
+  left: 392px;
+  top: 468px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.RelayUp {
+  width: 66px;
+  height: 17px;
+  left: 519px;
+  top: 473px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.BackContact {
+  width: 87px;
+  height: 26px;
+  left: 392px;
+  top: 489px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.RelayDown {
+  width: 87px;
+  height: 26px;
+  left: 519px;
+  top: 489px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.E1BitsDown {
+  width: 87px;
+  height: 26px;
+  left: 407px;
+  top: 531px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.E1BitsUp {
+  width: 87px;
+  height: 26px;
+  left: 420px;
+  top: 512px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue {
+  width: 46px;
+  height: 15px;
+  position: absolute;
+  color: #F90C0C;
+  font-size: 11px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_0 {
+  left: 720px;
+  top: 546px;
+}
+
+.PMValue_1 {
+  left: 776px;
+  top: 546px;
+}
+
+.PMValue_2 {
+  left: 833px;
+  top: 546px;
+}
+
+.PMValue_3 {
+  left: 720px;
+  top: 577px;
+}
+
+.PMValue_4 {
+  left: 776px;
+  top: 577px;
+}
+
+.PMValue_5 {
+  left: 891px;
+  top: 546px;
+}
+
+.PMValue_6 {
+  left: 891px;
+  top: 577px;
+}
+
+.PMValue_7 {
+  left: 833px;
+  top: 577px;
+}
+
+.PMValue_8 {
+  width: 52px;
+  height: 8px;
+  left: 720px;
+  top: 563px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_9 {
+  width: 52px;
+  height: 8px;
+  left: 776px;
+  top: 563px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_10 {
+  width: 52px;
+  height: 8px;
+  left: 833px;
+  top: 563px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_11 {
+  width: 52px;
+  height: 8px;
+  left: 891px;
+  top: 563px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_12 {
+  width: 52px;
+  height: 8px;
+  left: 720px;
+  top: 594px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_13 {
+  width: 52px;
+  height: 8px;
+  left: 776px;
+  top: 593px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_14 {
+  width: 52px;
+  height: 8px;
+  left: 833px;
+  top: 593px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PMValue_15 {
+  width: 52px;
+  height: 8px;
+  left: 891px;
+  top: 593px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: 'Inter';
+  font-weight: 400;
+  word-wrap: break-word;
+}

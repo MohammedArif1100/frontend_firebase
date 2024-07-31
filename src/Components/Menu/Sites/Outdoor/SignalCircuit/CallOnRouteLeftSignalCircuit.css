@@ -1,0 +1,5072 @@
+.CallOnRouteFrame1 {
+  width: 1165px;
+  height: 600px;
+  position: relative;
+  background: white;
+}
+
+.CallOnRouteRelayDown {
+  width: 103px;
+  height: 17px;
+  left: 1246px;
+  top: 562px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle1 {
+  width: 39px;
+  height: 211px;
+  left: 14px;
+  top: 187px;
+  position: absolute;
+  background: #090909;
+  border-radius: 10px;
+}
+
+.CallOnRouteEllipse1 {
+  width: 26px;
+  height: 42px;
+  left: 20px;
+  top: 148px;
+  position: absolute;
+  background: #090909;
+  border-radius: 9999px;
+}
+
+.CallOnRouteRectangle2 {
+  width: 20px;
+  height: 64px;
+  left: 23px;
+  top: 391px;
+  position: absolute;
+  background: #090909;
+  border-radius: 10px;
+}
+
+.CallOnRouteRectangle3 {
+  width: 5px;
+  height: 85px;
+  left: 31px;
+  top: 428px;
+  position: absolute;
+  background: #090909;
+}
+
+.CallOnRouteEllipse1 {
+  width: 26px;
+  height: 42px;
+  left: 20px;
+  top: 148px;
+  position: absolute;
+  background: #090909;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse2_G {
+  width: 34px;
+  height: 34px;
+  left: 17px;
+  top: 230px;
+  position: absolute;
+  background: #2F6F11;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse2_Gr {
+  width: 34px;
+  height: 34px;
+  left: 17px;
+  top: 230px;
+  position: absolute;
+  background: grey;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse3_Y {
+  width: 34px;
+  height: 34px;
+  left: 16px;
+  top: 298px;
+  position: absolute;
+  background: rgb(255, 234, 0);
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse3_Gr {
+  width: 34px;
+  height: 34px;
+  left: 16px;
+  top: 298px;
+  position: absolute;
+  background: grey;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse4_R {
+  width: 34px;
+  height: 34px;
+  left: 17px;
+  top: 352px;
+  position: absolute;
+  background: #FB0B0B;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse4_Gr {
+  width: 34px;
+  height: 34px;
+  left: 17px;
+  top: 352px;
+  position: absolute;
+  background: grey;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse5_LY {
+  width: 15px;
+  height: 15px;
+  left: 25px;
+  top: 418px;
+  position: absolute;
+  background: rgb(210, 232, 79);
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse5_Gr {
+  width: 15px;
+  height: 15px;
+  left: 25px;
+  top: 418px;
+  position: absolute;
+  background: grey;
+  border-radius: 75px;
+}
+
+.CallOnRouteEllipse6 {
+  width: 10px;
+  height: 10px;
+  left: 28px;
+  top: 175px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse7 {
+  width: 10px;
+  height: 10px;
+  left: 28px;
+  top: 163px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteRectangle4 {
+  width: 60.33px;
+  height: 21.85px;
+  left: 26.93px;
+  top: 164.04px;
+  position: absolute;
+  transform: rotate(-147.13deg);
+  transform-origin: 0 0;
+  background: #090909;
+  border-radius: 10px;
+}
+
+.CallOnRouteEllipse8 {
+  width: 9px;
+  height: 9px;
+  left: 25px;
+  top: 149px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse8_Gr {
+  width: 9px;
+  height: 9px;
+  left: 25px;
+  top: 149px;
+  position: absolute;
+  background: grey;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse9_W {
+  width: 9px;
+  height: 9px;
+  left: 16px;
+  top: 142px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse9_Gr {
+  width: 9px;
+  height: 9px;
+  left: 16px;
+  top: 142px;
+  position: absolute;
+  background: grey;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse10_W {
+  width: 9px;
+  height: 9px;
+  left: -15px;
+  top: 124px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse10_Gr {
+  width: 9px;
+  height: 9px;
+  left: -15px;
+  top: 124px;
+  position: absolute;
+  background: grey;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse11_W {
+  width: 9px;
+  height: 9px;
+  left: -5px;
+  top: 130px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse11_Gr {
+  width: 9px;
+  height: 9px;
+  left: -5px;
+  top: 130px;
+  position: absolute;
+  background: grey;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse12_W {
+  width: 9px;
+  height: 9px;
+  left: 5px;
+  top: 136px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 50px;
+}
+
+.CallOnRouteEllipse12_Gr {
+  width: 9px;
+  height: 9px;
+  left: 5px;
+  top: 136px;
+  position: absolute;
+  background: grey;
+  border-radius: 50px;
+}
+
+.CallOnRouteLine1 {
+  width: 126px;
+  height: 0;
+  left: 101px;
+  top: 157px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine2 {
+  width: 136px;
+  height: 0;
+  left: 91px;
+  top: 190px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine4 {
+  width: 37px;
+  height: 0;
+  left: 91px;
+  top: 154px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine6 {
+  width: 76px;
+  height: 0;
+  left: 26px;
+  top: 144px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine7 {
+  width: 14px;
+  height: 0;
+  left: 100px;
+  top: 159px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine9 {
+  width: 51px;
+  height: 0;
+  left: 41px;
+  top: 155px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse73 {
+  width: 10.73px;
+  height: 10.13px;
+  left: 940.09px;
+  top: 322.73px;
+  position: absolute;
+  transform: rotate(-179.52deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse13 {
+  width: 39px;
+  height: 17px;
+  left: 225px;
+  top: 148px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse14 {
+  width: 39px;
+  height: 16px;
+  left: 225px;
+  top: 181px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine10 {
+  width: 145px;
+  height: 0;
+  left: 260px;
+  top: 158px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine11 {
+  width: 145px;
+  height: 0;
+  left: 260px;
+  top: 190px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine12 {
+  width: 200px;
+  height: 0;
+  left: 424px;
+  top: 157px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine13 {
+  width: 200px;
+  height: 0;
+  left: 424px;
+  top: 189px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine16 {
+  width: 13.95px;
+  height: 0;
+  left: 618.49px;
+  top: 157.37px;
+  position: absolute;
+  transform: rotate(-29.17deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine18 {
+  width: 13.83px;
+  height: 0;
+  left: 618.97px;
+  top: 189.87px;
+  position: absolute;
+  transform: rotate(-29.44deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine19 {
+  width: 14.01px;
+  height: 0;
+  left: 619.1px;
+  top: 155.07px;
+  position: absolute;
+  transform: rotate(44.45deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine20 {
+  width: 13.93px;
+  height: 0;
+  left: 622.71px;
+  top: 187.74px;
+  position: absolute;
+  transform: rotate(44.77deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse17 {
+  width: 5px;
+  height: 8px;
+  left: 250px;
+  top: 186px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse18 {
+  width: 4px;
+  height: 8px;
+  left: 233px;
+  top: 186px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse19 {
+  width: 5px;
+  height: 7px;
+  left: 250px;
+  top: 152px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse20 {
+  width: 5px;
+  height: 7px;
+  left: 233px;
+  top: 152px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine21 {
+  width: 180px;
+  height: 0;
+  left: 46px;
+  top: 229px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine22 {
+  width: 180px;
+  height: 0;
+  left: 46px;
+  top: 266px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse21 {
+  width: 38px;
+  height: 17px;
+  left: 224px;
+  top: 222px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse22 {
+  width: 40px;
+  height: 17px;
+  left: 222px;
+  top: 257px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine23 {
+  width: 52px;
+  height: 0;
+  left: 259px;
+  top: 229px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine24 {
+  width: 48px;
+  height: 0;
+  left: 259px;
+  top: 265px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse23 {
+  width: 10px;
+  height: 10px;
+  left: 318px;
+  top: 228px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse24 {
+  width: 10px;
+  height: 10px;
+  left: 331px;
+  top: 403px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse25 {
+  width: 4px;
+  height: 7px;
+  left: 212px;
+  top: 278px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse26 {
+  width: 6px;
+  height: 7px;
+  left: 198px;
+  top: 278px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse27 {
+  width: 4px;
+  height: 7px;
+  left: 212px;
+  top: 213px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse28 {
+  width: 4px;
+  height: 7px;
+  left: 197px;
+  top: 213px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine27 {
+  width: 180px;
+  height: 0;
+  left: 46px;
+  top: 295px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine28 {
+  width: 175px;
+  height: 0;
+  left: 46px;
+  top: 332px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse29 {
+  width: 38px;
+  height: 16px;
+  left: 223px;
+  top: 287px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse30 {
+  width: 40px;
+  height: 18px;
+  left: 188px;
+  top: 322px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine29 {
+  width: 102px;
+  height: 0;
+  left: 258px;
+  top: 295px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse30 {
+  width: 40px;
+  height: 18px;
+  left: 220px;
+  top: 316px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine30 {
+  width: 80px;
+  height: 0;
+  left: 260px;
+  top: 326px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse33 {
+  width: 4px;
+  height: 7px;
+  left: 212px;
+  top: 337px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse34 {
+  width: 6px;
+  height: 7px;
+  left: 198px;
+  top: 337px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine33 {
+  width: 172px;
+  height: 0;
+  left: 49px;
+  top: 348px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine34 {
+  width: 175px;
+  height: 0;
+  left: 49px;
+  top: 381px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse35 {
+  width: 40px;
+  height: 16px;
+  left: 218px;
+  top: 339px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse36 {
+  width: 40px;
+  height: 18px;
+  left: 222px;
+  top: 368px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine35 {
+  width: 236px;
+  height: 0;
+  left: 257px;
+  top: 346px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine36 {
+  width: 210px;
+  height: 0;
+  left: 259px;
+  top: 375px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse39 {
+  width: 5px;
+  height: 7px;
+  left: 215px;
+  top: 390px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse40 {
+  width: 4px;
+  height: 7px;
+  left: 202px;
+  top: 390px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine39 {
+  width: 158px;
+  height: 0;
+  left: 64px;
+  top: 412px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine40 {
+  width: 158px;
+  height: 0;
+  left: 64px;
+  top: 441px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse41 {
+  width: 40px;
+  height: 17px;
+  left: 220px;
+  top: 402px;
+  position: absolute;
+  background: rgba(147.86, 127.43, 127.43, 0.49);
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse42 {
+  width: 40px;
+  height: 17px;
+  left: 221px;
+  top: 432px;
+  position: absolute;
+  background: rgba(147, 127, 127, 0.49);
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteLine42 {
+  width: 58px;
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  left: 259px;
+  top: 442px
+}
+
+.CallOnRouteLine41 {
+  width: 59px;
+  left: 259px;
+  top: 411px;
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse44 {
+  width: 10px;
+  height: 10px;
+  left: 331px;
+  top: 432px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse45 {
+  width: 5px;
+  height: 8px;
+  left: 215px;
+  top: 453px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse46 {
+  width: 4px;
+  height: 8px;
+  left: 202px;
+  top: 453px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine45,
+.CallOnRouteLine46 {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine45 {
+  width: 23px;
+  left: 41px;
+  top: 419px;
+}
+
+.CallOnRouteLine46 {
+  width: 24px;
+  left: 40px;
+  top: 432px;
+}
+
+.CallOnRouteLine47 {
+  width: 7px;
+  height: 0;
+  left: 64px;
+  top: 419px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine48 {
+  width: 10px;
+  height: 0;
+  left: 64px;
+  top: 442px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse47 {
+  width: 6px;
+  height: 7px;
+  left: 233px;
+  top: 223px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse48 {
+  width: 4px;
+  height: 7px;
+  left: 250px;
+  top: 223px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse49 {
+  width: 8px;
+  height: 8px;
+  left: 235px;
+  top: 261px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteEllipse50 {
+  width: 8px;
+  height: 8px;
+  left: 245px;
+  top: 261px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse51 {
+  width: 8px;
+  height: 8px;
+  left: 233px;
+  top: 290px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse52 {
+  width: 8px;
+  height: 8px;
+  left: 245px;
+  top: 290px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse53 {
+  width: 6px;
+  height: 6px;
+  left: 232px;
+  top: 321px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteEllipse54 {
+  width: 6px;
+  height: 6px;
+  left: 245px;
+  top: 321px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse55 {
+  width: 7px;
+  height: 7px;
+  left: 230px;
+  top: 343px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse56 {
+  width: 7px;
+  height: 7px;
+  left: 245px;
+  top: 343px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse57 {
+  width: 5px;
+  height: 6px;
+  left: 231px;
+  top: 372px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteEllipse58 {
+  width: 5px;
+  height: 6px;
+  left: 245px;
+  top: 372px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse59 {
+  width: 8px;
+  height: 8px;
+  left: 228px;
+  top: 406px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse60 {
+  width: 8px;
+  height: 8px;
+  left: 245px;
+  top: 406px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse61 {
+  width: 6px;
+  height: 6px;
+  left: 228px;
+  top: 437px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse62 {
+  width: 7px;
+  height: 7px;
+  left: 245px;
+  top: 435px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 9999px;
+}
+
+.CallOnRouteEllipse15 {
+  width: 10px;
+  height: 10px;
+  left: 420px;
+  top: 150px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteLine14 {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  width: 29.1px;
+  transform-origin: 0 0;
+  transform: rotate(220.71deg);
+  top: 439px;
+  left: 337px;
+}
+
+.CallOnRouteLine14_a {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  width: 30.1px;
+  transform-origin: 0 0;
+  transform: rotate(220.71deg);
+  top: 410px;
+  left: 335px;
+}
+
+.CallOnRouteLine25,
+.CallOnRouteLine26 {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine49 {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  width: 25.1px;
+  transform-origin: 0 0;
+  transform: rotate(-140.71deg);
+  top: 187px;
+  left: 425px;
+}
+
+.CallOnRouteLine25 {
+  width: 30.1px;
+  transform-origin: 0 0;
+  transform: rotate(230.71deg);
+  top: 234px;
+  left: 322px;
+}
+
+.CallOnRouteLine26 {
+  width: 30.6px;
+  transform-origin: 0 0;
+  transform: rotate(-130.66deg);
+  top: 231px;
+  left: 430px;
+}
+
+.CallOnRouteEllipse63 {
+  width: 10px;
+  height: 10px;
+  left: 420px;
+  top: 183px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine50 {
+  width: 100px;
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  top: 229px;
+  left: 318px;
+}
+
+/* .CallOnRouteLine31, */
+
+.CallOnRouteLine51 {
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  width: 24.1px;
+  transform-origin: 0 0;
+  transform: rotate(-140.71deg);
+  top: 157px;
+  left: 422px;
+}
+
+.CallOnRouteLine52 {
+  width: 179px;
+  height: 0;
+  position: absolute;
+  border: 1px black solid;
+  top: 233px;
+  left: 429px;
+}
+
+.CallOnRouteLine31 {
+  width: 24.1px;
+  transform-origin: 0 0;
+  transform: rotate(-58.71deg);
+}
+
+.CallOnRouteEllipse64 {
+  width: 10px;
+  height: 10px;
+  left: 426px;
+  top: 226px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine53 {
+  width: 64px;
+  height: 0;
+  left: 605px;
+  top: 236px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine54 {
+  width: 24.45px;
+  height: 0;
+  left: 592.2px;
+  top: 156.45px;
+  position: absolute;
+  transform: rotate(48.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse65 {
+  width: 10px;
+  height: 10px;
+  left: 317px;
+  top: 258px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine55 {
+  width: 28.1px;
+  height: 0;
+  left: 322.62px;
+  top: 264.52px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine56 {
+  width: 90px;
+  height: 0;
+  left: 320px;
+  top: 266px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteEllipse66 {
+  width: 10px;
+  height: 10px;
+  left: 424px;
+  top: 256px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine57 {
+  width: 27.1px;
+  height: 0;
+  left: 424.62px;
+  top: 260.11px;
+  position: absolute;
+  transform: rotate(-130.71deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine58 {
+  width: 158px;
+  height: 0;
+  left: 430px;
+  top: 264px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine59 {
+  width: 50px;
+  height: 0;
+  left: 585px;
+  top: 264px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine60 {
+  width: 33.34px;
+  height: 0;
+  left: 565.85px;
+  top: 190.4px;
+  position: absolute;
+  transform: rotate(48.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+/* .CallOnRouteLine57 {
+  width: 24.1px;
+  height: 0;
+  left: 424.62px;
+  top: 266.11px;
+  position: absolute;
+  transform: rotate(-58.71deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+} */
+
+.CallOnRouteLine61 {
+  width: 45.43px;
+  height: 0;
+  left: 320.6px;
+  top: 229.56px;
+  position: absolute;
+  transform: rotate(34.25deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine62 {
+  width: 43px;
+  height: 0;
+  left: 357px;
+  top: 297px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine63 {
+  width: 37.34px;
+  height: 0;
+  left: 320.62px;
+  top: 263.89px;
+  position: absolute;
+  transform: rotate(35.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine64 {
+  width: 42px;
+  height: 0;
+  left: 350px;
+  top: 327px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine65 {
+  width: 81.66px;
+  height: 0;
+  left: 491.12px;
+  top: 293.56px;
+  position: absolute;
+  transform: rotate(-133.93deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine66 {
+  width: 58px;
+  height: 0;
+  left: 489px;
+  top: 348px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine67 {
+  width: 53.96px;
+  height: 0;
+  left: 467.98px;
+  top: 299.54px;
+  position: absolute;
+  transform: rotate(-138.93deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine68 {
+  width: 77px;
+  height: 0;
+  left: 466px;
+  top: 375px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine69 {
+  width: 26.34px;
+  height: 0;
+  left: 555.43px;
+  top: 234.21px;
+  position: absolute;
+  transform: rotate(48.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine70 {
+  width: 160px;
+  height: 0;
+  left: 570px;
+  top: 414px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine71 {
+  width: 33.34px;
+  height: 0;
+  left: 537.98px;
+  top: 263.89px;
+  position: absolute;
+  transform: rotate(48.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine72 {
+  width: 155px;
+  height: 0;
+  left: 556px;
+  top: 439px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine73 {
+  width: 234px;
+  height: 0;
+  left: 338px;
+  top: 409px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine74 {
+  width: 221px;
+  height: 0;
+  left: 337px;
+  top: 439px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine75 {
+  width: 105px;
+  height: 0;
+  left: 648px;
+  top: 154px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine76 {
+  width: 105px;
+  height: 0;
+  left: 648px;
+  top: 187px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine77 {
+  width: 35px;
+  height: 0;
+  left: 648px;
+  top: 189px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine78 {
+  width: 121px;
+  height: 0;
+  left: 778px;
+  top: 155px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine79 {
+  width: 121px;
+  height: 0;
+  left: 778px;
+  top: 189px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse67 {
+  width: 10px;
+  height: 10px;
+  left: 775px;
+  top: 146px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteLine80 {
+  width: 23.17px;
+  height: 0;
+  left: 780.3px;
+  top: 150.82px;
+  position: absolute;
+  transform: rotate(210.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse68 {
+  width: 10px;
+  height: 10px;
+  left: 775px;
+  top: 182px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine81 {
+  width: 23.17px;
+  height: 0;
+  left: 780.3px;
+  top: 184.14px;
+  position: absolute;
+  transform: rotate(220.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine82 {
+  width: 169px;
+  height: 0;
+  left: 939px;
+  top: 152px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse69 {
+  width: 10px;
+  height: 10px;
+  left: 935px;
+  top: 145px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+
+.CallOnRouteLine83 {
+  width: 23.17px;
+  height: 0;
+  left: 937.41px;
+  top: 147.99px;
+  position: absolute;
+  transform: rotate(220.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine84 {
+  width: 169px;
+  height: 0;
+  left: 939px;
+  top: 186px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse70 {
+  width: 10px;
+  height: 10px;
+  left: 935px;
+  top: 179px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine85 {
+  width: 30.17px;
+  height: 0;
+  left: 940.41px;
+  top: 185.73px;
+  position: absolute;
+  transform: rotate(220.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine86 {
+  width: 12.28px;
+  height: 0;
+  left: 741.74px;
+  top: 146.59px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine87 {
+  width: 12.36px;
+  height: 0;
+  left: 747.67px;
+  top: 155.5px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine88 {
+  width: 12.28px;
+  height: 0;
+  left: 745.32px;
+  top: 176.27px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine89 {
+  width: 12.36px;
+  height: 0;
+  left: 750.26px;
+  top: 185.18px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine90 {
+  width: 12.28px;
+  height: 0;
+  left: 889.95px;
+  top: 146.59px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine91 {
+  width: 12.36px;
+  height: 0;
+  left: 889.89px;
+  top: 155.5px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine92 {
+  width: 12.28px;
+  height: 0;
+  left: 887.95px;
+  top: 179.1px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine93 {
+  width: 12.36px;
+  height: 0;
+  left: 891.89px;
+  top: 188.01px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine94 {
+  width: 14.22px;
+  height: 0;
+  left: 1110.83px;
+  top: 139.7px;
+  position: absolute;
+  transform: rotate(109.47deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine95 {
+  width: 14.72px;
+  height: 0;
+  left: 1103.32px;
+  top: 151.63px;
+  position: absolute;
+  transform: rotate(30.40deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine96 {
+  width: 13.02px;
+  height: 0;
+  left: 1101.07px;
+  top: 176.45px;
+  position: absolute;
+  transform: rotate(56.49deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine97 {
+  width: 12.89px;
+  height: 0;
+  left: 1097.91px;
+  top: 195.33px;
+  position: absolute;
+  transform: rotate(-52.20deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine98 {
+  width: 197px;
+  height: 0;
+  left: 698px;
+  top: 243px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine99 {
+  width: 194px;
+  height: 0;
+  left: 698px;
+  top: 276px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine100 {
+  width: 35px;
+  height: 0;
+  left: 698px;
+  top: 278px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine101 {
+  width: 12.28px;
+  height: 0;
+  left: 885.16px;
+  top: 235.62px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine102 {
+  width: 12.36px;
+  height: 0;
+  left: 891.09px;
+  top: 244.53px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine103 {
+  width: 12.28px;
+  height: 0;
+  left: 881.75px;
+  top: 265.3px;
+  position: absolute;
+  transform: rotate(44.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine104 {
+  width: 12.36px;
+  height: 0;
+  left: 885.68px;
+  top: 274.21px;
+  position: absolute;
+  transform: rotate(-46.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine105 {
+  width: 35px;
+  height: 0;
+  left: 919px;
+  top: 245px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse71 {
+  width: 10px;
+  height: 10px;
+  left: 913px;
+  top: 239px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine106 {
+  width: 30.17px;
+  height: 0;
+  left: 921.41px;
+  top: 246.8px;
+  position: absolute;
+  transform: rotate(230.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine107 {
+  width: 23px;
+  height: 0;
+  left: 924px;
+  top: 275px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse72 {
+  width: 10px;
+  height: 10px;
+  left: 921px;
+  top: 266px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine108 {
+  width: 28.17px;
+  height: 0;
+  left: 925.31px;
+  top: 271.76px;
+  position: absolute;
+  transform: rotate(-132.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+
+.CallOnRouteLine109 {
+  width: 20.51px;
+  height: 0;
+  left: 937.48px;
+  top: 152.07px;
+  position: absolute;
+  transform: rotate(31.78deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine110 {
+  width: 85px;
+  height: 0;
+  left: 952px;
+  top: 248px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine111 {
+  width: 20.66px;
+  height: 0;
+  left: 935.96px;
+  top: 183.34px;
+  position: absolute;
+  transform: rotate(52.01deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine112 {
+  width: 78px;
+  height: 0;
+  left: 947px;
+  top: 278px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine119 {
+  width: 190.31px;
+  height: 0;
+  left: 888.12px;
+  top: 354.12px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine120 {
+  width: 190.31px;
+  height: 0;
+  left: 888.89px;
+  top: 321.8px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine121 {
+  width: 34.57px;
+  height: 0;
+  left: 698.67px;
+  top: 323.41px;
+  position: absolute;
+  transform: rotate(89.53deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine122 {
+  width: 182.83px;
+  height: 0;
+  left: 1120.95px;
+  top: 321.24px;
+  position: absolute;
+  transform: rotate(-179.52deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+/* .CallOnRouteEllipse73 {
+  width: 10.73px;
+  height: 10.13px;
+  left: 902.09px;
+  top: 322.73px;
+  position: absolute;
+  transform: rotate(-179.52deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+} */
+
+.CallOnRouteLine125 {
+  width: 13.84px;
+  height: 0;
+  left: 1125.65px;
+  top: 331.13px;
+  position: absolute;
+  transform: rotate(-128.06deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine126 {
+  width: 12px;
+  height: 0;
+  left: 1117.95px;
+  top: 317.64px;
+  position: absolute;
+  transform: rotate(-50.12deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine123 {
+  width: 25.08px;
+  height: 0;
+  left: 918.01px;
+  top: 296.39px;
+  position: absolute;
+  transform: rotate(42.2deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine127 {
+  width: 185.83px;
+  height: 0;
+  left: 1125.95px;
+  top: 356.57px;
+  position: absolute;
+  transform: rotate(-179.52deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse74 {
+  width: 10.73px;
+  height: 10.13px;
+  left: 942.09px;
+  top: 359.89px;
+  position: absolute;
+  transform: rotate(-179.52deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine128 {
+  width: 18.84px;
+  height: 0;
+  left: 1112.54px;
+  top: 369.29px;
+  position: absolute;
+  transform: rotate(-50.06deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine129 {
+  width: 18px;
+  height: 0;
+  left: 1123.95px;
+  top: 356.39px;
+  position: absolute;
+  transform: rotate(-141.12deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine130 {
+  width: 28.08px;
+  height: 0;
+  left: 918.01px;
+  top: 331.54px;
+  position: absolute;
+  transform: rotate(45.2deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine131 {
+  width: 185.31px;
+  height: 0;
+  left: 885.12px;
+  top: 425.13px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine132 {
+  width: 185.31px;
+  height: 0;
+  left: 884.89px;
+  top: 393.8px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine133 {
+  width: 31.57px;
+  height: 0;
+  left: 699.67px;
+  top: 395.42px;
+  position: absolute;
+  transform: rotate(89.53deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine134 {
+  width: 173.31px;
+  height: 0;
+  left: 873px;
+  top: 504.38px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine135 {
+  width: 170.31px;
+  height: 0;
+  left: 870px;
+  top: 466.05px;
+  position: absolute;
+  transform: rotate(179.23deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine136 {
+  width: 39.57px;
+  height: 0;
+  left: 700.67px;
+  top: 466.66px;
+  position: absolute;
+  transform: rotate(89.53deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine137 {
+  width: 25.8px;
+  height: 0;
+  left: 939.95px;
+  top: 317.83px;
+  position: absolute;
+  transform: rotate(58.93deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine138 {
+  width: 56px;
+  height: 0;
+  left: 951px;
+  top: 395px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse75 {
+  width: 10px;
+  height: 10px;
+  left: 920px;
+  top: 390px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine139 {
+  width: 28.03px;
+  height: 0;
+  left: 921.86px;
+  top: 394.8px;
+  position: absolute;
+  transform: rotate(230.9deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine140 {
+  width: 29px;
+  height: 0;
+  left: 924px;
+  top: 395px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine141 {
+  width: 53.39px;
+  height: 0;
+  left: 940.06px;
+  top: 358.57px;
+  position: absolute;
+  transform: rotate(87.86deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine142 {
+  width: 27px;
+  height: 0;
+  left: 940px;
+  top: 425px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse76 {
+  width: 10px;
+  height: 10px;
+  left: 900px;
+  top: 419px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine143 {
+  width: 23.17px;
+  height: 0;
+  left: 902.63px;
+  top: 422.97px;
+  position: absolute;
+  transform: rotate(-130.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine144 {
+  width: 30px;
+  height: 0;
+  left: 911px;
+  top: 425px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse77 {
+  width: 10px;
+  height: 10px;
+  left: 899px;
+  top: 460px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine145 {
+  width: 23.17px;
+  height: 0;
+  left: 905.05px;
+  top: 462.54px;
+  position: absolute;
+  transform: rotate(-123.73deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine146 {
+  width: 24px;
+  height: 0;
+  left: 904px;
+  top: 466px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine147 {
+  width: 21.92px;
+  height: 0;
+  left: 896.85px;
+  top: 399.49px;
+  position: absolute;
+  transform: rotate(134.83deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  display: none;
+}
+
+.CallOnRouteLine148 {
+  width: 68px;
+  height: 0;
+  left: 926px;
+  top: 467px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteEllipse78 {
+  width: 10px;
+  height: 10px;
+  left: 893px;
+  top: 495px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.CallOnRouteLine149 {
+  width: 23.17px;
+  height: 0;
+  left: 896.84px;
+  top: 499.46px;
+  position: absolute;
+  transform: rotate(-127.27deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine150 {
+  width: 41px;
+  height: 0;
+  left: 896px;
+  top: 502px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine151 {
+  width: 53.39px;
+  height: 0;
+  left: 905.06px;
+  top: 422.16px;
+  position: absolute;
+  transform: rotate(50.86deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine152 {
+  width: 39px;
+  height: 0;
+  left: 936px;
+  top: 503px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteRectangle5 {
+  width: 28px;
+  height: 18px;
+  left: 1213px;
+  top: 79px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteRectangle6 {
+  width: 28px;
+  height: 18px;
+  left: 1213px;
+  top: 148px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteRectangle7 {
+  width: 28px;
+  height: 18px;
+  left: 1213px;
+  top: 126px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteRectangle8 {
+  width: 28px;
+  height: 18px;
+  left: 1213px;
+  top: 103px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteDr1 {
+  width: 17px;
+  height: 12px;
+  left: 1220px;
+  top: 81px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHr1 {
+  width: 21px;
+  height: 8px;
+  left: 1220px;
+  top: 104px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUgr {
+  width: 25px;
+  height: 10px;
+  left: 1216px;
+  top: 128px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteBhr {
+  width: 25px;
+  height: 9px;
+  left: 1216px;
+  top: 149px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_11 {
+  width: 55px;
+  height: 14px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 80px;
+  left: 1245px;
+
+}
+
+.CallOnRoute5546_22 {
+  width: 55px;
+  height: 14px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 107px;
+  left: 1245px;
+
+}
+
+.CallOnRoute5546_33 {
+  width: 55px;
+  height: 14px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 128px;
+  left: 1245px;
+
+}
+
+.CallOnRoute5546_DECR {
+  width: 55px;
+  height: 14px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  top: 281px;
+  left: 60px;
+}
+
+.CallOnRoute5546_44 {
+  width: 55px;
+  height: 14px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 148px;
+  left: 1245px;
+
+}
+
+
+.CallOnRouteRectangle9 {
+  width: 134px;
+  height: 134px;
+  left: 1205px;
+  top: 170px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 15px;
+  border: 1px black solid;
+}
+
+.CallOnRouteDr135546 {
+  width: 155px;
+  height: 44px;
+  left: 1174px;
+  top: 186px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHr135546 {
+  width: 155px;
+  height: 43px;
+  left: 1173px;
+  top: 216px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUgr135546 {
+  width: 167px;
+  height: 46px;
+  left: 1167px;
+  top: 247px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteBhr135546 {
+  width: 160px;
+  height: 44px;
+  left: 1170px;
+  top: 281px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle10 {
+  width: 158px;
+  height: 168px;
+  left: 1186px;
+  top: 311px;
+  position: absolute;
+  background: #F5F5F5;
+  border-radius: 15px;
+  border: 1px black solid;
+}
+
+.CallOnRouteRelayUp {
+  width: 75px;
+  height: 17px;
+  left: 1178px;
+  top: 562px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle11 {
+  width: 13px;
+  height: 14px;
+  left: 1221px;
+  top: 493px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteRectangle12 {
+  width: 13px;
+  height: 14px;
+  left: 1313px;
+  top: 493px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+.CallOnRouteElBits {
+  width: 48px;
+  height: 17px;
+  left: 1296px;
+  top: 506px;
+  position: absolute;
+  color: rgb(17, 17, 17);
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+
+.CallOnRouteRelayRoom1 {
+  width: 136px;
+  height: 17px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 54px;
+  left: 706px;
+}
+
+.CallOnRouteRelayRoom {
+  width: 136px;
+  height: 17px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 508px;
+  left: 1160px;
+}
+
+.CallOnRouteElBits1 {
+  width: 66px;
+  height: 17px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  left: 1221px;
+  top: 25px;
+}
+
+.CallOnRouteLocationNo2 {
+  width: 241px;
+  height: 22px;
+  position: absolute;
+  color: black;
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 50px;
+  left: 124px;
+}
+
+.S1A {
+  width: 241px;
+  height: 22px;
+  position: absolute;
+  color: black;
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 88px;
+  left: -87px;
+}
+
+.C1B {
+  width: 241px;
+  height: 22px;
+  position: absolute;
+  color: black;
+  font-size: 19px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+  top: 510px;
+  left: -87px;
+}
+
+.CallOnRouteVDcExtTy {
+  width: 144px;
+  height: 17px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle13 {
+  width: 12px;
+  height: 14px;
+  position: absolute;
+  background: #D9D9D9;
+  border: 1px black solid;
+  top: 158px;
+  left: 961px;
+}
+
+.CallOnRouteLine153 {
+  width: 7.07px;
+  height: 0;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  top: 179px;
+  left: 966px;
+}
+
+
+.CallOnRouteLine154 {
+  width: 7.07px;
+  height: 0;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  top: 158px;
+  left: 965px;
+}
+
+.CallOnRouteLine155 {
+  width: 12.96px;
+  height: 0;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine156 {
+  width: 10.37px;
+  height: 0;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  top: 180px;
+  left: 972px;
+}
+
+.CallOnRouteDr,
+.CallOnRouteHr,
+.CallOnRouteHpr {
+  width: 18px;
+  height: 17px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDr {
+  height: 17px;
+  width: 18px;
+  left: 641px;
+  top: 122px;
+}
+
+.CallOnRouteHr {
+  height: 17px;
+  width: 18px;
+  left: 644px;
+  top: 219px;
+}
+
+.CallOnRouteHpr_1 {
+  width: 27px;
+  height: 17px;
+  left: 710px;
+  top: 132px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr_2 {
+  width: 27px;
+  height: 17px;
+  left: 710px;
+  top: 169px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr_3 {
+  width: 30px;
+  height: 17px;
+  left: 660px;
+  top: 152px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_a {
+  width: 62px;
+  height: 17px;
+  left: 643px;
+  top: 173px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_b {
+  width: 62px;
+  height: 17px;
+  left: 700px;
+  top: 260px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr_4 {
+  width: 27px;
+  height: 17px;
+  left: 723px;
+  top: 242px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle14 {
+  width: 34px;
+  height: 14px;
+  left: 655px;
+  top: 155px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 471px;
+  top: 152px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle15 {
+  width: 34px;
+  height: 14px;
+  left: 720px;
+  top: 244px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 590px;
+  top: 241px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle19 {
+  width: 46px;
+  height: 14px;
+  left: 715px;
+  top: 324px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteDecpr {
+  width: 78px;
+  height: 12px;
+  left: 700px;
+  top: 320px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 17px;
+  left: 580px;
+  top: 192px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 471px;
+  top: 152px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 590px;
+  top: 241px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle20 {
+  width: 45px;
+  height: 14px;
+  left: 715px;
+  top: 395px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteHecpr_1 {
+  width: 78px;
+  height: 12px;
+  left: 699px;
+  top: 392px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_HECPR {
+  width: 55px;
+  height: 11px;
+  left: 800px;
+  top: 400px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle21 {
+  width: 52px;
+  height: 14px;
+  left: 715px;
+  top: 467px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+.CallOnRouteRecpr {
+  width: 78px;
+  height: 12px;
+  left: 702px;
+  top: 465px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 17px;
+  left: 580px;
+  top: 192px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 471px;
+  top: 152px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 27px;
+  height: 11px;
+  left: 590px;
+  top: 241px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_DECPR {
+  width: 54px;
+  height: 11px;
+  left: 705px;
+  top: 339px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecpr {
+  width: 78px;
+  height: 12px;
+  left: 949px;
+  top: 388px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546 {
+  width: 54px;
+  height: 11px;
+  left: 802px;
+  top: 482px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_1 {
+  width: 29px;
+  height: 15px;
+  left: 864px;
+  top: 332px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_22 {
+  width: 29px;
+  height: 14px;
+  left: 853px;
+  top: 302px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecr_1 {
+  width: 29px;
+  height: 14px;
+  left: 860px;
+  top: 373px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecr_22 {
+  width: 29px;
+  height: 14px;
+  left: 860px;
+  top: 405px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRecr_1 {
+  width: 27px;
+  height: 14px;
+  left: 843px;
+  top: 465px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRecr_22 {
+  width: 27px;
+  height: 14px;
+  left: 823px;
+  top: 437px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteVDcExtTy1 {
+  width: 125px;
+  height: 14px;
+  left: 981px;
+  top: 130px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 409;
+  word-wrap: break-word;
+}
+
+.CallOnRouteVDcExtTy2 {
+  width: 125px;
+  height: 14px;
+  left: 990px;
+  top: 295px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 409;
+  word-wrap: break-word;
+}
+
+.CallOnRoute3v151024_2 {
+  width: 174px;
+  height: 14px;
+  left: 957px;
+  top: 115px;
+  position: relative;
+
+}
+
+
+.CallOnRoute3v151024_2 span {
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute3v151024_2 span:first-child {
+  color: #2f6f11;
+}
+
+.CallOnRoute3v151024_2 span:last-child {
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute3v151024_1 {
+  width: 174px;
+  height: 14px;
+  left: 725px;
+  top: 300px;
+  position: relative;
+}
+
+
+.CallOnRoute3v151024_1 span {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute3v151024_1 span:first-child {
+  color: #2f6f11;
+}
+
+.CallOnRoute3v151024_1 span:last-child {
+  font-family: Inter;
+  font-size: 13px;
+  font-weight: 400;
+  word-wrap: break-word;
+  color: black;
+}
+
+.CallOnRouteDr_1 {
+  width: 25px;
+  height: 14px;
+  left: 856px;
+  top: 130px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDr_2 {
+  width: 25px;
+  height: 14px;
+  left: 856px;
+  top: 163px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDr_3 {
+  width: 25px;
+  height: 14px;
+  left: 441px;
+  top: 130px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDr_4 {
+  width: 25px;
+  height: 14px;
+  left: 370px;
+  top: 131px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHr_1 {
+  width: 25px;
+  height: 14px;
+  left: 851px;
+  top: 214px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHr_2 {
+  width: 25px;
+  height: 14px;
+  left: 851px;
+  top: 251px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUgpr {
+  width: 30px;
+  height: 15px;
+  left: 285px;
+  top: 194px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute154405 {
+  width: 174px;
+  height: 14px;
+  left: 443px;
+  top: 137px;
+  position: absolute;
+}
+
+.CallOnRoute154405 span:first-of-type {
+  color: #2F6F11;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute154405 span:last-of-type {
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute81V183624 {
+  width: 130px;
+  height: 14px;
+  left: 270px;
+  top: 132px;
+  position: absolute;
+}
+
+.CallOnRoute81V183624 span:first-of-type {
+  color: #FB0B0B;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute81V183624 span:last-of-type {
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546 {
+  width: 100px;
+  height: 15px;
+  left: 105px;
+  top: 165px;
+  position: absolute;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.CallOnRouteC {
+  width: 7px;
+  height: 15px;
+  left: 218px;
+  top: 165px;
+  position: absolute;
+  color: #FB0B0B;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteO {
+  width: 6px;
+  height: 14px;
+  left: 200px;
+  top: 165px;
+  position: absolute;
+  color: #FB0B0B;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle22 {
+  width: 41px;
+  height: 15px;
+  left: 132px;
+  top: 190px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRoute5546_1 {
+  width: 55px;
+  height: 14px;
+  left: 132px;
+  top: 205px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUecr {
+  width: 28px;
+  height: 15px;
+  left: 140px;
+  top: 190px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle23 {
+  width: 42px;
+  height: 14px;
+  left: 64px;
+  top: 266px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRoute5546_UECR {
+  width: 55px;
+  height: 14px;
+  left: 124px;
+  top: 205px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute5546_2 {
+  width: 55px;
+  height: 14px;
+  left: 64px;
+  top: 278px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_2 {
+  width: 29px;
+  height: 14px;
+  left: 73px;
+  top: 265px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO_1 {
+  width: -13px;
+  height: 14px;
+  left: 80px;
+  top: 322px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546CO_1 span {
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO_1 span:last-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546CO_2 {
+  width: -1px;
+  height: 14px;
+  left: 85px;
+  top: 385px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546CO_2 span {
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO_2 span:last-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546CO_3 {
+  width: -21px;
+  height: 14px;
+  left: 90px;
+  top: 202px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546CO_3 span {
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO_3 span:last-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546CO2 {
+  width: 89px;
+  height: 14px;
+  left: 106px;
+  top: 268px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546CO2 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO2 span:last-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546CO3 {
+  width: 90px;
+  height: 14px;
+  left: 96px;
+  top: 385px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546CO3 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546CO3 span:last-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546C128 {
+  width: -18px;
+  height: 14px;
+  left: 80px;
+  top: 269px;
+  position: absolute;
+}
+
+.CallOnRouteMa135546C128 span {
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteMa135546C128 span:nth-child(2) {
+  color: #FB0B0B;
+}
+
+.CallOnRouteMa135546C128 span:last-child {
+  color: #2F6F11;
+}
+
+.CallOnRouteV135547 {
+  width: -1px;
+  height: 14px;
+  left: 226px;
+  top: 321px;
+  position: absolute;
+}
+
+.CallOnRouteV135547 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteV135547 span:first-child {
+  color: #FB0B0B;
+}
+
+.CallOnRoute98v135547_a {
+  width: -29px;
+  height: 15px;
+  left: 218px;
+  top: 207px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_a span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_a span:first-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteV135547_2 {
+  width: 72px;
+  height: 14px;
+  left: 233px;
+  top: 353px;
+  position: absolute;
+}
+
+.CallOnRouteV135547_2 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteV135547_2 span:first-child {
+  color: #2F6F11;
+}
+
+.CallOnRoute98v135547_b {
+  width: 77px;
+  height: 15px;
+  left: 198px;
+  top: 208px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_b span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_b span:first-child {
+  color: #FB0B0B;
+}
+
+
+.CallOnRoute98v135547_2Last {
+  width: -29px;
+  height: 14px;
+  left: 226px;
+  top: 385px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_2Last span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_2Last span:first-child {
+  color: #FB0B0B;
+}
+
+.CallOnRouteRectangle24 {
+  width: 42px;
+  height: 12px;
+  left: 63px;
+  top: 320px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRoute5546_3 {
+  width: 55px;
+  height: 9px;
+  left: 59px;
+  top: 334px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecr_2 {
+  width: 29px;
+  height: 8px;
+  left: 70px;
+  top: 319px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle25 {
+  width: 42px;
+  height: 14px;
+  left: 59px;
+  top: 377px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+.CallOnRoute5546_4 {
+  width: 54px;
+  height: 14px;
+  left: 61px;
+  top: 391px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_c {
+  width: -21px;
+  height: 15px;
+  left: 230px;
+  top: 267px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_c span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_c span:first-child {
+  color: #FB0B0B;
+}
+
+
+.CallOnRoute98v135547_2 {
+  width: 76px;
+  height: 14px;
+  left: 242px;
+  top: 419px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_2 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_2 span:first-child {
+  color: #FB0B0B;
+}
+
+/* .CallOnRouteRectangle24 {
+  width: 42px;
+  height: 14px;
+  left: 59px;
+  top: 322px;
+  position: absolute;
+  background: #FB0B0B;
+} */
+
+
+/* .CallOnRouteHecr_2 {
+  width: 29px;
+  height: 8px;
+  left: 67px;
+  top: 322px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+} */
+
+.CallOnRouteRectangle25 {
+  width: 42px;
+  height: 14px;
+  left: 59px;
+  top: 377px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+
+.CallOnRouteRecr_2 {
+  width: 27px;
+  height: 14px;
+  left: 67px;
+  top: 376px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRectangle26 {
+  width: 51px;
+  height: 14px;
+  left: 69px;
+  top: 441px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRoute5546_5 {
+  width: 54px;
+  height: 14px;
+  left: 74px;
+  top: 455px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteCoHecr {
+  width: 47px;
+  height: 14px;
+  left: 72px;
+  top: 441px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr {
+  width: 21px;
+  height: 14px;
+  left: 448px;
+  top: 213px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDpr {
+  width: 21px;
+  height: 14px;
+  left: 254px;
+  top: 214px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547 {
+  width: 77px;
+  height: 15px;
+  left: 198px;
+  top: 241px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547 span:first-child {
+  color: #FB0B0B;
+}
+
+.CallOnRoute98v135547_2 {
+  width: 76px;
+  height: 14px;
+  left: 242px;
+  top: 419px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_2 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_2 span:first-child {
+  color: #FB0B0B;
+}
+
+/* .CallOnRouteRectangle24 {
+  width: 42px;
+  height: 9px;
+  left: 59px;
+  top: 325px;
+  position: absolute;
+  background: #FB0B0B;
+} */
+
+/* .CallOnRouteHecr_2 {
+  width: 29px;
+  height: 8px;
+  left: 67px;
+  top: 322px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+} */
+
+.CallOnRouteRectangle25 {
+  width: 42px;
+  height: 14px;
+  left: 59px;
+  top: 377px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+/* .CallOnRouteRecr_2 {
+  width: 27px;
+  height: 14px;
+  left: 67px;
+  top: 377px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+} */
+
+.CallOnRouteRectangle26 {
+  width: 51px;
+  height: 14px;
+  left: 69px;
+  top: 441px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteCoHecr {
+  width: 47px;
+  height: 14px;
+  left: 72px;
+  top: 441px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHpr_a {
+  width: 21px;
+  height: 14px;
+  left: 410px;
+  top: 268px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+}
+
+.CallOnRouteDecr_a {
+  width: 24px;
+  height: 14px;
+  left: 65px;
+  top: 250px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+}
+
+.CallOnRouteDpr {
+  width: 21px;
+  height: 14px;
+  left: 334px;
+  top: 214px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDpr_2 {
+  width: 21px;
+  height: 14px;
+  left: 330px;
+  top: 252px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDpr_2a {
+  width: 21px;
+  height: 14px;
+  left: 305px;
+  top: 310px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDpr_2b {
+  width: 21px;
+  height: 14px;
+  left: 327px;
+  top: 295px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_2 {
+  width: 29px;
+  height: 14px;
+  left: 157px;
+  top: 266px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteCohpr_2 {
+  width: 37px;
+  height: 14px;
+  left: 342px;
+  top: 442px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteCohpr_3 {
+  width: 38px;
+  height: 14px;
+  left: 348px;
+  top: 410px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecpr {
+  width: 35px;
+  height: 14px;
+  left: 348px;
+  top: 388px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteLine157 {
+  width: 13.84px;
+  height: 0;
+  left: 439.97px;
+  top: 375.53px;
+  position: absolute;
+  transform: rotate(118.34deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine158 {
+  width: 14px;
+  height: 0;
+  left: 310px;
+  top: 387px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine159 {
+  width: 19px;
+  height: 0;
+  left: 310px;
+  top: 401px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRoute98v135547_2 {
+  width: 76px;
+  height: 14px;
+  left: 242px;
+  top: 419px;
+  position: absolute;
+}
+
+.CallOnRoute98v135547_2 span {
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRoute98v135547_2 span:first-child {
+  color: #FB0B0B;
+}
+
+/* .CallOnRouteRectangle24 {
+  width: 42px;
+  height: 9px;
+  left: 59px;
+  top: 325px;
+  position: absolute;
+  background: #FB0B0B;
+} */
+
+/* .CallOnRouteHecr_2 {
+  width: 29px;
+  height: 8px;
+  left: 67px;
+  top: 322px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+} */
+
+.CallOnRouteRectangle25 {
+  width: 42px;
+  height: 14px;
+  left: 59px;
+  top: 377px;
+  position: absolute;
+  background: #2F6F11;
+}
+
+/* .CallOnRouteRecr_2 {
+  width: 27px;
+  height: 14px;
+  left: 67px;
+  top: 377px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+} */
+
+.CallOnRouteRectangle26 {
+  width: 51px;
+  height: 14px;
+  left: 69px;
+  top: 441px;
+  position: absolute;
+  background: #FB0B0B;
+}
+
+.CallOnRouteCoHecr {
+  width: 47px;
+  height: 14px;
+  left: 72px;
+  top: 441px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_2 {
+  width: 29px;
+  height: 14px;
+  left: 73px;
+  top: 264px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_2a {
+  width: 29px;
+  height: 14px;
+  left: 393px;
+  top: 346px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteDecr_2b {
+  width: 29px;
+  height: 14px;
+  left: 427px;
+  top: 360px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteCohpr_2 {
+  width: 37px;
+  height: 14px;
+  left: 342px;
+  top: 442px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteCohpr_3 {
+  width: 38px;
+  height: 14px;
+  left: 348px;
+  top: 410px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecpr {
+  width: 35px;
+  height: 14px;
+  left: 348px;
+  top: 388px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteLine158 {
+  width: 14px;
+  height: 0;
+  left: 433px;
+  top: 387px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine159 {
+  width: 24px;
+  height: 0;
+  left: 432px;
+  top: 401px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine160 {
+  width: 14px;
+  height: 0;
+  left: 455px;
+  top: 401px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine161 {
+  width: 14.62px;
+  height: 0;
+  left: 454.75px;
+  top: 387.27px;
+  position: absolute;
+  transform: rotate(-129.54deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine162 {
+  width: 12.83px;
+  height: 0;
+  left: 431.86px;
+  top: 346.44px;
+  position: absolute;
+  transform: rotate(-61.03deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine163 {
+  width: 14.13px;
+  height: 0;
+  left: 438.45px;
+  top: 336.22px;
+  position: absolute;
+  transform: rotate(-89.39deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine164 {
+  width: 23.43px;
+  height: 0;
+  left: 439.6px;
+  top: 322.09px;
+  position: absolute;
+  transform: rotate(-179.28deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine165 {
+  width: 14.13px;
+  height: 0;
+  left: 416.88px;
+  top: 321.83px;
+  position: absolute;
+  transform: rotate(90.61deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine166 {
+  width: 13.63px;
+  height: 0;
+  left: 416.2px;
+  top: 335.53px;
+  position: absolute;
+  transform: rotate(51.11deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine172 {
+  width: 5.92px;
+  height: 0;
+  left: 310.6px;
+  top: 327.24px;
+  position: absolute;
+  transform: rotate(118.34deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine173 {
+  width: 10px;
+  height: 0;
+  left: 308px;
+  top: 331px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine174 {
+  width: 22px;
+  height: 0;
+  left: 307px;
+  top: 340px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine175 {
+  width: 10px;
+  height: 0;
+  left: 328px;
+  top: 340px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine176 {
+  width: 5.81px;
+  height: 0;
+  left: 327.98px;
+  top: 331.33px;
+  position: absolute;
+  transform: rotate(-129.54deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine177 {
+  width: 6.88px;
+  height: 0;
+  left: 326.4px;
+  top: 294.75px;
+  position: absolute;
+  transform: rotate(-57.65deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine178 {
+  width: 9.06px;
+  height: 0;
+  left: 328.66px;
+  top: 289.43px;
+  position: absolute;
+  transform: rotate(-86.18deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine179 {
+  width: 24.44px;
+  height: 0;
+  left: 332.32px;
+  top: 280.56px;
+  position: absolute;
+  transform: rotate(-178.45deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine180 {
+  width: 9.06px;
+  height: 0;
+  left: 309.55px;
+  top: 279.32px;
+  position: absolute;
+  transform: rotate(90.82deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine181 {
+  width: 9.85px;
+  height: 0;
+  left: 310.48px;
+  top: 287.38px;
+  position: absolute;
+  transform: rotate(54.55deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteRectangle27 {
+  width: 10px;
+  height: 10px;
+  left: 462px;
+  top: 162px;
+  position: absolute;
+  background: #D9D9D9;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine193 {
+  width: 7.07px;
+  height: 0;
+  left: 465.18px;
+  top: 160.72px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine194 {
+  width: 7.07px;
+  height: 0;
+  left: 466.18px;
+  top: 181.92px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine195 {
+  width: 12.96px;
+  height: 0;
+  left: 473.99px;
+  top: 181.24px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteLine196 {
+  width: 10.37px;
+  height: 0;
+  left: 473.36px;
+  top: 184.06px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.CallOnRouteDecpr135546 {
+  width: 194px;
+  height: 47px;
+  left: 1156px;
+  top: 321px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteHecpr135546 {
+  width: 195px;
+  height: 48px;
+  left: 1156px;
+  top: 354px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteRecpr135546 {
+  width: 194px;
+  height: 48px;
+  left: 1156px;
+  top: 391px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUecpr135546 {
+  width: 195px;
+  height: 48px;
+  left: 1156px;
+  top: 420px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteUecpr135546Pallavi {
+  width: 195px;
+  height: 48px;
+  left: 1156px;
+  top: 451px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 530;
+  word-wrap: break-word;
+}
+
+.CallOnRouteLine197 {
+  width: 20px;
+  height: 0;
+  left: 1323.74px;
+  top: 203px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine198 {
+  width: 14.28px;
+  height: 0;
+  left: 1323.74px;
+  top: 203px;
+  position: absolute;
+  transform: rotate(-55.53deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine199 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.74px;
+  top: 203px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine221 {
+  width: 20px;
+  height: 0;
+  left: 1323.99px;
+  top: 338px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine222 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.18px;
+  top: 334.99px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine223 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.99px;
+  top: 338px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine224 {
+  width: 20px;
+  height: 0;
+  left: 1323.42px;
+  top: 234px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine225 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.62px;
+  top: 231.29px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine226 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.42px;
+  top: 234px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine227 {
+  width: 20px;
+  height: 0;
+  left: 1323.73px;
+  top: 369px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine228 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.92px;
+  top: 369.29px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine229 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.73px;
+  top: 371px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine230 {
+  width: 20px;
+  height: 0;
+  left: 1323.6px;
+  top: 470px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine231 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.79px;
+  top: 470.29px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine232 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.6px;
+  top: 473px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine233 {
+  width: 20px;
+  height: 0;
+  left: 1323.47px;
+  top: 440px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine234 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.66px;
+  top: 437.29px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine235 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.47px;
+  top: 440px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine236 {
+  width: 20px;
+  height: 0;
+  left: 1323.16px;
+  top: 265px;
+  position: absolute;
+  transform: rotate(-89.37deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine237 {
+  width: 14.01px;
+  height: 0;
+  left: 1323.36px;
+  top: 265.29px;
+  position: absolute;
+  transform: rotate(-47.70deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine238 {
+  width: 14.08px;
+  height: 0;
+  left: 1323.16px;
+  top: 265px;
+  position: absolute;
+  transform: rotate(-130.29deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine239 {
+  width: 20px;
+  height: 0;
+  left: 1323.16px;
+  top: 274.3px;
+  position: absolute;
+  transform: rotate(91.91deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine240 {
+  width: 13.96px;
+  height: 0;
+  left: 1323.97px;
+  top: 274px;
+  position: absolute;
+  transform: rotate(133.76deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine241 {
+  width: 14.13px;
+  height: 0;
+  left: 1323.16px;
+  top: 272.3px;
+  position: absolute;
+  transform: rotate(51.15deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine242 {
+  width: 20px;
+  height: 0;
+  left: 1327.12px;
+  top: 387.3px;
+  position: absolute;
+  transform: rotate(91.91deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine243 {
+  width: 13.96px;
+  height: 0;
+  left: 1327.93px;
+  top: 387px;
+  position: absolute;
+  transform: rotate(133.76deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine244 {
+  width: 14.13px;
+  height: 0;
+  left: 1327.12px;
+  top: 383.3px;
+  position: absolute;
+  transform: rotate(51.15deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine245 {
+  width: 20px;
+  height: 0;
+  left: 1233.43px;
+  top: 535.3px;
+  position: absolute;
+  transform: rotate(91.91deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine246 {
+  width: 13.96px;
+  height: 0;
+  left: 1234.24px;
+  top: 535px;
+  position: absolute;
+  transform: rotate(133.76deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine247 {
+  width: 14.13px;
+  height: 0;
+  left: 1234.43px;
+  top: 535.3px;
+  position: absolute;
+  transform: rotate(51.15deg);
+  transform-origin: 0 0;
+  border: 1px #2F6F11 solid;
+}
+
+.CallOnRouteLine248 {
+  width: 20px;
+  height: 0;
+  left: 1315.35px;
+  top: 558px;
+  position: absolute;
+  transform: rotate(-90.39deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine249 {
+  width: 14.05px;
+  height: 0;
+  left: 1314.55px;
+  top: 558.29px;
+  position: absolute;
+  transform: rotate(-48.87deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRouteLine250 {
+  width: 14.04px;
+  height: 0;
+  left: 1315.35px;
+  top: 558px;
+  position: absolute;
+  transform: rotate(-131.45deg);
+  transform-origin: 0 0;
+  border: 1px #FB0B0B solid;
+}
+
+.CallOnRoute_0 {
+  color: #FB0B0B;
+}

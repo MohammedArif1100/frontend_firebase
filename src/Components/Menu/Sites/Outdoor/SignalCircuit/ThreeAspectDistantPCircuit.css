@@ -1,0 +1,3355 @@
+.threeSignalDistantP_Frame1 {
+    width: 1372px;
+    height: 602px;
+    position: relative;
+    background: white;
+  }
+  
+  .threeSignalDistantP_LocationNo01 {
+    width: 187px;
+    height: 35px;
+    left: 883px;
+    top: 51px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_S1d {
+    width: 187px;
+    height: 35px;
+    left: 1151px;
+    top: 83px;
+    position: absolute;
+    color: rgb(217, 39, 39);
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_Rectangle1 {
+    width: 316px;
+    height: 511px;
+    left: 0px;
+    top: 33px;
+    position: absolute;
+    background: #9DDDD9;
+    border-radius: 49px;
+  }
+  
+  .threeSignalDistantP_ElBits {
+    width: 208px;
+    height: 15px;
+    left: 45px;
+    top: 41px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle4 {
+    width: 243px;
+    height: 112px;
+    left: 32px;
+    top: 82px;
+    position: absolute;
+    background: #9DDDD9;
+    border-radius: 16px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_5546_1 {
+    width: 60px;
+    height: 20px;
+    left: 191px;
+    top: 105px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_Dr_1 {
+    width: 34px;
+    height: 30px;
+    left: 40px;
+    top: 102px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Line1 {
+    width: 24px;
+    height: 0;
+    left: 152px;
+    top: 108px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #F82F2F solid;
+  }
+  
+  .threeSignalDistantP_Line2 {
+    width: 21.3px;
+    height: 0;
+    left: 144.53px;
+    top: 132.29px;
+    position: absolute;
+    transform: rotate(-40.56deg);
+    transform-origin: 0 0;
+    border: 4px #F21E1E solid;
+  }
+  
+  .threeSignalDistantP_Line3 {
+    width: 21.3px;
+    height: 0;
+    left: 138.49px;
+    top: 118.9px;
+    position: absolute;
+    transform: rotate(40.56deg);
+    transform-origin: 0 0;
+    border: 4px #FB0E0E solid;
+  }
+  
+  .threeSignalDistantP_Hhr_1 {
+    width: 74px;
+    height: 31px;
+    left: 30px;
+    top: 168px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_4950_1 {
+    width: 145px;
+    height: 31px;
+    left: 148px;
+    top: 170px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle5 {
+    width: 275px;
+    height: 200px;
+    left: 13px;
+    top: 229px;
+    position: absolute;
+    background: #9DDDD9;
+    border-radius: 17px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_5547_1 {
+    width: 142px;
+    height: 41px;
+    left: 150px;
+    top: 374px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_ElBitsDownOwn {
+    width: 142px;
+    height: 41px;
+    left: 150px;
+    top: 499px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_ElBitsUpOwn {
+    width: 142px;
+    height: 41px;
+    left: 5px;
+    top: 499px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_Hecpr_1 {
+    width: 115px;
+    height: 36px;
+    left: -2px;
+    top: 365px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_4948_1 {
+    width: 146px;
+    height: 32px;
+    left: 149px;
+    top: 300px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hhecpr_1 {
+    width: 143px;
+    height: 32px;
+    left: -12px;
+    top: 301px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Decpr_1 {
+    width: 115px;
+    height: 31px;
+    left: 1px;
+    top: 247px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5547_2 {
+    width: 144px;
+    height: 31px;
+    left: 158px;
+    top: 247px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_RelayRoom {
+    width: 162px;
+    height: 35px;
+    left: 353px;
+    top: 59px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Line23 {
+    width: 160px;
+    height: 0;
+    left: 334px;
+    top: 122px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line24 {
+    width: 74px;
+    height: 0;
+    left: 533px;
+    top: 122px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line25 {
+    width: 37px;
+    height: 0;
+    left: 607px;
+    top: 122px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line26 {
+    width: 160px;
+    height: 0;
+    left: 334px;
+    top: 159px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line27 {
+    width: 74px;
+    height: 0;
+    left: 533px;
+    top: 159px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line28 {
+    width: 13px;
+    height: 0;
+    left: 335.35px;
+    top: 121.6px;
+    position: absolute;
+    transform: rotate(-144.19deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line29 {
+    width: 13px;
+    height: 0;
+    left: 335.91px;
+    top: 122.03px;
+    position: absolute;
+    transform: rotate(144.21deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line30 {
+    width: 13.04px;
+    height: 0;
+    left: 333.82px;
+    top: 158.73px;
+    position: absolute;
+    transform: rotate(-29.62deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line31 {
+    width: 12.94px;
+    height: 0;
+    left: 333.38px;
+    top: 158.68px;
+    position: absolute;
+    transform: rotate(44.49deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line32 {
+    width: 73px;
+    height: 0;
+    left: 535px;
+    top: 202px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line33 {
+    width: 40px;
+    height: 0;
+    left: 607px;
+    top: 202px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line34 {
+    width: 74px;
+    height: 0;
+    left: 607px;
+    top: 240px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line35 {
+    width: 33px;
+    height: 0;
+    left: 493px;
+    top: 202px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line36 {
+    width: 45px;
+    height: 0;
+    left: 448px;
+    top: 240px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line37 {
+    width: 38.93px;
+    height: 0;
+    left: 494.1px;
+    top: 122.51px;
+    position: absolute;
+    transform: rotate(151.32deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line38 {
+    width: 61px;
+    height: 0;
+    left: 460px;
+    top: 141px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line39 {
+    width: 47.97px;
+    height: 0;
+    left: 493.23px;
+    top: 160.73px;
+    position: absolute;
+    transform: rotate(158.80deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line40 {
+    width: 61px;
+    height: 0;
+    left: 448px;
+    top: 178px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line41 {
+    width: 159px;
+    height: 0;
+    left: 448px;
+    top: 272px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line42 {
+    width: 39px;
+    height: 0;
+    left: 448px;
+    top: 272px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line43 {
+    width: 160px;
+    height: 0;
+    left: 448px;
+    top: 311px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line44 {
+    width: 159px;
+    height: 0;
+    left: 448px;
+    top: 329px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line45 {
+    width: 38.23px;
+    height: 0;
+    left: 448.12px;
+    top: 328.88px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line46 {
+    width: 159px;
+    height: 0;
+    left: 448px;
+    top: 366px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line47 {
+    width: 159px;
+    height: 0;
+    left: 448px;
+    top: 393px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line48 {
+    width: 39px;
+    height: 0;
+    left: 448px;
+    top: 393px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line49 {
+    width: 159px;
+    height: 0;
+    left: 448px;
+    top: 432px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line50 {
+    width: 84px;
+    height: 0;
+    left: 635px;
+    top: 272px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line51 {
+    width: 97px;
+    height: 0;
+    left: 635px;
+    top: 311px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line52 {
+    width: 16.73px;
+    height: 0;
+    left: 718.28px;
+    top: 271.63px;
+    position: absolute;
+    transform: rotate(-32.57deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line53 {
+    width: 16.73px;
+    height: 0;
+    left: 715.92px;
+    top: 271.23px;
+    position: absolute;
+    transform: rotate(32.57deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line54 {
+    width: 18.73px;
+    height: 0;
+    left: 715.3px;
+    top: 301.05px;
+    position: absolute;
+    transform: rotate(28.75deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line55 {
+    width: 19.7px;
+    height: 0;
+    left: 731.15px;
+    top: 309.35px;
+    position: absolute;
+    transform: rotate(155.83deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line56 {
+    width: 21.7px;
+    height: 0;
+    left: 625.39px;
+    top: 266.78px;
+    position: absolute;
+    transform: rotate(32.46deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line57 {
+    width: 51.9px;
+    height: 0;
+    left: 643.44px;
+    top: 276.99px;
+    position: absolute;
+    transform: rotate(90.48deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line58 {
+    width: 13px;
+    height: 0;
+    left: 630px;
+    top: 329px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line59 {
+    width: 26.04px;
+    height: 0;
+    left: 627.19px;
+    top: 304.33px;
+    position: absolute;
+    transform: rotate(32.46deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line60 {
+    width: 48px;
+    height: 0;
+    left: 649px;
+    top: 318px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line61 {
+    width: 19px;
+    height: 0;
+    left: 649px;
+    top: 366px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line62 {
+    width: 26.05px;
+    height: 0;
+    left: 644.14px;
+    top: 336.72px;
+    position: absolute;
+    transform: rotate(-148.06deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line63 {
+    width: 55px;
+    height: 0;
+    left: 643px;
+    top: 338px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line64 {
+    width: 40px;
+    height: 0;
+    left: 643px;
+    top: 393px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line65 {
+    width: 36.09px;
+    height: 0;
+    left: 620.23px;
+    top: 360.31px;
+    position: absolute;
+    transform: rotate(41.21deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line66 {
+    width: 48.45px;
+    height: 0;
+    left: 647.38px;
+    top: 384.09px;
+    position: absolute;
+    transform: rotate(89.48deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line67 {
+    width: 62px;
+    height: 0;
+    left: 587px;
+    top: 432px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Rectangle6 {
+    width: 50px;
+    height: 279px;
+    left: 1222px;
+    top: 125px;
+    position: absolute;
+    background: black;
+    border-radius: 114px;
+  }
+  .threeSignalDistantP_Rectangle7 {
+    width: 18px;
+    height: 160px;
+    left: 1240px;
+    top: 369px;
+    position: absolute;
+    background: black;
+    border-radius: 33.5px;
+  }
+  
+  .threeSignalDistantP_Ellipse1_LY {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 142px;
+    position: absolute;
+    background: rgb(210, 232, 79);
+    border-radius: 9999px;
+  }
+
+  .threeSignalDistantP_Ellipse1_Gr {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 142px;
+    position: absolute;
+    background:grey;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse2_G {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 262px;
+    position: absolute;
+    background: rgb(6, 164, 41);
+    border-radius: 9999px;
+  }
+
+  .threeSignalDistantP_Ellipse2_Gr {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 262px;
+    position: absolute;
+    background: grey;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse3_Y {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 357px;
+    position: absolute;
+    background: yellow;
+    border-radius: 9999px;
+  }
+
+
+  .threeSignalDistantP_Ellipse3_Gr {
+    width: 34px;
+    height: 34px;
+    left: 1230px;
+    top: 357px;
+    position: absolute;
+    background: grey;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Line68 {
+    width: 85px;
+    height: 0;
+    left: 1138px;
+    top: 140px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line69 {
+    width: 89.39px;
+    height: 0;
+    left: 1140px;
+    top: 177.72px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line70 {
+    width: 192px;
+    height: 0;
+    left: 1117px;
+    top: 141px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line71 {
+    width: 192px;
+    height: 0;
+    left: 1118px;
+    top: 178px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line72 {
+    width: 249.42px;
+    height: 0;
+    left: 897.08px;
+    top: 140.85px;
+    position: absolute;
+    transform: rotate(-179.49deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line73 {
+    width: 257px;
+    height: 0;
+    left: 894px;
+    top: 178px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse4 {
+    width: 28px;
+    height: 18px;
+    left: 1112px;
+    top: 131px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse6 {
+    width: 9px;
+    height: 9px;
+    left: 1114px;
+    top: 136px;
+    position: absolute;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  .threeSignalDistantP_Ellipse7 {
+    width: 8px;
+    height: 9px;
+    left: 1128px;
+    top: 136px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Line74 {
+    width: 27.83px;
+    height: 0;
+    left: 810.29px;
+    top: 139.81px;
+    position: absolute;
+    transform: rotate(-151.69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line75 {
+    width: 27.79px;
+    height: 0;
+    left: 834.99px;
+    top: 141.19px;
+    position: absolute;
+    transform: rotate(-31.41deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line76 {
+    width: 33px;
+    height: 0;
+    left: 787px;
+    top: 126px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line77 {
+    width: 33px;
+    height: 0;
+    left: 858px;
+    top: 126px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line78 {
+    width: 70px;
+    height: 0;
+    left: 788px;
+    top: 93px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line79 {
+    width: 29.48px;
+    height: 0;
+    left: 809.1px;
+    top: 177.72px;
+    position: absolute;
+    transform: rotate(138.06deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line80 {
+    width: 30.71px;
+    height: 0;
+    left: 836.44px;
+    top: 178.79px;
+    position: absolute;
+    transform: rotate(43.26deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line81 {
+    width: 37px;
+    height: 0;
+    left: 787px;
+    top: 197px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line82 {
+    width: 37px;
+    height: 0;
+    left: 858px;
+    top: 197px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line83 {
+    width: 71px;
+    height: 0;
+    left: 788px;
+    top: 234px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line84 {
+    width: 85px;
+    height: 0;
+    left: 1223px;
+    top: 260px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line85 {
+    width: 84px;
+    height: 0;
+    left: 1140px;
+    top: 301px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line86 {
+    width: 280.08px;
+    height: 0;
+    left: 832.58px;
+    top: 262.15px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line87 {
+    width: 280.09px;
+    height: 0;
+    left: 832.58px;
+    top: 301.7px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line88 {
+    width: 32px;
+    height: 0;
+    left: 810px;
+    top: 263px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line89 {
+    width: 55px;
+    height: 0;
+    left: 754px;
+    top: 301px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .threeSignalDistantP_Line90 {
+    width: 44.06px;
+    height: 0;
+    left: 809.59px;
+    top: 140.34px;
+    position: absolute;
+    transform: rotate(139.05deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line91 {
+    width: 94px;
+    height: 0;
+    left: 776px;
+    top: 169px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line92 {
+    width: 67.33px;
+    height: 0;
+    left: 809.1px;
+    top: 176.12px;
+    position: absolute;
+    transform: rotate(144.31deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line93 {
+    width: 87px;
+    height: 0;
+    left: 754px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line95 {
+    width: 85px;
+    height: 0;
+    left: 1139px;
+    top: 359px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line97 {
+    width: 101.21px;
+    height: 0;
+    left: 1138.31px;
+    top: 394.68px;
+    position: absolute;
+    transform: rotate(-0.61deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line98 {
+    width: 233.11px;
+    height: 0;
+    left: 1112.66px;
+    top: 357.81px;
+    position: absolute;
+    transform: rotate(179.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Dr_2 {
+    width: 48px;
+    height: 23px;
+    left: 520px;
+    top: 92px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_3V_1 {
+    width: 82px;
+    height: 26px;
+    left: 315px;
+    top: 132px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_1024_1 {
+    width: 87px;
+    height: 26px;
+    left: 360px;
+    top: 132px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_EldSigNil_1 {
+    width: 132px;
+    height: 25px;
+    left: 359px;
+    top: 143px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Dr_3 {
+    width: 17px;
+    height: 26px;
+    left: 537px;
+    top: 141px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle8_R {
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 122px;
+    position: absolute;
+    background: red;
+  }
+
+  .threeSignalDistantP_Rectangle8_G {
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 122px;
+    position: absolute;
+    background: green;
+  }
+
+  .threeSignalDistantP_Rectangle8_Gr {
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 122px;
+    position: absolute;
+    background:grey;
+  }
+  
+  .threeSignalDistantP_Dpr_1 {
+    width: 22px;
+    height: 39px;
+    left: 575px;
+    top: 126px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 469;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5546_2 {
+    width: 83px;
+    height: 38px;
+    left: 540px;
+    top: 144px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line101 {
+    position: absolute;
+    width: 201px;
+    height: 0;
+    left: 879px;
+    top: 359px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line102 {
+    position: absolute;
+    width: 52.03px;
+    height: 0;
+    left: 909.44px;
+    top: 164.53px;
+    transform: rotate(139.24deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line103 {
+    position: absolute;
+    width: 194px;
+    height: 0;
+    left: 871px;
+    top: 199px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  /* styles.css */
+  
+  .threeSignalDistantP_Line104 {
+    position: absolute;
+    width: 7.25px;
+    height: 0;
+    left: 533.23px;
+    top: 122.68px;
+    transform: rotate(-114.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line105 {
+    position: absolute;
+    width: 6.89px;
+    height: 0;
+    left: 533.23px;
+    top: 123.21px;
+    transform: rotate(-58.98deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line106 {
+    position: absolute;
+    width: 7.25px;
+    height: 0;
+    left: 533.45px;
+    top: 160.41px;
+    transform: rotate(-114.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line107 {
+    position: absolute;
+    width: 6.89px;
+    height: 0;
+    left: 533.91px;
+    top: 160.44px;
+    transform: rotate(-58.98deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Hhr_2 {
+    position: absolute;
+    width: 52px;
+    height: 14px;
+    left: 530px;
+    top: 185px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hhr_3 {
+    position: absolute;
+    width: 29px;
+    height: 39px;
+    left: 535px;
+    top: 223px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line108 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 530.64px;
+    top: 196.47px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line109 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 534.48px;
+    top: 202.63px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line110 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 530.04px;
+    top: 235.29px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line111 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 533.14px;
+    top: 241.02px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Rectangle9_R {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 202px;
+    background: red;
+  }
+    
+  .threeSignalDistantP_Rectangle9_G {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 202px;
+    background: green;
+  }
+    
+  .threeSignalDistantP_Rectangle9_Gr {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 564px;
+    top: 202px;
+    background: grey;
+  }
+  
+  .threeSignalDistantP_Hhpr_1 {
+    position: absolute;
+    width: 32px;
+    height: 26px;
+    left: 569px;
+    top: 206px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_4950_2 {
+    position: absolute;
+    width: 78px;
+    height: 39px;
+    left: 546px;
+    top: 223px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Ellipse22 {
+    position: absolute;
+    width: 3px;
+    height: 4px;
+    left: 492px;
+    top: 122px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse23 {
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    left: 492px;
+    top: 158px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse24 {
+    position: absolute;
+    width: 3px;
+    height: 5px;
+    left: 493px;
+    top: 201px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse25 {
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    left: 492px;
+    top: 238px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Line112 {
+    position: absolute;
+    width: 13.31px;
+    height: 0;
+    left: 493.85px;
+    top: 123.02px;
+    transform: rotate(-54.31deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line113,
+  .threeSignalDistantP_Line114,
+  .threeSignalDistantP_Line115 {
+      position: absolute;
+      width: 13.31px;
+      height: 0;
+      transform-origin: 0 0;
+      border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_Line113 {
+      left: 495.02px;
+      top: 159.67px;
+      transform: rotate(-54.31deg);
+  }
+  
+  .threeSignalDistantP_Line114 {
+      left: 494.32px;
+      top: 204.03px;
+      transform: rotate(-54.31deg);
+  }
+  
+  .threeSignalDistantP_Line115 {
+      left: 493.97px;
+      top: 240.9px;
+      transform: rotate(-54.31deg);
+  }
+  
+  .threeSignalDistantP_Rectangle10_R,
+  .threeSignalDistantP_Rectangle11_R {
+      position: absolute;
+      background: red;
+  }
+  
+  .threeSignalDistantP_Rectangle10_R {
+      width: 44px;
+      height: 19px;
+      left: 452px;
+      top: 272px;
+  }
+
+  .threeSignalDistantP_Rectangle10_G,
+  .threeSignalDistantP_Rectangle11_G {
+      position: absolute;
+      background: green;
+  }
+  
+  .threeSignalDistantP_Rectangle10_G {
+      width: 44px;
+      height: 19px;
+      left: 452px;
+      top: 272px;
+  }
+  .threeSignalDistantP_Rectangle10_Gr,
+  .threeSignalDistantP_Rectangle11_Gr {
+      position: absolute;
+      background: grey;
+  }
+  
+  .threeSignalDistantP_Rectangle10Gr {
+      width: 44px;
+      height: 19px;
+      left: 452px;
+      top: 272px;
+  }
+  
+  .threeSignalDistantP_Decpr_2 {
+      position: absolute;
+      width: 65px;
+      height: 12px;
+      left: 442px;
+      top: 275px;
+      color: black;
+      font-size: 10px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle11_R {
+      width: 47px;
+      height: 20px;
+      left: 452px;
+      top: 329px;
+  }
+
+  .threeSignalDistantP_Rectangle11_G {
+      width: 47px;
+      height: 20px;
+      left: 452px;
+      top: 329px;
+  }
+
+  .threeSignalDistantP_Rectangle11_Gr {
+    width: 47px;
+    height: 20px;
+    left: 452px;
+    top: 329px;
+}
+  /* styles.css */
+  
+  .threeSignalDistantP_Hhecpr_2 {
+    position: absolute;
+    width: 69px;
+    height: 13px;
+    left: 442px;
+    top: 332px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 490;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle12_R {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 452px;
+    top: 393px;
+    background: red;
+  }
+
+  .threeSignalDistantP_Rectangle12_G {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 452px;
+    top: 393px;
+    background: green;
+  }
+
+  .threeSignalDistantP_Rectangle12_Gr {
+    position: absolute;
+    width: 37px;
+    height: 21px;
+    left: 452px;
+    top: 393px;
+    background: grey;
+  }
+  
+  .threeSignalDistantP_Hecpr_2 {
+    position: absolute;
+    width: 35px;
+    height: 26px;
+    left: 452px;
+    top: 397px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Decpr_3 {
+    position: absolute;
+    width: 68px;
+    height: 14px;
+    left: 549px;
+    top: 257px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hhecpr_3 {
+    position: absolute;
+    width: 64px;
+    height: 12px;
+    left: 546px;
+    top: 316px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Hhecpr_4 {
+    position: absolute;
+    width: 57px;
+    height: 14px;
+    left: 556px;
+    top: 350px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hecr_1 {
+    position: absolute;
+    width: 43px;
+    height: 12px;
+    left: 559px;
+    top: 378px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hecr_2 {
+    position: absolute;
+    width: 54px;
+    height: 12px;
+    left: 559px;
+    top: 417px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_VDcExtNil_2 {
+    position: absolute;
+    width: 92px;
+    height: 14px;
+    left: 633px;
+    top: 256px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_VDcExtNil_1 {
+    position: absolute;
+    width: 92px;
+    height: 14px;
+    left: 356px;
+    top: 102px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .threeSignalDistantP_3V_2 {
+    position: absolute;
+    width: 33px;
+    height: 14px;
+    left: 645px;
+    top: 287px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_1024_2 {
+    position: absolute;
+    width: 61px;
+    height: 12px;
+    left: 675px;
+    top: 287px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_5548_1 {
+    position: absolute;
+    width: 60px;
+    height: 11px;
+    left: 452px;
+    top: 294px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_4949 {
+    position: absolute;
+    width: 75px;
+    height: 14px;
+    left: 452px;
+    top: 350px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5548_2 {
+    position: absolute;
+    width: 44px;
+    height: 37px;
+    left: 455px;
+    top: 417px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Ellipse26 {
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 633px;
+    top: 269px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  
+  .threeSignalDistantP_Ellipse27 {
+    position: absolute;
+    width: 4px;
+    height: 4px;
+    left: 633px;
+    top: 292px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Ellipse28 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 628px;
+    top: 327px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  
+  .threeSignalDistantP_Ellipse29 {
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 628px;
+    top: 365px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  
+  .threeSignalDistantP_Ellipse30 {
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 628px;
+    top: 391px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  
+  .threeSignalDistantP_Ellipse31 {
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 628px;
+    top: 429px;
+    background: black;
+    border-radius: 9999px; /* Adjusted for CSS syntax */
+  }
+  
+  .threeSignalDistantP_Line116 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 603.69px;
+    top: 266.34px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line117 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 607.62px;
+    top: 271.6px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line118 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 604.52px;
+    top: 303.61px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line119 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 608.43px;
+    top: 309.38px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line120 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 603.8px;
+    top: 323.07px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line121 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 607.84px;
+    top: 328.99px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line122 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 604.04px;
+    top: 360.93px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line123 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 608.02px;
+    top: 366.6px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line124 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 603.45px;
+    top: 388.05px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line125 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 607.27px;
+    top: 393.98px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line126 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 603.59px;
+    top: 426.64px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line127 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 607.34px;
+    top: 432.51px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line128 {
+    position: absolute;
+    width: 11.95px;
+    height: 0;
+    left: 624.37px;
+    top: 265.36px;
+    transform: rotate(34.81deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line129 {
+    position: absolute;
+    width: 11.95px;
+    height: 0;
+    left: 625.07px;
+    top: 302.77px;
+    transform: rotate(34.81deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_Line130 {
+    position: absolute;
+    width: 11.95px;
+    height: 0;
+    left: 620.51px;
+    top: 322.01px;
+    transform: rotate(34.81deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_Line131 {
+    position: absolute;
+    width: 11.95px;
+    height: 0;
+    left: 618.76px;
+    top: 359.41px;
+    transform: rotate(34.81deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_Line132 {
+    position: absolute;
+    width: 11px;
+    height: 0;
+    left: 628px;
+    top: 393px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_Line133 {
+    position: absolute;
+    width: 11px;
+    height: 0;
+    left: 628px;
+    top: 432px;
+    transform: rotate(-180deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+  }
+  
+  .threeSignalDistantP_VAcToRelayRoom {
+    position: absolute;
+    width: 129px;
+    height: 26px;
+    left: 654px;
+    top: 122px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Dpr_2 {
+    position: absolute;
+    width: 21px;
+    height: 25px;
+    left: 814px;
+    top: 101px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Decpr_4 {
+    position: absolute;
+    width: 36px;
+    height: 26px;
+    left: 803px;
+    top: 73px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Dpr_3 {
+    position: absolute;
+    width: 24px;
+    height: 10px;
+    left: 841px;
+    top: 158px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line99 {
+    position: absolute;
+    width: 241.87px;
+    height: 0;
+    left: 870.79px;
+    top: 394.15px;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line100 {
+    position: absolute;
+    width: 43.1px;
+    height: 0;
+    left: 909.13px;
+    top: 128.34px;
+    transform: rotate(134.26deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_V151024 {
+    position: absolute;
+    width: 98px;
+    height: 38px;
+    left: 617px;
+    top: 147px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_EldSigNil_2 {
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 705px;
+    top: 159px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hhpr_2 {
+    position: absolute;
+    width: 73px;
+    height: 12px;
+    left: 933px;
+    top: 122px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Hhpr_3 {
+    position: absolute;
+    width: 63px;
+    height: 12px;
+    left: 934px;
+    top: 158px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_34 {
+    position: absolute;
+    width: 78px;
+    height: 17px;
+    left: 1000px;
+    top: 147px;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_V134949 {
+    position: absolute;
+    width: 78px;
+    height: 14px;
+    left: 1039px;
+    top: 156px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_C_1 {
+    position: absolute;
+    width: 26px;
+    height: 15px;
+    left: 1134px;
+    top: 149px;
+    color: #FE0808;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Ma_1 {
+    position: absolute;
+    width: 35px;
+    height: 15px;
+    left: 1145px;
+    top: 149px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_4948_2 {
+    position: absolute;
+    width: 42px;
+    height: 39px;
+    left: 1176px;
+    top: 160px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Decr_1 {
+    position: absolute;
+    width: 28px;
+    height: 27px;
+    left: 812px;
+    top: 202px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Dpr_4 {
+    position: absolute;
+    width: 47px;
+    height: 11px;
+    left: 821px;
+    top: 270px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Dpr_5 {
+    position: absolute;
+    width: 47px;
+    height: 11px;
+    left: 821px;
+    top: 312px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle13,
+  .threeSignalDistantP_Rectangle14 {
+    position: absolute;
+    width: 38px;
+    height: 20px;
+    background: #FE0808;
+  }
+  
+  .threeSignalDistantP_Rectangle13 {
+    left: 1022px;
+    top: 179px;
+  }
+  
+  .threeSignalDistantP_Rectangle14 {
+    left: 1022px;
+    top: 302px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Decr_2 {
+    position: absolute;
+    width: 28px;
+    height: 26px;
+    left: 1030px;
+    top: 306px;
+    color: #F5F5F5;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Rectangle15 {
+    position: absolute;
+    width: 38px;
+    height: 20px;
+    left: 1022px;
+    top: 397px;
+    background: #06A429;
+  }
+  
+  .threeSignalDistantP_Hecr_3 {
+    position: absolute;
+    width: 29px;
+    height: 25px;
+    left: 1031px;
+    top: 400px;
+    color: #F5F5F5;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Hhecr {
+    position: absolute;
+    width: 35px;
+    height: 26px;
+    left: 1025px;
+    top: 181px;
+    color: #F5F5F5;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_4948_3 {
+    position: absolute;
+    width: 43px;
+    height: 26px;
+    left: 1053px;
+    top: 205px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_27 {
+    position: absolute;
+    width: 35px;
+    height: 33px;
+    left: 1040px;
+    top: 270px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_V135548_1 {
+    position: absolute;
+    width: 79px;
+    height: 39px;
+    left: 1055px;
+    top: 280px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_C_2 {
+    position: absolute;
+    width: 6px;
+    height: 14px;
+    left: 1140px;
+    top: 275px;
+    color: #FE0808;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  /* Adjusted style for numeric value '0' */
+  .threeSignalDistantP_C_2 div {
+    position: absolute;
+    width: 9px;
+    height: 21px;
+    left: 1152px;
+    top: 270px;
+    color: #FE0808;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_V119 {
+    position: absolute;
+    width: 26px;
+    height: 29px;
+    left: 1152px;
+    top: 369px;
+    color: #06A429;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Ma_2 {
+    position: absolute;
+    width: 35px;
+    height: 25px;
+    left: 1145px;
+    top: 270px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5546_3 {
+    position: absolute;
+    width: 43px;
+    height: 24px;
+    left: 1175px;
+    top: 286px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5548_3 {
+    position: absolute;
+    width: 42px;
+    height: 25px;
+    left: 1059px;
+    top: 329px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_5548_3 {
+    position: absolute;
+    width: 42px;
+    height: 25px;
+    left: 1059px;
+    top: 329px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_118 {
+    position: absolute;
+    width: 51px;
+    height: 36px;
+    left: 1023px;
+    top: 363px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_V135548_2 {
+    position: absolute;
+    width: 54px;
+    height: 39px;
+    left: 1061px;
+    top: 373px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_5547_3 {
+    position: absolute;
+    width: 47px;
+    height: 27px;
+    left: 1060px;
+    top: 421px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_C_3 {
+    position: absolute;
+    width: 6px;
+    height: 15px;
+    left: 1142px;
+    top: 370px;
+    color: #FE0808;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Ma_3 {
+    position: absolute;
+    width: 38px;
+    height: 26px;
+    left: 1145px;
+    top: 364px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_5547_4 {
+    position: absolute;
+    width: 41px;
+    height: 26px;
+    left: 1177px;
+    top: 379px;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Line134 {
+    position: absolute;
+    width: 13.86px;
+    height: 0;
+    left: 648.75px;
+    top: 138.18px;
+    transform: rotate(-147.84deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line135 {
+    position: absolute;
+    width: 14.29px;
+    height: 0;
+    left: 648.83px;
+    top: 138.52px;
+    transform: rotate(147.84deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line136 {
+    position: absolute;
+    width: 15.36px;
+    height: 0;
+    left: 647.41px;
+    top: 165.96px;
+    transform: rotate(128.06deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line137 {
+    position: absolute;
+    width: 14.94px;
+    height: 0;
+    left: 637.29px;
+    top: 178.62px;
+    transform: rotate(45.52deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line138 {
+    position: absolute;
+    width: 6.64px;
+    height: 0;
+    left: 835.76px;
+    top: 140.17px;
+    transform: rotate(126.01deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line139 {
+    position: absolute;
+    width: 6.56px;
+    height: 0;
+    left: 835.74px;
+    top: 141.38px;
+    transform: rotate(52.40deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line140 {
+    position: absolute;
+    width: 7.51px;
+    height: 0;
+    left: 839.24px;
+    top: 92.75px;
+    transform: rotate(108.96deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line141 {
+    position: absolute;
+    width: 7.43px;
+    height: 0;
+    left: 839.24px;
+    top: 92.75px;
+    transform: rotate(69.45deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line142 {
+    position: absolute;
+    width: 7.07px;
+    height: 0;
+    left: 835.74px;
+    top: 178.79px;
+    transform: rotate(117.69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line143 {
+    position: absolute;
+    width: 7.46px;
+    height: 0;
+    left: 836.09px;
+    top: 178.79px;
+    transform: rotate(70.10deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line144 {
+    position: absolute;
+    width: 6.74px;
+    height: 0;
+    left: 837.1px;
+    top: 233.59px;
+    transform: rotate(123.95deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line145 {
+    position: absolute;
+    width: 7.36px;
+    height: 0;
+    left: 836.59px;
+    top: 233.68px;
+    transform: rotate(68.07deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line146 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 828.68px;
+    top: 256.33px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line147 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 832.65px;
+    top: 262.26px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line148 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 829px;
+    top: 295.87px;
+    transform: rotate(56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Line149 {
+    position: absolute;
+    width: 6.78px;
+    height: 0;
+    left: 833.44px;
+    top: 301.34px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse32 {
+    position: absolute;
+    width: 4px;
+    height: 6px;
+    left: 808px;
+    top: 137px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse33 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 808px;
+    top: 175px;
+    background: black;
+    border-radius: 9999px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Ellipse34 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 808px;
+    top: 260px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse35 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 808px;
+    top: 300px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse36 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 808px;
+    top: 90px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Line150 {
+    position: absolute;
+    width: 9.04px;
+    height: 0;
+    left: 810.5px;
+    top: 264.37px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Line151 {
+    position: absolute;
+    width: 9.04px;
+    height: 0;
+    left: 811.2px;
+    top: 302.84px;
+    transform: rotate(-56.74deg);
+    transform-origin: 0 0;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Line152 {
+    position: absolute;
+    width: 6px;
+    height: 0;
+    left: 812px;
+    top: 179px;
+    border: 4px black solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line153 {
+    position: absolute;
+    width: 8px;
+    height: 0;
+    left: 809px;
+    top: 141px;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Line154 {
+    position: absolute;
+    width: 7px;
+    height: 0;
+    left: 811px;
+    top: 94px;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Line155 {
+    position: absolute;
+    width: 18.53px;
+    height: 0;
+    left: 896.81px;
+    top: 141.79px;
+    transform: rotate(-44.72deg);
+    transform-origin: 0 0;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Line156 {
+    position: absolute;
+    width: 21.43px;
+    height: 0;
+    left: 894.27px;
+    top: 178.86px;
+    transform: rotate(-42.60deg);
+    transform-origin: 0 0;
+    border: 4px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse37 {
+    position: absolute;
+    width: 3px;
+    height: 7px;
+    left: 894px;
+    top: 137px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse38 {
+    position: absolute;
+    width: 4px;
+    height: 5px;
+    left: 892px;
+    top: 175px;
+    background: black;
+    border-radius: 9999px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Rectangle16 {
+    position: absolute;
+    width: 27px;
+    height: 25px;
+    left: 341px;
+    top: 484px;
+    background: #06A429;
+  }
+  
+  .threeSignalDistantP_Rectangle17 {
+    position: absolute;
+    width: 28px;
+    height: 29px;
+    left: 448px;
+    top: 484px;
+    background: #FE0808;
+  }
+  
+  .threeSignalDistantP_RelayUp {
+    position: absolute;
+    width: 102px;
+    height: 22px;
+    left: 310px;
+    top: 522px;
+    color: black;
+    font-size: 10px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_RelayDown {
+    position: absolute;
+    width: 136px;
+    height: 22px;
+    left: 400px;
+    top: 519px;
+    color: black;
+    font-size: 10px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .threeSignalDistantP_Line157 {
+    position: absolute;
+    width: 24px;
+    height: 0;
+    left: 152px;
+    top: 161px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #F82F2F solid;
+  }
+  
+  .threeSignalDistantP_Line158 {
+    position: absolute;
+    width: 21.3px;
+    height: 0;
+    left: 145.63px;
+    top: 181.73px;
+    transform: rotate(-40.56deg);
+    transform-origin: 0 0;
+    border: 4px #F21E1E solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line159 {
+    position: absolute;
+    width: 21.3px;
+    height: 0;
+    left: 137.59px;
+    top: 169.34px;
+    transform: rotate(40.56deg);
+    transform-origin: 0 0;
+    border: 4px #FB0E0E solid;
+  }
+  
+  .threeSignalDistantP_Line160 {
+    position: absolute;
+    width: 24px;
+    height: 0;
+    left: 153px;
+    top: 247px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #F82F2F solid;
+  }
+  
+  .threeSignalDistantP_Line161 {
+    position: absolute;
+    width: 21.3px;
+    height: 0;
+    left: 144.56px;
+    top: 269.3px;
+    transform: rotate(-40.56deg);
+    transform-origin: 0 0;
+    border: 4px #F21E1E solid;
+  }
+  
+  .threeSignalDistantP_Line162 {
+    position: absolute;
+    width: 22.3px;
+    height: 0;
+    left: 135.15px;
+    top: 254.91px;
+    transform: rotate(40.56deg);
+    transform-origin: 0 0;
+    border: 4px #FB0E0E solid;
+  }
+  
+  .threeSignalDistantP_Line163 {
+    position: absolute;
+    width: 27px;
+    height: 0;
+    left: 150px;
+    top: 297px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #F82F2F solid;
+  }
+  
+  .threeSignalDistantP_Line164 {
+    position: absolute;
+    width: 23.3px;
+    height: 0;
+    left: 139.96px;
+    top: 324.01px;
+    transform: rotate(-40.56deg);
+    transform-origin: 0 0;
+    border: 4px #F21E1E solid;
+  }
+  
+  .threeSignalDistantP_Line165 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 131.92px;
+    top: 308.62px;
+    transform: rotate(40.56deg);
+    transform-origin: 0 0;
+    border: 4px #FB0E0E solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line166 {
+    position: absolute;
+    width: 27.96px;
+    height: 0;
+    left: 139.72px;
+    top: 391.52px;
+    transform: rotate(-89.97deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Line167 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 145.4px;
+    top: 370.16px;
+    transform: rotate(139.48deg);
+    transform-origin: 0 0;
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Line168 {
+    position: absolute;
+    width: 26.3px;
+    height: 0;
+    left: 162.81px;
+    top: 384.56px;
+    transform: rotate(-139.41deg);
+    transform-origin: 0 0;
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Line169 {
+    position: absolute;
+    width: 27px;
+    height: 0;
+    left: 223px;
+    top: 469px;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #F82F2F solid;
+  }
+  
+  .threeSignalDistantP_Line170 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 215.49px;
+    top: 492.91px;
+    transform: rotate(-40.56deg);
+    transform-origin: 0 0;
+    border: 4px #F21E1E solid;
+  }
+  
+  .threeSignalDistantP_Line171 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 206.45px;
+    top: 480.53px;
+    transform: rotate(40.56deg);
+    transform-origin: 0 0;
+    border: 4px #FB0E0E solid;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Line172 {
+    position: absolute;
+    width: 34.96px;
+    height: 0;
+    left: 59.47px;
+    top: 490.52px;
+    transform: rotate(-89.97deg);
+    transform-origin: 0 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Line173 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 64.15px;
+    top: 462.15px;
+    transform: rotate(139.48deg);
+    transform-origin: 0 0;
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Line174 {
+    position: absolute;
+    width: 20.3px;
+    height: 0;
+    left: 78.56px;
+    top: 474.55px;
+    transform: rotate(-139.41deg);
+    transform-origin: 0 0;
+    border: 4px #06A429 solid;
+  }
+  
+  .threeSignalDistantP_Ellipse39 {
+    position: absolute;
+    width: 28px;
+    height: 17px;
+    left: 1112px;
+    top: 170px;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse40 {
+    position: absolute;
+    width: 9px;
+    height: 10px;
+    left: 1114px;
+    top: 175px;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse41 {
+    position: absolute;
+    width: 8px;
+    height: 10px;
+    left: 1128px;
+    top: 175px;
+    background: black;
+    border-radius: 9999px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Ellipse42 {
+    position: absolute;
+    width: 28px;
+    height: 17px;
+    left: 1111px;
+    top: 250px;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse43 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1113px;
+    top: 254px;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse44 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1127px;
+    top: 254px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse48 {
+    position: absolute;
+    width: 27px;
+    height: 17px;
+    left: 1113px;
+    top: 349px;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse49 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1114px;
+    top: 354px;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Ellipse50 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1128px;
+    top: 354px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse51 {
+    position: absolute;
+    width: 26px;
+    height: 17px;
+    left: 1114px;
+    top: 385px;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse52 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1115px;
+    top: 389px;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse53 {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 1129px;
+    top: 389px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_Ellipse57 {
+    position: absolute;
+    width: 27px;
+    height: 19px;
+    left: 1113px;
+    top: 290px;
+    background: white;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .threeSignalDistantP_Ellipse58 {
+    position: absolute;
+    width: 9px;
+    height: 8px;
+    left: 1114px;
+    top: 295px;
+    background: #141212;
+    border-radius: 9999px;
+  }
+  /* styles.css */
+  
+  .threeSignalDistantP_Ellipse59 {
+    position: absolute;
+    width: 9px;
+    height: 8px;
+    left: 1128px;
+    top: 295px;
+    background: black;
+    border-radius: 9999px;
+  }
+  
+  .threeSignalDistantP_0 {
+    width: 9px;
+    height: 21px;
+    left: 1152px;
+    top: 270px;
+    position: absolute;
+    color: "#FE0808";
+    font-size: 20px;
+    font-family: "Inter";
+    font-weight: "400";
+    word-wrap: "break-word";
+}
+
+.threeSignalDistantP_00 {
+    width: 26px;
+    height: 29px;
+    left: 1152px;
+    top: 369px;
+    position: absolute;
+    color: "#06A429";
+    font-size: 10px;
+    font-family: "Inter";
+    font-weight: "400";
+    word-wrap: "break-word";
+}

@@ -1,0 +1,5159 @@
+/* .parent-div{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding-left: 12%;
+  padding-top: 2%;
+}
+.Frame1{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 5000px;
+  height: 100%;
+  position: relative;
+  background: white;
+}
+.Line1{
+  width: 264px;
+  height: 0px;
+  left: 157px;
+  top: 57px;
+  position: absolute;
+  border: 1px black solid;
+}
+.Line2{
+  width: 264px;
+  height: 0px;
+  left: 157px;
+  top: 104px;
+  position: absolute;
+  border: 1px black solid;
+}
+.Line3{
+  width: 281px;
+  height: 0px;
+  left: 192px;
+  top: 104px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid; 
+}
+.Line4{
+  width: 291px;
+  height: 0px;
+  left: 231px;
+  top: 57px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+}
+.Line5{
+  width: 133px;
+  height: 0px;
+  left: 343.5px;
+  top: 57px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line6{
+  width: 86.01px;
+  height: 0px;
+  left: 382.49px;
+  top: 104px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line7{
+  width: 679px;
+  height: 0px;
+  left: 157px;
+  top: 385px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line8{
+  width: 679px;
+  height: 0px;
+  left: 157px;
+  top: 348px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle1{
+  width: 63px;
+  height: 15px;
+  left: 332px;
+  top: 190px;
+  position: absolute;
+  background: rgb(29, 109, 42);
+}
+.Line9{
+  width: 538px;
+  height: 0px;
+  left: 298px;
+  top: 212.25px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line10{
+  width: 538.01px;
+  height: 0px;
+  left: 298px;
+  top: 253.52px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line11{
+  width: 66px;
+height: 0px;
+left: 343px;
+top: 212px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line12{
+  width: 47px;
+height: 0px;
+left: 308px;
+top: 253px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line13{
+  width: 429px;
+height: 0px;
+left: 308px;
+top: 300px;
+position: absolute;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line14{
+  width: 394px;
+height: 0px;
+left: 343px;
+top: 279px;
+position: absolute;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line15{
+  width: 18px;
+height: 0px;
+left: 739px;
+top: 280px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.DctcC1t{
+  width: 137px;
+height: 50px;
+left: 222px;
+top: 13px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 22px;
+font-family: Inter;
+font-weight: 700;
+overflow-wrap: break-word;
+}
+.Line16{
+  width: 37px;
+height: 0px;
+left: 482px;
+top: 216px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line17{
+  width: 37px;
+height: 0px;
+left: 511px;
+top: 216px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line18{
+  width: 38px;
+height: 0px;
+left: 542px;
+top: 215px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line19{
+  width: 37px;
+height: 0px;
+left: 576px;
+top: 216px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line20{
+  width: 38px;
+height: 0px;
+left: 608px;
+top: 215px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line21{
+  width: 36px;
+height: 0px;
+left: 641px;
+top: 217px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line22{
+  width: 37px;
+height: 0px;
+left: 673px;
+top: 216px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line23{
+  width: 37px;
+height: 0px;
+left: 707px;
+top: 216px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line24{
+  width: 38px;
+height: 0px;
+left: 738px;
+top: 215px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle2{
+  width: 288px;
+height: 18px;
+left: 467px;
+top: 226px;
+position: absolute;
+background: white;
+border-radius: 3px;
+border: 1px solid black;
+}
+.TextBox1{
+  width: 21px;
+height: 9px;
+left: 472px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+  
+}
+.TextBox2{
+  width: 21px;
+height: 9px;
+left: 472px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+  
+}
+.TextBox3{
+  width: 23px;
+height: 9px;
+left: 500px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+ 
+}
+.TextBox4{
+  width: 23px;
+height: 9px;
+left: 531px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+ 
+}
+.TextBox5{
+  width: 23px;
+height: 9px;
+left: 565px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+  
+}
+.TextBox6{
+  width: 23px;
+height: 9px;
+left: 597px;
+top: 230px;
+position: absolute;
+opacity: 0.9;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox7{
+  width: 23px;
+  height: 9px;
+  left: 630px;
+  top: 230px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  overflow-wrap: break-word;
+}
+.TextBox8{
+  width: 23px;
+height: 9px;
+left: 662px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox9{
+  width: 23px;
+height: 9px;
+left: 697px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox10{
+  width: 23px;
+height: 9px;
+left: 727px;
+top: 230px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.Rectangle3{
+  width: 17px;
+  height: 14px;
+  left: 798px;
+  top: 215px;
+  position: absolute;
+  mix-blend-mode: multiply;
+  border-radius: 3px;
+}
+.Rectangle4{
+  width: 125px;
+  height: 73px;
+  left: 789px;
+  top: 326px;
+  position: absolute;
+  mix-blend-mode: multiply;
+  background: white;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle5{
+  width: 63px;
+height: 17px;
+left: 182px;
+top: 312px;
+position: absolute;
+background: white;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Tfc{
+  width: 35px;
+height: 8px;
+left: 195px;
+top: 311px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 700;
+overflow-wrap: break-word;
+}
+.Line25{
+  width: 32px;
+height: 0px;
+left: 428px;
+top: 352px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line26{
+  width: 32px;
+height: 0px;
+left: 460px;
+top: 352px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line27{
+  width: 32px;
+height: 0px;
+left: 492px;
+top: 352px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line28{
+  width: 32px;
+height: 0px;
+left: 527px;
+top: 352px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Line29{
+  width: 32px;
+height: 0px;
+left: 561px;
+top: 352px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle6{
+  width: 177px;
+height: 15px;
+left: 408px;
+top: 360px;
+position: absolute;
+background: white;
+border-radius: 2px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.TextBox11{
+  width: 21px;
+height: 9px;
+left: 419px;
+top: 363px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox12{
+  width: 21px;
+height: 9px;
+left: 451px;
+top: 363px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox13{
+  width: 21px;
+  height: 9px;
+  left: 483px;
+  top: 363px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  overflow-wrap: break-word;
+}
+.TextBox14{
+  width: 21px;
+height: 9px;
+left: 518px;
+top: 363px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.TextBox15{
+  width: 21px;
+height: 9px;
+left: 552px;
+top: 363px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.Rectangle7{
+  width: 10px;
+  height: 15px;
+  left: 444px;
+  top: 218px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0px 0px 0px;
+  background: white;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.Rectangle8{
+  width: 10px;
+height: 15px;
+left: 475px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle9{
+  width: 10px;
+height: 15px;
+left: 504px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle10{
+  width: 10px;
+height: 15px;
+left: 535px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle11{
+  width: 10px;
+height: 15px;
+left: 569px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle13{
+  width: 10px;
+height: 15px;
+left: 601px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle14{
+  width: 10px;
+height: 15px;
+left: 634px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle15{
+  width: 10px;
+height: 15px;
+left: 666px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle16{
+  width: 10px;
+height: 15px;
+left: 700px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle17{
+  width: 10px;
+height: 15px;
+left: 731px;
+top: 218px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle18{
+  width: 10px;
+height: 15px;
+left: 421px;
+top: 354px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse30{
+  width: 4px;
+height: 4px;
+left: 430px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Rectangle19{
+  width: 10px;
+height: 15px;
+left: 453px;
+top: 354px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse32{
+  width: 4px;
+height: 4px;
+left: 462px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse31{
+  width: 4px;
+  height: 4px;
+  left: 455px;
+  top: 346px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Rectangle20{
+  width: 10px;
+height: 15px;
+left: 485px;
+top: 354px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse34{
+  width: 4px;
+  height: 4px;
+  left: 487px;
+  top: 346px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse33{
+  width: 4px;
+  height: 4px;
+  left: 494px;
+  top: 346px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Rectangle21{
+  width: 10px;
+height: 15px;
+left: 520px;
+top: 354px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse36{
+  width: 4px;
+height: 4px;
+left: 529px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse35{
+  width: 4px;
+  height: 4px;
+  left: 522px;
+  top: 346px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Rectangle22{
+  width: 10px;
+height: 15px;
+left: 554px;
+top: 354px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse38{
+  width: 4px;
+height: 4px;
+left: 556px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse37{
+  width: 4px;
+height: 4px;
+left: 563px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Rectangle23{
+  width: 10px;
+height: 15px;
+left: 379px;
+top: 285px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse39{
+  width: 4px;
+  height: 4px;
+  left: 381px;
+  top: 277px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Rectangle24{
+  width: 10px;
+height: 15px;
+left: 423px;
+top: 285px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle25{
+  width: 10px;
+height: 15px;
+left: 353px;
+top: 306px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle26{
+  width: 10px;
+height: 15px;
+left: 413px;
+top: 306px;
+position: absolute;
+transform: rotate(-90deg);
+transform-origin: 0px 0px 0px;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle27{
+  width: 10px;
+height: 15px;
+left: 225px;
+top: 121.5px;
+position: absolute;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle28{
+  width: 10px;
+height: 15px;
+left: 186px;
+top: 121.5px;
+position: absolute;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle29{
+  width: 10px;
+height: 15px;
+left: 337px;
+top: 121px;
+position: absolute;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Rectangle30{
+  width: 10px;
+height: 15px;
+left: 376.5px;
+top: 121.5px;
+position: absolute;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.C1Tr{
+  width: 62px;
+height: 10px;
+left: 332px;
+top: 190px;
+position: absolute;
+text-align: center;
+color: white;
+font-size: 9px;
+font-family: Inter;
+font-weight: 500;
+overflow-wrap: break-word;
+}
+.VDcBusbar{
+  width: 99px;
+height: 12px;
+left: 332px;
+top: 227px;
+position: absolute;
+text-align: center;
+color: rgb(249, 12, 12);
+font-size: 9px;
+font-family: Inter;
+font-weight: 200;
+overflow-wrap: break-word;
+}
+.LocationNo2a{
+  width: 226px;
+height: 24px;
+left: 349px;
+top: 33px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 15px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.Rectangle31{
+  width: 9%;
+height: 20px;
+left: 395px;
+top: 69px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle37{
+  width: 9%;
+height: 20px;
+left: 98px;
+top: 69px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle39{
+  width: 9%;
+height: 20px;
+left: 40px;
+top: 236px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle40{
+  width: 9%;
+height: 20px;
+left: 40px;
+top: 260px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle41{
+  width: 71px;
+height: 16px;
+left: 208px;
+top: 351px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.LocationNo2{
+  width: 144px;
+height: 24px;
+left: 59px;
+top: 33px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 15px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.TextBox16{
+  width: 48px;
+height: 19px;
+left: 395px;
+top: 69px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.V110753{
+  width: 75px;
+height: 11px;
+left: 431px;
+top: 72px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 10px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.ReVoltage{
+  width: 159px;
+height: 17px;
+left: 506px;
+top: 70px;
+position: absolute;
+text-align: start;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.Ellipse1{
+  width: 4px;
+  height: 4px;
+  left: 341px;
+  top: 123px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse2{
+  width: 4px;
+height: 4px;
+left: 341px;
+top: 131px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse3{
+  width: 4px;
+height: 4px;
+left: 380px;
+top: 124px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse4{
+  width: 4px;
+height: 4px;
+left: 380px;
+top: 131px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse5{
+  width: 4px;
+height: 4px;
+left: 446px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse6{
+  width: 4px;
+height: 4px;
+left: 454px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse7{
+  width: 4px;
+height: 4px;
+left: 477px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse8{
+  width: 4px;
+height: 4px;
+left: 484px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse9{
+  width: 4px;
+height: 4px;
+left: 506px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse10{
+  width: 4px;
+height: 4px;
+left: 513px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse11{
+  width: 4px;
+  height: 4px;
+  left: 537px;
+  top: 210px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse12{
+  width: 4px;
+height: 4px;
+left: 544px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse13{
+  width: 4px;
+height: 4px;
+left: 571px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse14{
+  width: 4px;
+height: 4px;
+left: 578px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse15{
+  width: 4px;
+height: 4px;
+left: 603px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse16{
+  width: 4px;
+height: 4px;
+left: 610px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse17{
+  width: 4px;
+height: 4px;
+left: 636px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse18{
+  width: 4px;
+height: 4px;
+left: 643px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse19{
+  width: 4px;
+height: 4px;
+left: 668px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse20{
+  width: 4px;
+height: 4px;
+left: 675px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse21{
+  width: 4px;
+  height: 4px;
+  left: 702px;
+  top: 210px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse22{
+  width: 4px;
+height: 4px;
+left: 709px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse23{
+  width: 4px;
+height: 4px;
+left: 733px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse24{
+  width: 4px;
+height: 4px;
+left: 741px;
+top: 210px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse25{
+  width: 4px;
+height: 4px;
+left: 355px;
+top: 298px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse26{
+  width: 4px;
+height: 4px;
+left: 362px;
+top: 298px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse27{
+  width: 4px;
+height: 4px;
+left: 415px;
+top: 298px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse28{
+  width: 4px;
+height: 4px;
+left: 422px;
+top: 298px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse29{
+  width: 4px;
+height: 4px;
+left: 423px;
+top: 346px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+
+.Ellipse40{
+  width: 4px;
+  height: 4px;
+  left: 388px;
+  top: 277px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse41{
+  width: 4px;
+height: 4px;
+left: 425px;
+top: 277px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse42{
+  width: 4px;
+height: 4px;
+left: 432px;
+top: 277px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse43{
+  width: 4px;
+height: 4px;
+left: 190px;
+top: 123px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse44{
+  width: 4px;
+height: 4px;
+left: 190px;
+top: 131px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse45{
+  width: 4px;
+height: 4px;
+left: 229px;
+top: 123px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse46{
+  width: 4px;
+height: 4px;
+left: 229px;
+top: 131px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Rectangle42{
+  width: 15px;
+height: 9px;
+left: 374px;
+top: 158px;
+position: absolute;
+background: white;
+border: 3px solid rgb(111, 244, 236);
+}
+.Line30{
+  width: 131.02px;
+height: 0px;
+left: 388.99px;
+top: 159.99px;
+position: absolute;
+border: 0.8px solid rgba(0, 0, 0, 0.17);
+}
+.Rectangle43{
+width: 15px;
+height: 9px;
+left: 184px;
+top: 147px;
+position: absolute;
+background: white;
+border: 3px solid rgb(111, 244, 236);
+}
+.Rectangle44{
+width: 15px;
+height: 9px;
+left: 184px;
+top: 242px;
+position: absolute;
+background: white;
+border: 3px solid rgb(111, 244, 236);
+}
+.Rectangle45{
+  width: 10px;
+height: 15px;
+left: 186px;
+top: 262.5px;
+position: absolute;
+background: white;
+border-radius: 5px;
+border: 1px solid black;
+}
+.Ellipse47{
+  width: 4px;
+height: 4px;
+left: 190px;
+top: 272px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Ellipse48{
+  width: 4px;
+  height: 4px;
+  left: 190px;
+  top: 265px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse49{
+  width: 5px;
+  height: 5px;
+  left: 189px;
+  top: 286px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+.Ellipse50{
+  width: 5px;
+height: 5px;
+left: 189px;
+top: 294px;
+position: absolute;
+background: black;
+border-radius: 9999px;
+}
+.Line31{
+  width: 6px;
+height: 0px;
+left: 192px;
+top: 292px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.VAcBusbar{
+  width: 114px;
+height: 20px;
+left: 294px;
+top: 354px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 10px;
+font-family: Inter;
+font-weight: 300;
+overflow-wrap: break-word;
+}
+.V1{
+  width: 6px;
+height: 4px;
+left: 230px;
+top: 359px;
+position: absolute;
+text-align: center;
+color: rgb(249, 12, 12);
+font-size: 6px;
+font-family: Inter;
+font-weight: 400;
+overflow-wrap: break-word;
+}
+.V2{
+  width: 6px;
+  height: 4px;
+  left: 230px;
+  top: 359px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+.V3{
+  width: 6px;
+  height: 4px;
+  left: 542px;
+  top: 159px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+.V4{
+  width: 6px;
+  height: 4px;
+  left: 542px;
+  top: 183px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+.V5{
+  width: 6px;
+  height: 4px;
+  left: 565px;
+  top: 178px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+
+}
+.V6{
+  width: 6px;
+  height: 4px;
+  left: 861px;
+  top: 221px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 800;
+  overflow-wrap: break-word;
+}
+.V7{
+  width: 6px;
+  height: 4px;
+  left: 858px;
+  top: 355px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 800;
+  overflow-wrap: break-word;
+}
+.V8{
+  width: 6px;
+  height: 4px;
+  left: 493px;
+  top: 322px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+.V9{
+  width: 6px;
+height: 4px;
+left: 517px;
+top: 315px;
+position: absolute;
+text-align: center;
+color: rgb(249, 12, 12);
+font-size: 10px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.V10{
+  width: 6px;
+  height: 4px;
+  left: 139px;
+  top: 72px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word;
+}
+.V11{
+  width: 7px;
+  height: 4px;
+  left: 79px;
+  top: 263px;
+  position: absolute;
+  text-align: center;
+  color: rgb(249, 12, 12);
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  overflow-wrap: break-word; 
+}
+.TextBox1354{
+  width: 46px;
+height: 8px;
+left: 231px;
+top: 356px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 8px;
+font-family: Inter;
+font-weight: 300;
+overflow-wrap: break-word;
+}
+.Rectangle46{
+  width: 71px;
+height: 16px;
+left: 208px;
+top: 351px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle47{
+  width: 71px;
+height: 16px;
+left: 520px;
+top: 151px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle48{
+  width: 9%;
+height: 18px;
+left: 520px;
+top: 151px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle49{
+  width: 9%;
+height: 18px;
+left: 520px;
+top: 175px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle50{
+  width: 9%;
+height: 16px;
+left: 520px;
+top: 175px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle51{
+  width: 7%;
+height: 17px;
+left: 828px;
+top: 219px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle52{
+  width: 7%;
+height: 17px;
+left: 828px;
+top: 353px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.ReCurrent{
+  width: 129px;
+height: 17px;
+left: 630px;
+top: 150px;
+position: absolute;
+text-align: start;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.Voltage{
+  width: 129px;
+height: 17px;
+left: 630px;
+top: 174px;
+position: absolute;
+text-align: start;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.Rectangle53{
+  width: 71px;
+height: 16px;
+left: 471px;
+top: 314px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.Rectangle54{
+  width: 9%;
+height: 16px;
+left: 471px;
+top: 314px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.TprVoltage{
+  width: 129px;
+height: 17px;
+left: 580px;
+top: 313px;
+position: absolute;
+text-align: start;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.ToRelayRoom{
+  width: 104px;
+height: 15px;
+left: 586px;
+top: 279px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 10px;
+font-family: Inter;
+font-weight: 400;
+overflow-wrap: break-word;
+}
+.Meters{
+  width: 68px;
+height: 25px;
+left: 254px;
+top: 106px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 10px;
+font-family: Inter;
+font-weight: 400;
+overflow-wrap: break-word;
+}
+.FeVoltage{
+  width: 139px;
+height: 17px;
+left: -15px;
+top: 70px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.Rectangle55{
+  width: 9%;
+height: 20px;
+left: 45px;
+top: 139px;
+position: absolute;
+background: rgb(149, 232, 172);
+border-radius: 4px;
+}
+.TfcOPCurrent{
+  width: 129px;
+height: 17px;
+left: 27px;
+top: 218px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.TfcOPVoltage{
+  width: 129px;
+height: 17px;
+left: 27px;
+top: 294px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 12px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.TfcIPVoltage{
+  width: 129px;
+height: 17px;
+left: 181px;
+top: 367px;
+position: absolute;
+text-align: center;
+color: black;
+font-size: 10px;
+font-family: Inter;
+font-weight: 600;
+overflow-wrap: break-word;
+}
+.TrackChoke1{
+  width: 25px;
+height: 34px;
+left: 331px;
+top: 149px;
+position: absolute;
+}
+.TrackChoke2{
+  width: 26px;
+height: 41px;
+left: 218px;
+top: 153px;
+position: absolute;
+}
+.TrackRegister1{
+  width: 25px;
+height: 23px;
+left: 178.5px;
+top: 161px;
+position: absolute;
+}
+.Line32{
+  width: 39px;
+height: 0px;
+left: 192px;
+top: 218px;
+position: absolute;
+border: 1px solid black;
+}
+.TrackBatery1{
+  width: 28px;
+height: 8px;
+left: 197px;
+top: 215px;
+position: absolute;
+}
+.Rectangle56{
+  width: 30px;
+height: 7px;
+left: 692px;
+top: 279px;
+position: absolute;
+background: rgb(29, 109, 42);
+}
+.Line33{
+  width: 9px;
+height: 0px;
+left: 807px;
+top: 212px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle57{
+  width: 125px;
+height: 73px;
+left: 789px;
+top: 193px;
+position: absolute;
+mix-blend-mode: multiply;
+background: white;
+border-radius: 3px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+.Rectangle58{
+  width: 17px;
+height: 14px;
+left: 808px;
+top: 350px;
+position: absolute;
+mix-blend-mode: multiply;
+border-radius: 3px;
+}
+.Line34{
+  width: 9px;
+height: 0px;
+left: 817px;
+top: 348px;
+position: absolute;
+transform: rotate(90deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+.Line35{
+  width: 28.02px;
+height: 0px;
+left: 451px;
+top: 206px;
+position: absolute;
+transform: rotate(-55.18deg);
+transform-origin: 0px 0px 0px;
+border: 0.8px solid rgba(0, 0, 0, 0.17);
+}
+.Line36{
+  width: 54px;
+height: 0px;
+left: 466px;
+top: 183px;
+position: absolute;
+border: 0.8px solid rgba(0, 0, 0, 0.17);
+}
+.Line37{
+  width: 20.81px;
+height: 0px;
+left: 420px;
+top: 305px;
+position: absolute;
+transform: rotate(54.78deg);
+transform-origin: 0px 0px 0px;
+border: 0.8px solid rgba(0, 0, 0, 0.17);
+}
+.Line38{
+  width: 39px;
+height: 0px;
+left: 432px;
+top: 322px;
+position: absolute;
+border: 0.8px solid rgba(0, 0, 0, 0.17);
+}
+.Line39{
+  width: 5px;
+height: 0px;
+left: 406.29px;
+top: 274px;
+position: absolute;
+transform: rotate(46.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line40{
+  width: 5px;
+height: 0px;
+left: 410.29px;
+top: 279.32px;
+position: absolute;
+transform: rotate(-46.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line41{
+  width: 5px;
+height: 0px;
+left: 392.29px;
+top: 295.68px;
+position: absolute;
+transform: rotate(46.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line42{
+  width: 5px;
+height: 0px;
+left: 396.29px;
+top: 300.32px;
+position: absolute;
+transform: rotate(-46.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line43{
+  width: 6px;
+height: 0px;
+left: 377px;
+top: 353px;
+position: absolute;
+transform: rotate(-36.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line44{
+  width: 6px;
+height: 0px;
+left: 377px;
+top: 385px;
+position: absolute;
+transform: rotate(-36.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line46{
+  width: 6px;
+height: 0px;
+left: 378px;
+top: 385px;
+position: absolute;
+transform: rotate(36.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+.Line47{
+  width: 6px;
+height: 0px;
+left: 378px;
+top: 343px;
+position: absolute;
+transform: rotate(36.87deg);
+transform-origin: 0px 0px 0px;
+border: 1px solid black;
+}
+
+
+ */
+
+/* Styles for DashBoardTrackCircuit_Group */
+.DashBoardTrackCircuit_Group {
+  width: 1249px;
+  height: 612px;
+  position: relative;
+  background: white;
+}
+
+/* Styles for DashBoardTrackCircuit_2 */
+.DashBoardTrackCircuit_2 {
+  width: 378px;
+  height: 0;
+  left: 185px;
+  top: 69px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.DashBoardTrackCircuit_3 {
+  width: 378px;
+  height: 0;
+  left: 185px;
+  top: 142px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+
+.DashBoardTrackCircuit_4 {
+  width: 438px;
+  height: 0;
+  left: 236px;
+  top: 142px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_5 {
+  width: 454px;
+  height: 0;
+  left: 291px;
+  top: 69px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_6 {
+  width: 207px;
+  height: 0;
+  left: 452px;
+  top: 69px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_7 {
+  width: 134px;
+  height: 0;
+  left: 507px;
+  top: 142px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+.DashBoardTrackCircuit_8 {
+  width: 968px;
+  height: 0;
+  left: 185px;
+  top: 580px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_9 {
+  width: 968px;
+  height: 0;
+  left: 185px;
+  top: 523px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+.DashBoardTrackCircuit_10_G {
+  width: 89px;
+  height: 20px;
+  left: 435px;
+  top: 276px;
+  position: absolute;
+  background: #1D6D2A;
+}
+
+.DashBoardTrackCircuit_10_R {
+  width: 89px;
+  height: 20px;
+  left: 435px;
+  top: 276px;
+  position: absolute;
+  background: #ff0000;
+}
+
+.DashBoardTrackCircuit_10_Gr {
+  width: 89px;
+  height: 20px;
+  left: 435px;
+  top: 276px;
+  position: absolute;
+  background: #808080;
+}
+
+
+.DashBoardTrackCircuit_11 {
+  width: 765px;
+  height: 0;
+  left: 388px;
+  top: 311px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_12 {
+  width: 765px;
+  height: 0;
+  left: 388px;
+  top: 375px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+.DashBoardTrackCircuit_13 {
+  width: 105px;
+  height: 0;
+  left: 450px;
+  top: 311px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_14 {
+  width: 75px;
+  height: 0;
+  left: 401px;
+  top: 375px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_15 {
+  width: 611px;
+  height: 0;
+  left: 401px;
+  top: 447px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_16 {
+  width: 562px;
+  height: 0;
+  left: 450px;
+  top: 415px;
+  position: absolute;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_17 {
+  width: 34px;
+  height: 0;
+  left: 1012px;
+  top: 413px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+}
+
+
+.DashBoardTrackCircuit_18 {
+  width: 195px;
+  height: 78px;
+  left: 279px;
+  top: 0;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+/* Styles for DashBoardTrackCircuit_19 */
+.DashBoardTrackCircuit_19 {
+  width: 58px;
+  height: 0;
+  left: 648px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_20 */
+.DashBoardTrackCircuit_20 {
+  width: 58px;
+  height: 0;
+  left: 691px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_21 */
+.DashBoardTrackCircuit_21 {
+  width: 60px;
+  height: 0;
+  left: 734px;
+  top: 315px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_22 */
+.DashBoardTrackCircuit_22 {
+  width: 58px;
+  height: 0;
+  left: 783px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_23 */
+.DashBoardTrackCircuit_23 {
+  width: 60px;
+  height: 0;
+  left: 828px;
+  top: 315px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_24 */
+.DashBoardTrackCircuit_24 {
+  width: 57px;
+  height: 0;
+  left: 876px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_25 */
+.DashBoardTrackCircuit_25 {
+  width: 58px;
+  height: 0;
+  left: 921px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_26 */
+.DashBoardTrackCircuit_26 {
+  width: 58px;
+  height: 0;
+  left: 970px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_27 */
+.DashBoardTrackCircuit_27 {
+  width: 60px;
+  height: 0;
+  left: 1015px;
+  top: 315px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px solid rgba(0, 0, 0, 0.66);
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_28 */
+.DashBoardTrackCircuit_28 {
+  width: 411px;
+  height: 29px;
+  left: 628px;
+  top: 332px;
+  position: absolute;
+  background: white;
+  border-radius: 3px;
+  border: 1px solid black;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_29 */
+.DashBoardTrackCircuit_29 {
+  width: 30px;
+  height: 14px;
+  left: 634px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+
+.DashBoardTrackCircuit_30 {
+  width: 30px;
+  height: 14px;
+  left: 634px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_31 */
+.DashBoardTrackCircuit_31 {
+  width: 34px;
+  height: 14px;
+  left: 674px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_32 */
+.DashBoardTrackCircuit_32 {
+  width: 33px;
+  height: 14px;
+  left: 719px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_33 */
+.DashBoardTrackCircuit_33 {
+  width: 33px;
+  height: 14px;
+  left: 767px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_34 */
+.DashBoardTrackCircuit_34 {
+  width: 33px;
+  height: 14px;
+  left: 812px;
+  top: 338px;
+  position: absolute;
+  opacity: 0.9;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_35 */
+.DashBoardTrackCircuit_35 {
+  width: 32px;
+  height: 14px;
+  left: 861px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_36 */
+.DashBoardTrackCircuit_36 {
+  width: 33px;
+  height: 14px;
+  left: 906px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_37 */
+.DashBoardTrackCircuit_37 {
+  width: 32px;
+  height: 14px;
+  left: 955px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_38 */
+.DashBoardTrackCircuit_38 {
+  width: 34px;
+  height: 14px;
+  left: 997px;
+  top: 338px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_39 */
+.DashBoardTrackCircuit_39 {
+  width: 160px;
+  height: 114px;
+  left: 1086px;
+  top: 488px;
+  position: absolute;
+  mix-blend-mode: multiply;
+  background: white;
+  border-radius: 3px;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+}
+
+.DashBoardTrackCircuit_399 {
+  width: 160px;
+  height: 114px;
+  left: 1086px;
+  top: 274px;
+  position: absolute;
+  mix-blend-mode: multiply;
+  background: white;
+  border-radius: 3px;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+}
+
+/* Styles for DashBoardTrackCircuit_40 */
+.DashBoardTrackCircuit_40 {
+  width: 89px;
+  height: 27px;
+  left: 222px;
+  top: 466px;
+  position: absolute;
+  background: white;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+}
+
+/* Styles for DashBoardTrackCircuit_41 */
+.DashBoardTrackCircuit_41 {
+  width: 50px;
+  height: 12px;
+  left: 240px;
+  top: 475px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 700;
+  word-wrap: break-word;
+}
+
+/* Styles for DashBoardTrackCircuit_42 */
+.DashBoardTrackCircuit_42 {
+  width: 50px;
+  height: 0;
+  left: 572px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_43 */
+.DashBoardTrackCircuit_43 {
+  width: 50px;
+  height: 0;
+  left: 618px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_44 */
+.DashBoardTrackCircuit_44 {
+  width: 50px;
+  height: 0;
+  left: 663px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_45 */
+.DashBoardTrackCircuit_45 {
+  width: 50px;
+  height: 0;
+  left: 713px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_46 */
+.DashBoardTrackCircuit_46 {
+  width: 50px;
+  height: 0;
+  left: 762px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_47 */
+.DashBoardTrackCircuit_47 {
+  width: 252px;
+  height: 24px;
+  left: 544px;
+  top: 541px;
+  position: absolute;
+  background: white;
+  border-radius: 2px;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_48 */
+.DashBoardTrackCircuit_48 {
+  width: 30px;
+  height: 14px;
+  left: 559px;
+  top: 546px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_49 */
+.DashBoardTrackCircuit_49 {
+  width: 30px;
+  height: 14px;
+  left: 604px;
+  top: 546px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_50 */
+.DashBoardTrackCircuit_50 {
+  width: 28px;
+  height: 14px;
+  left: 651px;
+  top: 546px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_51 */
+.DashBoardTrackCircuit_51 {
+  width: 30px;
+  height: 14px;
+  left: 701px;
+  top: 546px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_52 */
+.DashBoardTrackCircuit_52 {
+  width: 29px;
+  height: 14px;
+  left: 749px;
+  top: 546px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 200;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_53 */
+.DashBoardTrackCircuit_53 {
+  width: 16px;
+  height: 21px;
+  left: 595px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_54 */
+.DashBoardTrackCircuit_54 {
+  width: 16px;
+  height: 20px;
+  left: 639px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_55 */
+.DashBoardTrackCircuit_55 {
+  width: 16px;
+  height: 23px;
+  left: 679px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_56 */
+.DashBoardTrackCircuit_56 {
+  width: 16px;
+  height: 22px;
+  left: 724px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_57 */
+.DashBoardTrackCircuit_57 {
+  width: 16px;
+  height: 22px;
+  left: 773px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_58 */
+.DashBoardTrackCircuit_58 {
+  width: 16px;
+  height: 22px;
+  left: 818px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_59 */
+.DashBoardTrackCircuit_59 {
+  width: 16px;
+  height: 21px;
+  left: 866px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_60 */
+.DashBoardTrackCircuit_60 {
+  width: 16px;
+  height: 21px;
+  left: 911px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_61 */
+.DashBoardTrackCircuit_61 {
+  width: 16px;
+  height: 21px;
+  left: 960px;
+  top: 318px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_62 */
+.DashBoardTrackCircuit_62 {
+  width: 16px;
+  height: 22px;
+  left: 1004px;
+  top: 317px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_63 */
+.DashBoardTrackCircuit_63 {
+  width: 15px;
+  height: 20px;
+  left: 563px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_63 */
+.DashBoardTrackCircuit_63 {
+  width: 15px;
+  height: 20px;
+  left: 563px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_64 */
+.DashBoardTrackCircuit_64 {
+  width: 5px;
+  height: 6px;
+  left: 575px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_65 */
+.DashBoardTrackCircuit_65 {
+  width: 15px;
+  height: 21px;
+  left: 608px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_66 */
+.DashBoardTrackCircuit_66 {
+  width: 5px;
+  height: 6px;
+  left: 621px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_67 */
+.DashBoardTrackCircuit_67 {
+  width: 5px;
+  height: 6px;
+  left: 611px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_68 */
+.DashBoardTrackCircuit_68 {
+  width: 15px;
+  height: 21px;
+  left: 653px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_69 */
+.DashBoardTrackCircuit_69 {
+  width: 6px;
+  height: 6px;
+  left: 656px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_70 */
+.DashBoardTrackCircuit_70 {
+  width: 6px;
+  height: 6px;
+  left: 666px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_71 */
+.DashBoardTrackCircuit_71 {
+  width: 15px;
+  height: 21px;
+  left: 703px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_72 */
+.DashBoardTrackCircuit_72 {
+  width: 5px;
+  height: 6px;
+  left: 717px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_73 */
+.DashBoardTrackCircuit_73 {
+  width: 5px;
+  height: 6px;
+  left: 707px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_74 */
+.DashBoardTrackCircuit_74 {
+  width: 15px;
+  height: 21px;
+  left: 752px;
+  top: 528px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_75 */
+.DashBoardTrackCircuit_75 {
+  width: 7px;
+  height: 6px;
+  left: 754px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_76 */
+.DashBoardTrackCircuit_76 {
+  width: 6px;
+  height: 6px;
+  left: 764px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* Styles for DashBoardTrackCircuit_77 */
+.DashBoardTrackCircuit_77 {
+  width: 16px;
+  height: 21px;
+  left: 502px;
+  top: 421px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+/* Styles for DashBoardTrackCircuit_78 */
+.DashBoardTrackCircuit_78 {
+  width: 6px;
+  height: 6px;
+  left: 504px;
+  top: 410px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+/* Styles for DashBoardTrackCircuit_79 */
+.DashBoardTrackCircuit_79 {
+  width: 16px;
+  height: 22px;
+  left: 565px;
+  top: 421px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+/* Styles for DashBoardTrackCircuit_80 */
+.DashBoardTrackCircuit_80 {
+  width: 16px;
+  height: 22px;
+  left: 465px;
+  top: 456px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+/* Styles for DashBoardTrackCircuit_81 */
+.DashBoardTrackCircuit_81 {
+  width: 16px;
+  height: 20px;
+  left: 552px;
+  top: 456px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+/* Styles for DashBoardTrackCircuit_82 */
+.DashBoardTrackCircuit_82 {
+  width: 14px;
+  height: 24px;
+  left: 285px;
+  top: 169px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_83 {
+  width: 14px;
+  height: 24px;
+  left: 230px;
+  top: 169px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_84 {
+  width: 14px;
+  height: 23px;
+  left: 445px;
+  top: 169px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_85 {
+  width: 15px;
+  height: 24px;
+  left: 499px;
+  top: 169px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_86 {
+  width: 88px;
+  height: 16px;
+  left: 435px;
+  top: 276px;
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 200;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_866 {
+  width: 88px;
+  height: 16px;
+  left: 894px;
+  top: 418px;
+  position: absolute;
+  text-align: center;
+  color: rgb(248, 242, 242);
+  font-size: 9px;
+  font-family: "Inter";
+  font-weight: 200;
+  word-wrap: break-word;
+  z-index: 1;
+}
+
+.DashBoardTrackCircuit_10Green {
+  width: 50px;
+  height: 20px;
+  left: 916px;
+  top: 415px;
+  position: absolute;
+  background: #1D6D2A; 
+}
+
+.DashBoardTrackCircuit_87 {
+  width: 142px;
+  height: 17px;
+  left: 435px;
+  top: 335px;
+  position: absolute;
+  text-align: center;
+  color: #f90c0c;
+  font-size: 9px;
+  font-family: "Inter";
+  font-weight: 200;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_88 {
+  width: 323px;
+  height: 38px;
+  left: 459px;
+  top: 31px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-family: "Inter";
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_89 {
+  width: 104px;
+  height: 33px;
+  left: 524px;
+  top: 86px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_90 {
+  width: 105px;
+  height: 33px;
+  left: 106px;
+  top: 86px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_91 {
+  width: 113px;
+  height: 31px;
+  left: 57px;
+  top: 348px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_92 {
+  width: 112px;
+  height: 31px;
+  left: 57px;
+  top: 385px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_93 {
+  width: 100px;
+  height: 25px;
+  left: 259px;
+  top: 527px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_94 {
+  width: 204px;
+  height: 38px;
+  left: 47px;
+  top: 31px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-family: "Inter";
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_95 {
+  width: 41px;
+  height: 30px;
+  left: 525px;
+  top: 87px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 13px;
+  font-family: "Inter";
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_96 {
+  width: 106px;
+  height: 17px;
+  left: 544px;
+  top: 92px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_97 {
+  width: 184px;
+  height: 26px;
+  left: 583px;
+  top: 89px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_98 {
+  width: 6px;
+  height: 6px;
+  left: 449px;
+  top: 171px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_99 {
+  width: 6px;
+  height: 7px;
+  left: 449px;
+  top: 182px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_101 {
+  width: 6px;
+  height: 6px;
+  left: 504px;
+  top: 171px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_102 {
+  width: 6px;
+  height: 6px;
+  left: 504px;
+  top: 185px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_103 {
+  width: 5px;
+  height: 6px;
+  left: 598px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_104 {
+  width: 5px;
+  height: 6px;
+  left: 608px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_105 {
+  width: 5px;
+  height: 6px;
+  left: 642px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_106 {
+  width: 5px;
+  height: 6px;
+  left: 652px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_107 {
+  width: 6px;
+  height: 6px;
+  left: 683px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_108 {
+  width: 6px;
+  height: 6px;
+  left: 693px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_109 {
+  width: 5px;
+  height: 6px;
+  left: 728px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_110 {
+  width: 6px;
+  height: 6px;
+  left: 737px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_111 {
+  width: 6px;
+  height: 6px;
+  left: 776px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_112 {
+  width: 5px;
+  height: 6px;
+  left: 786px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_113 {
+  width: 6px;
+  height: 6px;
+  left: 821px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_114 {
+  width: 6px;
+  height: 6px;
+  left: 831px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_115 {
+  width: 7px;
+  height: 6px;
+  left: 868px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_116 {
+  width: 7px;
+  height: 6px;
+  left: 878px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_117 {
+  width: 5px;
+  height: 6px;
+  left: 915px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_118 {
+  width: 7px;
+  height: 6px;
+  left: 923px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_119 {
+  width: 5px;
+  height: 6px;
+  left: 962px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_120 {
+  width: 5px;
+  height: 6px;
+  left: 972px;
+  top: 307px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_121 {
+  width: 6px;
+  height: 6px;
+  left: 1006px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_122 {
+  width: 5px;
+  height: 6px;
+  left: 1017px;
+  top: 306px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_123 {
+  width: 6px;
+  height: 6px;
+  left: 468px;
+  top: 445px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_124 {
+  width: 5px;
+  height: 6px;
+  left: 478px;
+  top: 445px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_125 {
+  width: 5px;
+  height: 6px;
+  left: 554px;
+  top: 445px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_126 {
+  width: 5px;
+  height: 6px;
+  left: 564px;
+  top: 445px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_127 {
+  width: 5px;
+  height: 6px;
+  left: 565px;
+  top: 518px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_128 {
+  width: 6px;
+  height: 6px;
+  left: 514px;
+  top: 410px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_129 {
+  width: 6px;
+  height: 6px;
+  left: 568px;
+  top: 410px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_130 {
+  width: 5px;
+  height: 6px;
+  left: 578px;
+  top: 410px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_131 {
+  width: 5px;
+  height: 6px;
+  left: 234px;
+  top: 171px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_132 {
+  width: 5px;
+  height: 6px;
+  left: 234px;
+  top: 185px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_133 {
+  width: 5px;
+  height: 6px;
+  left: 289px;
+  top: 171px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_134 {
+  width: 5px;
+  height: 6px;
+  left: 289px;
+  top: 185px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_135 {
+  width: 18px;
+  height: 10px;
+  left: 499px;
+  top: 226px;
+  position: absolute;
+  background: white;
+  border: 2px #6FF4EC solid;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_136 {
+  width: 188px;
+  height: 0;
+  left: 515px;
+  top: 229px;
+  position: absolute;
+  border: 0.80px rgba(0, 0, 0, 0.17) solid;
+}
+
+.DashBoardTrackCircuit_137 {
+  width: 18px;
+  height: 10px;
+  left: 228px;
+  top: 210px;
+  position: absolute;
+  background: white;
+  border: 2px #6FF4EC solid;
+}
+
+.DashBoardTrackCircuit_138 {
+  width: 18px;
+  height: 10px;
+  left: 227px;
+  top: 361px;
+  position: absolute;
+  background: white;
+  border: 2px #6FF4EC solid;
+}
+
+.DashBoardTrackCircuit_139 {
+  width: 14px;
+  height: 24px;
+  left: 230px;
+  top: 389px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_140 {
+  width: 5px;
+  height: 6px;
+  left: 234px;
+  top: 404px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_141 {
+  width: 5px;
+  height: 7px;
+  left: 234px;
+  top: 392px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_142 {
+  width: 6px;
+  height: 7px;
+  left: 234px;
+  top: 426px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_143 {
+  width: 6px;
+  height: 8px;
+  left: 234px;
+  top: 438px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.DashBoardTrackCircuit_144 {
+  width: 10px;
+  height: 0;
+  left: 236px;
+  top: 435px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_145 {
+  width: 163px;
+  height: 31px;
+  left: 420px;
+  top: 531px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_146 {
+  width: 44px;
+  height: 20px;
+  left: 251px;
+  top: 528px;
+  position: absolute;
+  text-align: center;
+  color: #1D6D2A;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_147 {
+  width: 9px;
+  height: 6px;
+  left: 290px;
+  top: 540px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_148 {
+  width: 65px;
+  height: 12px;
+  left: 291px;
+  top: 535px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_149 {
+  width: 105px;
+  height: 25px;
+  left: 254px;
+  top: 527px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_150 {
+  width: 44px;
+  height: 20px;
+  left: 253px;
+  top: 531px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_151 {
+  width: 9px;
+  height: 6px;
+  left: 290px;
+  top: 538px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_152 {
+  width: 65px;
+  height: 12px;
+  left: 291px;
+  top: 535px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_153 {
+  width: 102px;
+  height: 24px;
+  left: 693px;
+  top: 216px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_154 {
+  width: 44px;
+  height: 19px;
+  left: 697px;
+  top: 217px;
+  position: absolute;
+  text-align: center;
+  color: #1D6D2A;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_155 {
+  width: 9px;
+  height: 7px;
+  left: 734px;
+  top: 227px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_156 {
+  width: 65px;
+  height: 12px;
+  left: 736px;
+  top: 223px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_157 {
+  width: 102px;
+  height: 24px;
+  left: 703px;
+  top: 216px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_159 {
+  width: 43px;
+  height: 19px;
+  left: 698px;
+  top: 219px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_160 {
+  width: 22px;
+  height: 7px;
+  left: 735px;
+  top: 225px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_161 {
+  width: 65px;
+  height: 12px;
+  left: 746px;
+  top: 223px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_162 {
+  width: 102px;
+  height: 25px;
+  left: 703px;
+  top: 252px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_163 {
+  width: 44px;
+  height: 21px;
+  left: 697px;
+  top: 254px;
+  position: absolute;
+  text-align: center;
+  color: #1D6D2A;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_164 {
+  width: 9px;
+  height: 6px;
+  left: 734px;
+  top: 265px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  display: none;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_165 {
+  width: 65px;
+  height: 12px;
+  left: 736px;
+  top: 260px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_166 {
+  width: 102px;
+  height: 25px;
+  left: 703px;
+  top: 252px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+  display: none;
+}
+
+.DashBoardTrackCircuit_167 {
+  width: 43px;
+  height: 21px;
+  left: 701px;
+  top: 254px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_168 {
+  width: 8px;
+  height: 6px;
+  left: 741px;
+  top: 261px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_169 {
+  width: 65px;
+  height: 12px;
+  left: 742px;
+  top: 258px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_170 {
+  width: 98px;
+  height: 26px;
+  left: 1141px;
+  top: 321px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_171 {
+  width: 68px;
+  height: 12px;
+  left: 1180px;
+  top: 331px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_172 {
+  width: 53px;
+  height: 20px;
+  left: 1135px;
+  top: 325px;
+  position: absolute;
+  text-align: center;
+  color: #1D6D2A;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_173 {
+  width: 9px;
+  height: 6px;
+  left: 1181px;
+  top: 334px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_174 {
+  width: 87px;
+  height: 25px;
+  left: 1153px;
+  top: 530px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_175 {
+  width: 45px;
+  height: 21px;
+  left: 1148px;
+  top: 533px;
+  position: absolute;
+  text-align: center;
+  color: #1D6D2A;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_176 {
+  width: 9px;
+  height: 6px;
+  left: 1184px;
+  top: 542px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_177 {
+  width: 65px;
+  height: 14px;
+  left: 1184px;
+  top: 537px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_178 {
+  width: 183px;
+  height: 25px;
+  left: 762px;
+  top: 215px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_179 {
+  width: 183px;
+  height: 26px;
+  left: 749px;
+  top: 251px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+  display: none;
+}
+
+.DashBoardTrackCircuit_180 {
+  width: 101px;
+  height: 25px;
+  left: 633px;
+  top: 470px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_181 {
+  width: 9px;
+  height: 6px;
+  left: 664px;
+  top: 482px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 6px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_182 {
+  width: 66px;
+  height: 13px;
+  left: 666px;
+  top: 477px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_183 {
+  width: 101px;
+  height: 25px;
+  left: 633px;
+  top: 470px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_184 {
+  width: 9px;
+  height: 6px;
+  left: 670px;
+  top: 481px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_185 {
+  width: 65px;
+  height: 13px;
+  left: 672px;
+  top: 477px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 300;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_186 {
+  width: 184px;
+  height: 27px;
+  left: 698px;
+  top: 468px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_187 {
+  width: 44px;
+  height: 21px;
+  left: 632px;
+  top: 472px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_188 {
+  width: 148px;
+  height: 23px;
+  left: 797px;
+  top: 415px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_189 {
+  width: 97px;
+  height: 39px;
+  left: 324px;
+  top: 142px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_190 {
+  width: 40px;
+  height: 30px;
+  left: 107px;
+  top: 91px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_191 {
+  width: 8px;
+  height: 6px;
+  left: 149px;
+  top: 99px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_192 {
+  width: 107px;
+  height: 17px;
+  left: 129px;
+  top: 95px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_193 {
+  width: 109px;
+  height: 30px;
+  left: 71px;
+  top: 197px;
+  position: absolute;
+  background: #95E8AC;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_194 {
+  width: 40px;
+  height: 29px;
+  left: 72px;
+  top: 198px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_195 {
+  width: 108px;
+  height: 17px;
+  left: 97px;
+  top: 203px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_196 {
+  width: 23px;
+  height: 6px;
+  left: 107px;
+  top: 211px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_197 {
+  width: 47px;
+  height: 0;
+  left: 180px;
+  top: 212px;
+  position: absolute;
+  border: 0.50px #D7D0D0 solid;
+}
+
+.DashBoardTrackCircuit_198 {
+  width: 59px;
+  height: 0;
+  left: 170px;
+  top: 363px;
+  position: absolute;
+  border: 0.50px #D7D0D0 solid;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_199 {
+  width: 60px;
+  height: 0;
+  left: 170px;
+  top: 401px;
+  position: absolute;
+  border: 0.50px #D7D0D0 solid;
+}
+
+.DashBoardTrackCircuit_200 {
+  width: 184px;
+  height: 27px;
+  left: 0;
+  top: 320px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_201 {
+  width: 45px;
+  height: 29px;
+  left: 54px;
+  top: 350px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_202 {
+  width: 22px;
+  height: 6px;
+  left: 95px;
+  top: 362px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_203 {
+  width: 106px;
+  height: 18px;
+  left: 86px;
+  top: 354px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_204 {
+  width: 42px;
+  height: 30px;
+  left: 61px;
+  top: 387px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_205 {
+  width: 10px;
+  height: 6px;
+  left: 103px;
+  top: 399px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_206 {
+  width: 111px;
+  height: 16px;
+  left: 83px;
+  top: 393px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_207 {
+  width: 184px;
+  height: 27px;
+  left: 0;
+  top: 428px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_208 {
+  width: 184px;
+  height: 26px;
+  left: 310px;
+  top: 530px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_209 {
+  width: 92px;
+  height: 30px;
+  left: 1126px;
+  top: 277px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_210 {
+  width: 92px;
+  height: 30px;
+  left: 1126px;
+  top: 488px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+/* styles.css */
+
+.DashBoardTrackCircuit_211 {
+  width: 55px;
+  height: 0;
+  left: 236px;
+  top: 320px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_217 {
+  width: 13px;
+  height: 0;
+  left: 1126px;
+  top: 523px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px rgba(0, 0, 0, 0.66) solid;
+}
+
+.DashBoardTrackCircuit_218 {
+  width: 98px;
+  height: 19px;
+  left: 1141px;
+  top: 347px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_219 {
+  width: 97px;
+  height: 18px;
+  left: 1148px;
+  top: 555px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 8px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_220 {
+  width: 42.51px;
+  height: 0;
+  left: 604.79px;
+  top: 301px;
+  position: absolute;
+  transform: rotate(-57.55deg);
+  transform-origin: 0 0;
+  border: 0.80px rgba(0, 0, 0, 0.17) solid;
+  display: none;
+}
+
+.DashBoardTrackCircuit_221 {
+  width: 77px;
+  height: 0;
+  left: 626px;
+  top: 265px;
+  position: absolute;
+  border: 0.80px rgba(0, 0, 0, 0.17) solid;
+  display: none;
+}
+
+.DashBoardTrackCircuit_222 {
+  width: 31.55px;
+  height: 0;
+  left: 560.6px;
+  top: 455.4px;
+  position: absolute;
+  transform: rotate(57.17deg);
+  transform-origin: 0 0;
+  border: 0.80px rgba(0, 0, 0, 0.17) solid;
+}
+
+.DashBoardTrackCircuit_223 {
+  width: 55px;
+  height: 0;
+  left: 578px;
+  top: 482px;
+  position: absolute;
+  border: 0.80px rgba(0, 0, 0, 0.17) solid;
+}
+
+.DashBoardTrackCircuit_224 {
+  width: 7.49px;
+  height: 0;
+  left: 541.07px;
+  top: 409.66px;
+  position: absolute;
+  transform: rotate(49.43deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_225 {
+  width: 7.49px;
+  height: 0;
+  left: 546.77px;
+  top: 415.36px;
+  position: absolute;
+  transform: rotate(-49.43deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_226 {
+  width: 7.49px;
+  height: 0;
+  left: 521.11px;
+  top: 442.42px;
+  position: absolute;
+  transform: rotate(49.43deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_227 {
+  width: 7.49px;
+  height: 0;
+  left: 526.81px;
+  top: 448.11px;
+  position: absolute;
+  transform: rotate(-49.43deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_228 {
+  width: 7.38px;
+  height: 0;
+  left: 499.32px;
+  top: 527.14px;
+  position: absolute;
+  transform: rotate(-39.38deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_229 {
+  width: 7.38px;
+  height: 0;
+  left: 499.32px;
+  top: 580.17px;
+  position: absolute;
+  transform: rotate(-39.38deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_230 {
+  width: 7.38px;
+  height: 0;
+  left: 497.89px;
+  top: 580.17px;
+  position: absolute;
+  transform: rotate(39.38deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_231 {
+  width: 7.38px;
+  height: 0;
+  left: 497.89px;
+  top: 517.78px;
+  position: absolute;
+  transform: rotate(39.38deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.DashBoardTrackCircuit_232 {
+  width: 9px;
+  height: 6px;
+  left: 564px;
+  top: 99px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_Img_0 {
+  width: 24px;
+  height: 22px;
+  left: 1110px;
+  top: 310px;
+  position: absolute;
+  border-radius: 3px;
+  mix-blend-mode: multiply;
+}
+
+.DashBoardTrackCircuit_Img_1 {
+  width: 35px;
+  height: 53px;
+  left: 435px;
+  top: 212px;
+  position: absolute;
+}
+
+.DashBoardTrackCircuit_Img_2 {
+  width: 37px;
+  height: 63px;
+  left: 274px;
+  top: 219px;
+  position: absolute;
+}
+
+.DashBoardTrackCircuit_Img_3 {
+  width: 36px;
+  height: 36px;
+  left: 244px;
+  top: 315px;
+  position: absolute;
+}
+
+.DashBoardTrackCircuit_Img_4 {
+  width: 38px;
+  height: 13px;
+  left: 244px;
+  top: 315px;
+  position: absolute;
+}
+
+.DashBoardTrackCircuit_Img_5 {
+  width: 24px;
+  height: 21px;
+  left: 1113px;
+  top: 530px;
+  position: absolute;
+  mix-blend-mode: multiply;
+  border-radius: 3px;
+}
+
+.DashBoardTrackCircuit_212 {
+  position: absolute;
+  top: 225px;
+  left: 395px;
+}
+
+.DashBoardTrackCircuit_213 {
+  position: absolute;
+  top: 240px;
+  left: 310px;
+}
+
+.DashBoardFECurrent{
+  position: absolute;
+  top: 200px;
+  font-size: 14px;
+  left: -19px;
+  font-weight: bold;
+}
+
+.DashBoardFEVoltage{
+  position: absolute;
+  top: 90px;
+  font-size: 14px;
+  left: 12px;
+  font-weight: bold;
+}
+
+.DashBoardTrackCircuit_93_1 {
+  width: 105px;
+  height: 25px;
+  left: 254px;
+  top: 554px;
+  position: absolute;
+  background: #95e8ac;
+  border-radius: 4px;
+}
+
+.DashBoardTrackCircuit_152_1 {
+  width: 44px;
+  height: 20px;
+  left: 253px;
+  top: 561px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_152_2 {
+  width: 9px;
+  height: 6px;
+  left: 290px;
+  top: 568px;
+  position: absolute;
+  text-align: center;
+  color: #F90C0C;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_152_3 {
+  width: 65px;
+  height: 12px;
+  left: 291px;
+  top: 565px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_190_1 {
+  width: 48px;
+  height: 30px;
+  left: 42px;
+  top: 91px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_190_2 {
+  width: 48px;
+  height: 29px;
+  left: 15px;
+  top: 198px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.DashBoardTrackCircuit_208_1 {
+  width: 184px;
+  height: 26px;
+  left: 310px;
+  top: 560px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}

@@ -1,0 +1,2606 @@
+.TwoAspectRGHGSignal_Group {
+    width: 1334px;
+    height: 514px;
+    position: relative;
+    background: white;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle1 {
+    width: 161px;
+    height: 385px;
+    left: 26px;
+    top: 93px;
+    position: absolute;
+    background: #d1f0f2;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line1 {
+    width: 390.03px;
+    height: 0;
+    left: 523.45px;
+    top: 89.98px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle2 {
+    width: 89px;
+    height: 36px;
+    left: 39px;
+    top: 170px;
+    position: absolute;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle3 {
+    width: 146px;
+    height: 65px;
+    left: 34px;
+    top: 272px;
+    position: absolute;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Recpr_1 {
+    left: 41px;
+    top: 311px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_Line2 {
+    width: 199px;
+    height: 0;
+    left: 214px;
+    top: 167px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line3 {
+    width: 190.01px;
+    height: 0;
+    left: 214px;
+    top: 211px;
+    position: absolute;
+    transform: rotate(0.6deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line4 {
+    width: 244px;
+    height: 0;
+    left: 466px;
+    top: 167px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line5 {
+    width: 244px;
+    height: 0;
+    left: 466px;
+    top: 213px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line6 {
+    width: 46.24px;
+    height: 0;
+    left: 709px;
+    top: 167px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle4 {
+    width: 10px;
+    height: 10px;
+    left: 404px;
+    top: 162px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle5 {
+    width: 10px;
+    height: 10px;
+    left: 402px;
+    top: 208px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Line7 {
+    width: 20.52px;
+    height: 0;
+    left: 452.37px;
+    top: 151.66px;
+    position: absolute;
+    transform: rotate(46.97deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line8 {
+    width: 19.85px;
+    height: 0;
+    left: 466px;
+    top: 167px;
+    position: absolute;
+    transform: rotate(-49.09deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line9 {
+    width: 20.52px;
+    height: 0;
+    left: 454px;
+    top: 201px;
+    position: absolute;
+    transform: rotate(46.97deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line10 {
+    width: 19.85px;
+    height: 0;
+    left: 466px;
+    top: 216px;
+    position: absolute;
+    transform: rotate(-49.09deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line13 {
+    width: 20.52px;
+    height: 0;
+    left: 203px;
+    top: 181px;
+    position: absolute;
+    transform: rotate(-42.58deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line14 {
+    width: 19.85px;
+    height: 0;
+    left: 218.11px;
+    top: 167.12px;
+    position: absolute;
+    transform: rotate(-138.64deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line15 {
+    width: 20.52px;
+    height: 0;
+    left: 226.28px;
+    top: 197px;
+    position: absolute;
+    transform: rotate(134.08deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line16 {
+    width: 19.85px;
+    height: 0;
+    left: 212px;
+    top: 211.74px;
+    position: absolute;
+    transform: rotate(38.02deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line17 {
+    width: 24.72px;
+    height: 0;
+    left: 406px;
+    top: 168px;
+    position: absolute;
+    transform: rotate(-30.47deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line17_Close{
+  width: 60.72px;
+  height: 0;
+  left: 406px;
+  top: 167px;
+  position: absolute;
+  transform: rotate(-0.47deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line17_1 {
+    width: 24.72px;
+    height: 0;
+    left: 406px;
+    top: 210px;
+    position: absolute;
+    transform: rotate(-30.47deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line17_1_Close {
+    width: 60.72px;
+    height: 0;
+    left: 406px;
+    top: 213px;
+    position: absolute;
+    transform: rotate(-0.47deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Rectangle6 {
+    width: 65px;
+    height: 34px;
+    left: 230px;
+    top: 172px;
+    position: absolute;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_V444422_1 {
+    width: 52px;
+    height: 25px;
+    left: 238px;
+    top: 169px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_EldSigTy {
+    left: 332px;
+    top: 171px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line18 {
+    width: 23.02px;
+    height: 0;
+    left: 314.9px;
+    top: 166px;
+    position: absolute;
+    transform: rotate(92deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line19 {
+    width: 23px;
+    height: 0;
+    left: 304px;
+    top: 189px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line20 {
+    width: 20px;
+    height: 0;
+    left: 306px;
+    top: 192px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line21 {
+    width: 18px;
+    height: 0;
+    left: 307px;
+    top: 195px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_VDcExtTy {
+    width: 46px;
+    left: 179px;
+    top: 181px;
+    position: absolute;
+    color: black;
+    font-size: 8px;
+    font-family: Inter;
+    font-weight: 600;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_Dr_1 {
+    left: 481px;
+    top: 149px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Dr_2 {
+    left: 481px;
+    top: 193px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle7_R {
+    width: 60px;
+    height: 24px;
+    left: 635px;
+    top: 169px;
+    position: absolute;
+    background: red;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle7_G {
+    width: 60px;
+    height: 24px;
+    left: 635px;
+    top: 169px;
+    position: absolute;
+    background: green;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle7_Gr {
+    width: 60px;
+    height: 24px;
+    left: 635px;
+    top: 169px;
+    position: absolute;
+    background: grey;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Dpr_1 {
+    left: 654px;
+    top: 170px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_2255_1 {
+    left: 645px;
+    top: 190px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Hr {
+    left: 48px;
+    top: 179px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Decpr_1 {
+    left: 40px;
+    top: 278px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_2222_1 {
+    left: 121px;
+    top: 278px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_2222_2 {
+    left: 121px;
+    top: 311px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line22 {
+    width: 19px;
+    height: 0;
+    left: 106px;
+    top: 278px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line23 {
+    width: 13.99px;
+    height: 0;
+    left: 102.36px;
+    top: 298px;
+    position: absolute;
+    transform: rotate(-51.85deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line24 {
+    width: 14.44px;
+    height: 0;
+    left: 104.36px;
+    top: 299px;
+    position: absolute;
+    transform: rotate(-130.39deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  .TwoAspectRGHGSignal_Line25 {
+    width: 19px;
+    height: 0;
+    left: 91px;
+    top: 177px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line26 {
+    width: 13.99px;
+    height: 0;
+    left: 87.36px;
+    top: 197px;
+    position: absolute;
+    transform: rotate(-51.85deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line27 {
+    width: 14.44px;
+    height: 0;
+    left: 88.36px;
+    top: 198px;
+    position: absolute;
+    transform: rotate(-130.39deg);
+    transform-origin: 0 0;
+    border: 2px #ff1212 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line28 {
+    width: 19px;
+    height: 0;
+    left: 102.08px;
+    top: 332.99px;
+    position: absolute;
+    transform: rotate(-90.42deg);
+    transform-origin: 0 0;
+    border: 2px #327127 solid;
+  }
+  .TwoAspectRGHGSignal_Line29 {
+    width: 13.99px;
+    height: 0;
+    left: 105.56px;
+    top: 311px;
+    position: absolute;
+    transform: rotate(127.73deg);
+    transform-origin: 0 0;
+    border: 2px #327127 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line30 {
+    width: 14.44px;
+    height: 0;
+    left: 105.57px;
+    top: 310px;
+    position: absolute;
+    transform: rotate(49.18deg);
+    transform-origin: 0 0;
+    border: 2px #327127 solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle8 {
+    width: 111px;
+    height: 29px;
+    left: 237px;
+    top: 223px;
+    position: absolute;
+    background: #f5f5f5;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Dr_3 {
+    left: 243px;
+    top: 230px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_Rectangle9 {
+    width: 16px;
+    height: 14px;
+    left: 268px;
+    top: 231px;
+    position: absolute;
+    background: #ff1212;
+  }
+  
+  .TwoAspectRGHGSignal_2222_3 {
+    left: 291px;
+    top: 229px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line31 {
+    width: 278px;
+    height: 0;
+    left: 333px;
+    top: 272px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line32 {
+    width: 278px;
+    height: 0;
+    left: 332px;
+    top: 331px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line33 {
+    width: 59px;
+    height: 0;
+    left: 332px;
+    top: 272px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line34 {
+    width: 87px;
+    height: 0;
+    left: 654px;
+    top: 272px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line35 {
+    width: 87px;
+    height: 0;
+    left: 654px;
+    top: 331px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line36 {
+    width: 19.85px;
+    height: 0;
+    left: 599px;
+    top: 257px;
+    position: absolute;
+    transform: rotate(49.09deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line37 {
+    width: 15px;
+    height: 0;
+    left: 609px;
+    top: 269px;
+    position: absolute;
+    transform: rotate(-53.13deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line38 {
+    width: 19.85px;
+    height: 0;
+    left: 599px;
+    top: 316px;
+    position: absolute;
+    transform: rotate(49.09deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line39 {
+    width: 15px;
+    height: 0;
+    left: 608px;
+    top: 330px;
+    position: absolute;
+    transform: rotate(-53.13deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle10 {
+    width: 10px;
+    height: 10px;
+    left: 652px;
+    top: 267px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  .TwoAspectRGHGSignal_Rectangle11 {
+    width: 10px;
+    height: 10px;
+    left: 654px;
+    top: 323px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Line40 {
+    width: 18.44px;
+    height: 0;
+    left: 659px;
+    top: 269px;
+    position: absolute;
+    transform: rotate(-139.4deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line40_Close {
+    width: 50.44px;
+    height: 0;
+    left: 659px;
+    top: 273px;
+    position: absolute;
+    transform: rotate(-181.4deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line41 {
+    width: 22.8px;
+    height: 0;
+    left: 659px;
+    top: 329px;
+    position: absolute;
+    transform: rotate(-127.87deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line41_Close {
+    width: 50.8px;
+    height: 0;
+    left: 659px;
+    top: 332px;
+    position: absolute;
+    transform: rotate(-181.87deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line42 {
+    width: 17.32px;
+    height: 0;
+    left: 752.58px;
+    top: 263px;
+    position: absolute;
+    transform: rotate(142.81deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line43 {
+    width: 18.93px;
+    height: 0;
+    left: 741px;
+    top: 271.1px;
+    position: absolute;
+    transform: rotate(18deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line44 {
+    width: 16.32px;
+    height: 0;
+    left: 751.07px;
+    top: 321px;
+    position: absolute;
+    transform: rotate(137.03deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line45 {
+    width: 13.93px;
+    height: 0;
+    left: 739px;
+    top: 330.9px;
+    position: absolute;
+    transform: rotate(12.22deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle12_R {
+    width: 55px;
+    height: 21px;
+    left: 348px;
+    top: 272px;
+    position: absolute;
+    background: red;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle12_G {
+    width: 55px;
+    height: 21px;
+    left: 348px;
+    top: 272px;
+    position: absolute;
+    background: green;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle12_Gr {
+    width: 55px;
+    height: 21px;
+    left: 348px;
+    top: 272px;
+    position: absolute;
+    background: grey;
+  }
+
+  .TwoAspectRGHGSignal_Decpr_2 {
+    left: 357px;
+    top: 276px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_2255_2 {
+    left: 352px;
+    top: 292px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle13 {
+    width: 65px;
+    height: 34px;
+    left: 689px;
+    top: 286px;
+    position: absolute;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_V444422_2 {
+    width: 52px;
+    height: 25px;
+    left: 696px;
+    top: 284px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_VDcE {
+    left: 762px;
+    top: 295px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Decr_1 {
+    left: 1010px;
+    top: 214px;
+    position: absolute;
+    color: black;
+    font-size: 9px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Decr_2 {
+    left: 590px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+    top: 274px;
+  }
+  
+  .TwoAspectRGHGSignal_Decr_3 {
+    top: 337px;
+    left: 590px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line46 {
+    width: 278px;
+    height: 0;
+    left: 332px;
+    top: 378px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line47 {
+    width: 278px;
+    height: 0;
+    left: 333px;
+    top: 436px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line48 {
+    width: 59px;
+    height: 0;
+    left: 333px;
+    top: 378px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line49 {
+    width: 22.02px;
+    height: 0;
+    left: 594px;
+    top: 361px;
+    position: absolute;
+    transform: rotate(50.53deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line50 {
+    width: 19.72px;
+    height: 0;
+    left: 608px;
+    top: 378px;
+    position: absolute;
+    transform: rotate(-59.53deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line51 {
+    width: 22.02px;
+    height: 0;
+    left: 596px;
+    top: 419px;
+    position: absolute;
+    transform: rotate(50.53deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line52 {
+    width: 19.72px;
+    height: 0;
+    left: 610px;
+    top: 436px;
+    position: absolute;
+    transform: rotate(-59.53deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle14_R {
+    width: 51px;
+    height: 24px;
+    left: 348px;
+    top: 378px;
+    position: absolute;
+    background: red;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle14_G {
+    width: 51px;
+    height: 24px;
+    left: 348px;
+    top: 378px;
+    position: absolute;
+    background: green;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle14_Grr {
+    width: 51px;
+    height: 24px;
+    left: 348px;
+    top: 378px;
+    position: absolute;
+    background: grey;
+  }
+  
+  .TwoAspectRGHGSignal_Recpr_2 {
+    left: 354px;
+    top: 382px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_2255_3 {
+    left: 350px;
+    top: 404px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Recr_1 {
+    left: 574px;
+    top: 379px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Recr_2 {
+    left: 577px;
+    top: 442px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line53 {
+    width: 25.5px;
+    height: 0;
+    left: 659px;
+    top: 326px;
+    position: absolute;
+    transform: rotate(48.18deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line54 {
+    width: 92px;
+    height: 0;
+    left: 676px;
+    top: 345px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line55{
+    width: 13px;
+    height: 0;
+    left: 662px;
+    top: 436px;
+    position: absolute;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line55_Close{
+    width: 50px;
+    height: 0;
+    left: 610px;
+    top: 436px;
+    position: absolute;
+    border: 1px black solid;
+    transform: rotate(0deg);
+  }
+
+  .TwoAspectRGHGSignal_Line55_Line  {
+    width: 25px;
+    height: 0;
+    left: 637px;
+    top: 422px;
+    position: absolute;
+    border: 1px black solid;
+    transform: rotate(55deg);
+  }
+  
+  .TwoAspectRGHGSignal_Line56 {
+    width: 39.7px;
+    height: 0;
+    left: 657px;
+    top: 270px;
+    position: absolute;
+    transform: rotate(49.09deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line57 {
+    width: 82px;
+    height: 0;
+    left: 683px;
+    top: 299px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line58 {
+    width: 29px;
+    height: 0;
+    left: 657px;
+    top: 379px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle15 {
+    width: 10px;
+    height: 10px;
+    left: 652px;
+    top: 373px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Line59 {
+    width: 25.24px;
+    height: 0;
+    left: 659px;
+    top: 378px;
+    position: absolute;
+    transform: rotate(-123.69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line59_Close {
+    width: 50.24px;
+    height: 0;
+    left: 659px;
+    top: 379px;
+    position: absolute;
+    transform: rotate(-180.69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle16 {
+    width: 10px;
+    height: 10px;
+    left: 652px;
+    top: 432px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  .TwoAspectRGHGSignal_Line60 {
+    width: 207.01px;
+    height: 0;
+    left: 777.99px;
+    top: 164.5px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line61 {
+    width: 239.01px;
+    height: 0;
+    left: 778px;
+    top: 213px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line62 {
+    width: 235.01px;
+    height: 0;
+    left: 1032px;
+    top: 166px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line63 {
+    width: 210.01px;
+    height: 0;
+    left: 1054px;
+    top: 213px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Rectangle17 {
+    width: 56px;
+    height: 162px;
+    left: 1263px;
+    top: 145px;
+    position: absolute;
+    background: black;
+    border-radius: 30px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle18 {
+    width: 29px;
+    height: 60px;
+    left: 1277px;
+    top: 296px;
+    position: absolute;
+    background: black;
+    border-radius: 13px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle19 {
+    width: 15px;
+    height: 85px;
+    left: 1284px;
+    top: 318px;
+    position: absolute;
+    background: black;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle20_Y {
+    width: 35px;
+    height: 35px;
+    left: 1274px;
+    top: 173px;
+    position: absolute;
+    background: yellow;
+    border-radius: 23px;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle20_Gr {
+    width: 35px;
+    height: 35px;
+    left: 1274px;
+    top: 173px;
+    position: absolute;
+    background: #808080;
+    border-radius: 23px;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle21_R {
+    width: 35px;
+    height: 35px;
+    left: 1276px;
+    top: 252px;
+    position: absolute;
+    background: #ff1212;
+    border-radius: 23px;
+  }
+
+  .TwoAspectRGHGSignal_Rectangle21_Gr {
+    width: 35px;
+    height: 35px;
+    left: 1276px;
+    top: 252px;
+    position: absolute;
+    background: #808080;
+    border-radius: 23px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle22 {
+    width: 65px;
+    height: 34px;
+    left: 801px;
+    top: 173px;
+    position: absolute;
+    background: #f5f5f5;
+    border-radius: 10px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_V444422_3 {
+    width: 52px;
+    height: 25px;
+    left: 804px;
+    top: 170px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line64 {
+    width: 15.62px;
+    height: 0;
+    left: 765px;
+    top: 173.47px;
+    position: absolute;
+    transform: rotate(-36.61deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line65 {
+    width: 14.72px;
+    height: 0;
+    left: 777.54px;
+    top: 166.16px;
+    position: absolute;
+    transform: rotate(-146.34deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line66 {
+    width: 15.62px;
+    height: 0;
+    left: 785.31px;
+    top: 204px;
+    position: absolute;
+    transform: rotate(126.6deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line67 {
+    width: 14.72px;
+    height: 0;
+    left: 776px;
+    top: 213.54px;
+    position: absolute;
+    transform: rotate(16.88deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line68 {
+    width: 9.03px;
+    height: 0;
+    left: 884.5px;
+    top: 166px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Rectangle23 {
+    width: 17px;
+    height: 15px;
+    left: 877px;
+    top: 175.02px;
+    position: absolute;
+    background: #d9d9d9;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line69 {
+    width: 10px;
+    height: 0;
+    left: 885px;
+    top: 189.02px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line70 {
+    width: 17px;
+    height: 0;
+    left: 877px;
+    top: 199.02px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line71 {
+    width: 13px;
+    height: 0;
+    left: 880px;
+    top: 202.02px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_EldSigNll {
+    left: 869px;
+    top: 148px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_VAc {
+    left: 795px;
+    top: 147px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle24 {
+    width: 10px;
+    height: 10px;
+    left: 981px;
+    top: 161px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Line72 {
+    width: 24.08px;
+    height: 0;
+    left: 986px;
+    top: 167px;
+    position: absolute;
+    transform: rotate(-41.63deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .TwoAspectRGHGSignal_Line72_Close {
+    width: 50.08px;
+    height: 0;
+    left: 986px;
+    top: 165px;
+    position: absolute;
+    transform: rotate(1.37deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line73 {
+    width: 15.89px;
+    height: 0;
+    left: 1029px;
+    top: 153px;
+    position: absolute;
+    transform: rotate(63.43deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line74 {
+    width: 13.42px;
+    height: 0;
+    left: 1036px;
+    top: 165px;
+    position: absolute;
+    transform: rotate(-63.43deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line75 {
+    width: 15.89px;
+    height: 0;
+    left: 1184.65px;
+    top: 172.89px;
+    position: absolute;
+    transform: rotate(-33.86deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line76 {
+    width: 13.42px;
+    height: 0;
+    left: 1195.67px;
+    top: 164.43px;
+    position: absolute;
+    transform: rotate(-160.73deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line77 {
+    width: 15.89px;
+    height: 0;
+    left: 1050px;
+    top: 199px;
+    position: absolute;
+    transform: rotate(63.43deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line78 {
+    width: 13.42px;
+    height: 0;
+    left: 1057px;
+    top: 211px;
+    position: absolute;
+    transform: rotate(-63.43deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Dpr_2 {
+    left: 1031px;
+    top: 132px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle25 {
+    width: 60px;
+    height: 17px;
+    left: 1094px;
+    top: 245px;
+    position: absolute;
+    background: #d9d9d9;
+    border-radius: 75px;
+    border: 1px black solid;
+    z-index: 1;
+  }
+  .TwoAspectRGHGSignal_Rectangle26 {
+    width: 10px;
+    height: 10px;
+    left: 1109px;
+    top: 249px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+    z-index: 1;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle27 {
+    width: 10px;
+    height: 10px;
+    left: 1130px;
+    top: 249px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+    z-index: 1;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle28 {
+    width: 60px;
+    height: 17px;
+    left: 1094px;
+    top: 156px;
+    position: absolute;
+    background: #d9d9d9;
+    border-radius: 75px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle29 {
+    width: 10px;
+    height: 10px;
+    left: 1109px;
+    top: 160px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  .TwoAspectRGHGSignal_Rectangle30 {
+    width: 10px;
+    height: 10px;
+    left: 1130px;
+    top: 160px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle31 {
+    width: 60px;
+    height: 17px;
+    left: 1094px;
+    top: 288px;
+    position: absolute;
+    background: #d9d9d9;
+    border-radius: 75px;
+    border: 1px black solid;
+    z-index: 1;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle32 {
+    width: 10px;
+    height: 10px;
+    left: 1109px;
+    top: 292px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+    z-index: 1;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle33 {
+    width: 10px;
+    height: 10px;
+    left: 1130px;
+    top: 292px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+    z-index: 1;
+  }
+  .TwoAspectRGHGSignal_Rectangle34 {
+    width: 60px;
+    height: 17px;
+    left: 1094px;
+    top: 206px;
+    position: absolute;
+    background: #d9d9d9;
+    border-radius: 75px;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle35 {
+    width: 10px;
+    height: 10px;
+    left: 1109px;
+    top: 210px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle36 {
+    width: 10px;
+    height: 10px;
+    left: 1130px;
+    top: 210px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle37 {
+    width: 10px;
+    height: 10px;
+    left: 1012px;
+    top: 208px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  .TwoAspectRGHGSignal_Line79 {
+    width: 20px;
+    height: 0;
+    left: 1017px;
+    top: 216px;
+    position: absolute;
+    transform: rotate(-53.13deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+.TwoAspectRGHGSignal_Line79_Close {
+    width: 40px;
+  height: 0;
+  left: 1017px;
+  top: 211px;
+  position: absolute;
+  transform: rotate(1.13deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  }
+  .TwoAspectRGHGSignal_Line80 {
+    width: 15.89px;
+    height: 0;
+    left: 1184px;
+    top: 262px;
+    position: absolute;
+    transform: rotate(-25.42deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line81 {
+    width: 13.42px;
+    height: 0;
+    left: 1196.14px;
+    top: 256.24px;
+    position: absolute;
+    transform: rotate(-152.29deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Dpr_3 {
+    left: 981px;
+    top: 197px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_48V105320 {
+    left: 1011px;
+    top: 182px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_C_1 {
+    left: 1113px;
+    top: 182px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Ma105319_1 {
+    left: 1185px;
+    top: 183px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line84 {
+    width: 246.05px;
+    height: 0;
+    left: 1016.98px;
+    top: 255.5px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line85 {
+    width: 315.18px;
+    height: 0;
+    left: 984.94px;
+    top: 297.5px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Ma105319_2 {
+    left: 1185px;
+    top: 267px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_C_2 {
+    left: 1110px;
+    top: 266px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  .TwoAspectRGHGSignal_V108302 {
+    left: 1004px;
+    top: 266px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .TwoAspectRGHGSignal_Line86 {
+    width: 28.5px;
+    height: 0;
+    left: 1014px;
+    top: 212px;
+    position: absolute;
+    transform: rotate(131.82deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line87 {
+    width: 24px;
+    height: 0;
+    left: 995px;
+    top: 231px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line88 {
+    width: 27px;
+    height: 0;
+    left: 995px;
+    top: 255px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line89 {
+    width: 75.29px;
+    height: 0;
+    left: 981px;
+    top: 166px;
+    position: absolute;
+    transform: rotate(120.31deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line90 {
+    width: 68px;
+    height: 0;
+    left: 943px;
+    top: 230px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line91 {
+    width: 48.01px;
+    height: 0;
+    left: 943px;
+    top: 298px;
+    position: absolute;
+    transform: rotate(-1.19deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line92 {
+    width: 17.41px;
+    height: 0;
+    left: 962.06px;
+    top: 296.1px;
+    position: absolute;
+    transform: rotate(125.31deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line93 {
+    width: 15px;
+    height: 0;
+    left: 953.06px;
+    top: 308.1px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line94 {
+    width: 27px;
+    height: 0;
+    left: 953.06px;
+    top: 323.1px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line95 {
+    width: 15px;
+    height: 0;
+    left: 979.06px;
+    top: 308.1px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line96 {
+    width: 17.41px;
+    height: 0;
+    left: 977.14px;
+    top: 308.4px;
+    position: absolute;
+    transform: rotate(-134.59deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line97 {
+    width: 17.41px;
+    height: 0;
+    left: 1020.35px;
+    top: 255.48px;
+    position: absolute;
+    transform: rotate(-49.06deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line98 {
+    width: 15px;
+    height: 0;
+    left: 1029.07px;
+    top: 244.05px;
+    position: absolute;
+    transform: rotate(-89.37deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line99 {
+    width: 27px;
+    height: 0;
+    left: 1030.24px;
+    top: 229.05px;
+    position: absolute;
+    transform: rotate(-179.37deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line100 {
+    width: 15px;
+    height: 0;
+    left: 1003.08px;
+    top: 243.77px;
+    position: absolute;
+    transform: rotate(-89.37deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line101 {
+    width: 17.41px;
+    height: 0;
+    left: 1002px;
+    top: 243.44px;
+    position: absolute;
+    transform: rotate(46.04deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle38 {
+    width: 5px;
+    height: 5px;
+    left: 960.06px;
+    top: 320.1px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Rectangle39 {
+    width: 5px;
+    height: 5px;
+    left: 962px;
+    top: 295px;
+    position: absolute;
+    background: black;
+    border-radius: 22px;
+  }
+  
+  .TwoAspectRGHGSignal_Line102 {
+    width: 15.62px;
+    height: 0;
+    left: 963px;
+    top: 299px;
+    position: absolute;
+    transform: rotate(-39.81deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .TwoAspectRGHGSignal_Line103 {
+      width: 17px;
+      height: 0;
+      left: 963px;
+      top: 324px;
+      position: absolute;
+      border: 0px black solid;
+    }    
+  
+    .TwoAspectRGHGSignal_Line104 {
+      width: 17px;
+      height: 0;
+      left: 965px;
+      top: 299px;
+      position: absolute;
+      border: 0px black solid;
+    }
+        
+    .TwoAspectRGHGSignal_Rectangle40 {
+      width: 5px;
+      height: 5px;
+      left: 1011.09px;
+      top: 227px;
+      position: absolute;
+      background: black;
+      border-radius: 22px;
+    }    
+  
+    .TwoAspectRGHGSignal_Rectangle41 {
+      width: 5px;
+      height: 5px;
+      left: 1014.09px;
+      top: 251px;
+      position: absolute;
+      background: black;
+      border-radius: 22px;
+    }
+       
+    .TwoAspectRGHGSignal_Line105 {
+      width: 17px;
+      height: 0;
+      left: 1011.09px;
+      top: 230px;
+      position: absolute;
+      border: 0px black solid;
+    }
+  
+    .TwoAspectRGHGSignal_Line106 {
+      width: 17px;
+      height: 0;
+      left: 1017.09px;
+      top: 256px;
+      position: absolute;
+      border: 0px black solid;
+    }
+    
+    .TwoAspectRGHGSignal_Line107 {
+      width: 15.89px;
+      height: 0;
+      left: 972.99px;
+      top: 309.47px;
+      position: absolute;
+      transform: rotate(-114.41deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+       
+    .TwoAspectRGHGSignal_Line108 {
+      width: 13.42px;
+      height: 0;
+      left: 966.45px;
+      top: 297.21px;
+      position: absolute;
+      transform: rotate(118.72deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }    
+   
+    .TwoAspectRGHGSignal_Line109 {
+      width: 15.89px;
+      height: 0;
+      left: 1007.99px;
+      top: 265.47px;
+      position: absolute;
+      transform: rotate(-114.41deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }    
+  
+    .TwoAspectRGHGSignal_Line110 {
+      width: 13.42px;
+      height: 0;
+      left: 1001.45px;
+      top: 253.21px;
+      position: absolute;
+      transform: rotate(118.72deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+
+   .TwoAspectRGHGSignal_Line111 {
+      width: 15.89px;
+      height: 0;
+      left: 1023.99px;
+      top: 241.47px;
+      position: absolute;
+      transform: rotate(-114.41deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+  
+    .TwoAspectRGHGSignal_Line112 {
+      width: 13.42px;
+      height: 0;
+      left: 1017.45px;
+      top: 229.21px;
+      position: absolute;
+      transform: rotate(118.72deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+        
+    .TwoAspectRGHGSignal_Line113 {
+      width: 15.89px;
+      height: 0;
+      left: 968.99px;
+      top: 336.47px;
+      position: absolute;
+      transform: rotate(-114.41deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }    
+  
+    .TwoAspectRGHGSignal_Line114 {
+      width: 13.42px;
+      height: 0;
+      left: 962.45px;
+      top: 324.21px;
+      position: absolute;
+      transform: rotate(118.72deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+    
+  
+    .TwoAspectRGHGSignal_Decr_4 {
+      left: 919px;
+      top: 324px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .TwoAspectRGHGSignal_Dpr_4 {
+      color: black;
+      font-size: 12px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+      position: absolute;
+      left: 963px;
+      top: 249px;
+  
+    }
+    
+    .TwoAspectRGHGSignal_Dpr_5 {
+      left: 951px;
+      top: 276px;
+      color: black;
+      font-size: 12px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+      position: absolute;
+    }
+    
+    .TwoAspectRGHGSignal_Dpr_6 {
+      left: 965px;
+      top: 255px;
+    }
+    
+  
+    .TwoAspectRGHGSignal_Decr_5 {
+      color: black;
+      font-size: 8px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+      position: absolute;
+      left: 1063px;
+      top: 219px;
+    }
+    
+    .TwoAspectRGHGSignal_Decr_6 {
+      left: 1021px;
+      top: 219px;
+      color: black;
+      font-size: 8px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+      position: absolute;
+    }
+    
+    .TwoAspectRGHGSignal_Decr_7 {
+      left: 1057px;
+      top: 215px;
+      color: black;
+      font-size: 8px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+      position: absolute;
+    }
+    
+   
+    .TwoAspectRGHGSignal_Rectangle42 {
+      width: 37px;
+      height: 19px;
+      left: 1054px;
+      top: 214px;
+      position: absolute;
+      background: #FF1212;
+    }
+  
+    .TwoAspectRGHGSignal_Rectangle43_R {
+      width: 48px;
+      height: 18px;
+      left: 1004px;
+      top: 297px;
+      position: absolute;
+      background: red;
+    }
+    
+    .TwoAspectRGHGSignal_Rectangle43_G {
+      width: 48px;
+      height: 18px;
+      left: 1004px;
+      top: 297px;
+      position: absolute;
+      background: green;
+    }
+       
+    .TwoAspectRGHGSignal_Recr_3 {
+      left: 1011px;
+      top: 299px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+      
+    .TwoAspectRGHGSignal_5319 {
+      left: 1006px;
+      top: 316px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }       
+   
+    .TwoAspectRGHGSignal_Rectangle44 {
+      width: 260px;
+      height: 103px;
+      left: 751px;
+      top: 359px;
+      position: absolute;
+      background: #F5F5F5;
+      border-radius: 27px;
+      border: 1px black solid;
+    }
+  
+    .TwoAspectRGHGSignal_Line115 {
+        width: 19.21px;
+        height: 0;
+        left: 790.06px;
+        top: 424.41px;
+        position: absolute;
+        transform: rotate(-125.24deg);
+        transform-origin: 0 0;
+        border: 1px black solid;
+      }
+    
+    .TwoAspectRGHGSignal_Line116 {
+      width: 17px;
+      height: 0;
+      left: 777.98px;
+      top: 408.66px;
+      position: absolute;
+      transform: rotate(121.50deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+   
+    .TwoAspectRGHGSignal_Line117 {
+      width: 20px;
+      height: 0;
+      left: 786.96px;
+      top: 409.19px;
+      position: absolute;
+      transform: rotate(-176.58deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+    
+   
+    .TwoAspectRGHGSignal_Line118 {
+      width: 19.21px;
+      height: 0;
+      left: 766px;
+      top: 374px;
+      position: absolute;
+      transform: rotate(51.34deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }    
+   
+    .TwoAspectRGHGSignal_Line119 {
+      width: 17px;
+      height: 0;
+      left: 779px;
+      top: 389px;
+      position: absolute;
+      transform: rotate(-61.93deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+  
+    .TwoAspectRGHGSignal_Line120 {
+        width: 20px;
+        height: 0;
+        left: 770px;
+        top: 389px;
+        position: absolute;
+        border: 1px black solid;
+      }    
+    
+    .TwoAspectRGHGSignal_FrontContact {
+      left: 800px;
+      top: 373px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: 400;
+      word-wrap: break-word;
+    }    
+  
+    .TwoAspectRGHGSignal_Line121 {
+      width: 21px;
+      height: 0;
+      left: 892px;
+      top: 364px;
+      position: absolute;
+      transform: rotate(90deg);
+      transform-origin: 0 0;
+      border: 1px #FF1212 solid;
+    }
+       
+    .TwoAspectRGHGSignal_Line122 {
+      width: 11.14px;
+      height: 0;
+      left: 890px;
+      top: 385px;
+      position: absolute;
+      transform: rotate(-45deg);
+      transform-origin: 0 0;
+      border: 1px #FF1212 solid;
+    }    
+   
+    .TwoAspectRGHGSignal_Line123 {
+      width: 12.81px;
+      height: 0;
+      left: 890px;
+      top: 385px;
+      position: absolute;
+      transform: rotate(-128.66deg);
+      transform-origin: 0 0;
+      border: 1px #FF1212 solid;
+    }
+  
+    .TwoAspectRGHGSignal_EiBitsDown {
+        left: 916px;
+        top: 370px;
+        position: absolute;
+        color: black;
+        font-size: 12px;
+        font-family: "Inter";
+        font-weight: 400;
+        word-wrap: break-word;
+      }    
+    
+    .TwoAspectRGHGSignal_BackContact {
+      left: 801px;
+      top: 407px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: 400;
+      word-wrap: break-word;
+    }    
+   
+    .TwoAspectRGHGSignal_Rectangle45 {
+      width: 15px;
+      height: 10px;
+      left: 889px;
+      top: 409px;
+      position: absolute;
+      background: #327127;
+    }
+    
+    .TwoAspectRGHGSignal_Rectangle46 {
+      width: 15px;
+      height: 10px;
+      left: 892px;
+      top: 440px;
+      position: absolute;
+      background: #FF1212;
+    }
+    
+    .TwoAspectRGHGSignal_RelayUp {
+      left: 919px;
+      top: 408px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .TwoAspectRGHGSignal_Line124 {
+        width: 18px;
+        height: 0;
+        left: 780px;
+        top: 434px;
+        position: absolute;
+        transform: rotate(90deg);
+        transform-origin: 0 0;
+        border: 1px #327127 solid;
+      }
+    
+    .TwoAspectRGHGSignal_Line125 {
+      width: 14.21px;
+      height: 0;
+      left: 782px;
+      top: 435px;
+      position: absolute;
+      transform: rotate(140.71deg);
+      transform-origin: 0 0;
+      border: 1px #327127 solid;
+    }
+        
+    .TwoAspectRGHGSignal_Line126 {
+      width: 11.4px;
+      height: 0;
+      left: 780px;
+      top: 434px;
+      position: absolute;
+      transform: rotate(52.13deg);
+      transform-origin: 0 0;
+      border: 1px #327127 solid;
+    }
+    
+    .TwoAspectRGHGSignal_EiBitsUp {
+      left: 804px;
+      top: 438px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+       
+    .TwoAspectRGHGSignal_RelayDown {
+      left: 920px;
+      top: 437px;
+      position: absolute;
+      color: black;
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+
+    .TwoAspectRGHGSignal_EiBits {
+      position: absolute;
+      left: 62px;
+      top: 109px;
+      color: black;
+      font-size: 16px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+    
+    .TwoAspectRGHGSignal_RelayRoom {
+      position: absolute;
+      left: 250px;
+      top: 108px;
+      color: black;
+      font-size: 16px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+    
+    .TwoAspectRGHGSignal_Line127 {
+      position: absolute;
+      width: 385.03px;
+      height: 0;
+      left: 556.5px;
+      top: 92.98px;
+      transform: rotate(90deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+    
+    .TwoAspectRGHGSignal_Line129 {
+      position: absolute;
+      width: 778.05px;
+      height: 0;
+      left: 554px;
+      top: 478px;
+      border: 1px black solid;
+    }
+    
+    .TwoAspectRGHGSignal_Line2129 {
+      position: absolute;
+      width: 778.05px;
+      height: 0;
+      left: 554px;
+      top: 94px;
+      border: 1px black solid;
+    }
+
+    .TwoAspectRGHGSignal_Line130 {
+      position: absolute;
+      width: 385px;
+      height: 0;
+      left: 1333px;
+      top: 94px;
+      transform: rotate(90deg);
+      transform-origin: 0 0;
+      border: 1px black solid;
+    }
+    
+    .TwoAspectRGHGSignal_Location25 {
+      position: absolute;
+      left: 927px;
+      top: 109px;
+      color: black;
+      font-size: 16px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+    
+    .TwoAspectRGHGSignal_S8 {
+      position: absolute;
+      left: 1292px;
+      top: 119px;
+      color: black;
+      font-size: 16px;
+      font-family: Inter;
+      font-weight: 400;
+      word-wrap: break-word;
+    }
+    
+    .TwoAspectRGHGSignal_Line131 {
+      position: absolute;
+      width: 336.02px;
+      height: 0;
+      left: 186.99px;
+      top: 92px;
+      border: 1px black solid;
+    }
+    
+    .TwoAspectRGHGSignal_Line132 {
+      position: absolute;
+      width: 336.02px;
+      height: 0;
+      left: 187px;
+      top: 477px;
+      border: 1px black solid;
+    }
+
+    .TwoAspectRGHGSignal_0 {
+      left: 1136px;
+      top: 180px;
+      position: absolute;
+      color: "black";
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: "400";
+      word-wrap: "break-word";
+    }
+
+    .TwoAspectRGHGSignal_00 {
+      left: 1135px;
+      top: 268px;
+      position: absolute;
+      color: "black";
+      font-size: 12px;
+      font-family: "Inter";
+      font-weight: "400";
+      word-wrap: "break-word";
+    }
+                          
+  

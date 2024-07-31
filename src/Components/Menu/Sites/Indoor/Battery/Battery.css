@@ -1,0 +1,3137 @@
+.charger {
+  background-color: red !important;
+  padding: 20px !important;
+  text-align: center !important;
+  color: white !important;
+  font-size: 20px !important;
+  margin: 20px 0 !important;
+}
+
+.box-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.Battery_1 {
+  width: 1802px !important;
+  height: 744px !important;
+  position: relative !important;
+  background: white !important;
+}
+
+.Battery_2 {
+  width: 1488px;
+  height: 0;
+  left: 183px;
+  top: 226px;
+  position: absolute;
+  border: 1px black solid;
+}
+.Battery_3 {
+  width: 110px;
+  height: 98px;
+  left: 250px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_4 {
+  width: 105px;
+  height: 98px;
+  left: 382px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_5 {
+  width: 108px;
+  height: 98px;
+  left: 516px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_6 {
+  width: 113px;
+  height: 98px;
+  left: 645px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_7 {
+  width: 104px;
+  height: 98px;
+  left: 780px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_8 {
+  width: 102px;
+  height: 98px;
+  left: 910px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_9 {
+  width: 105px;
+  height: 98px;
+  left: 1040px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_10 {
+  width: 103px;
+  height: 98px;
+  left: 1173px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_11 {
+  width: 105px;
+  height: 98px;
+  left: 1304px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_12 {
+  width: 101px;
+  height: 98px;
+  left: 1437px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_13 {
+  width: 105px;
+  height: 98px;
+  left: 1568px;
+  top: 176px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_14 {
+  width: 1423px;
+  height: 0;
+  left: 250px;
+  top: 335px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Battery_15 {
+  width: 110px;
+  height: 97px;
+  left: 250px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_16 {
+  width: 105px;
+  height: 97px;
+  left: 382px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_17 {
+  width: 108px;
+  height: 97px;
+  left: 516px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_18 {
+  width: 113px;
+  height: 97px;
+  left: 645px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_19 {
+  width: 104px;
+  height: 97px;
+  left: 780px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_20 {
+  width: 102px;
+  height: 97px;
+  left: 910px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_21 {
+  width: 105px;
+  height: 97px;
+  left: 1040px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_22 {
+  width: 103px;
+  height: 97px;
+  left: 1173px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_23 {
+  width: 105px;
+  height: 97px;
+  left: 1304px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_24 {
+  width: 101px;
+  height: 97px;
+  left: 1437px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_25 {
+  width: 105px;
+  height: 97px;
+  left: 1568px;
+  top: 288px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_26 {
+  width: 1423px;
+  height: 0;
+  left: 250px;
+  top: 442px;
+  position: absolute;
+  border: 1px black solid;
+}
+.Battery_27 {
+  width: 110px;
+  height: 106px;
+  left: 250px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_28 {
+  width: 105px;
+  height: 106px;
+  left: 382px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_29 {
+  width: 108px;
+  height: 106px;
+  left: 516px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_30 {
+  width: 113px;
+  height: 106px;
+  left: 645px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_31 {
+  width: 104px;
+  height: 106px;
+  left: 780px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_32 {
+  width: 102px;
+  height: 106px;
+  left: 910px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_33 {
+  width: 105px;
+  height: 106px;
+  left: 1040px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_34 {
+  width: 103px;
+  height: 106px;
+  left: 1173px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_35 {
+  width: 105px;
+  height: 106px;
+  left: 1304px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_36 {
+  width: 101px;
+  height: 106px;
+  left: 1437px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_37 {
+  width: 105px;
+  height: 106px;
+  left: 1568px;
+  top: 394px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_38 {
+  width: 1423px;
+  height: 0;
+  left: 250px;
+  top: 559px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Battery_38_1 {
+  width: 1423px;
+  height: 0;
+  left: 250px;
+  top: 668px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+
+.Battery_39 {
+  width: 110px;
+  height: 97px;
+  left: 250px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_40 {
+  width: 105px;
+  height: 97px;
+  left: 382px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_41 {
+  width: 108px;
+  height: 97px;
+  left: 516px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_42 {
+  width: 113px;
+  height: 97px;
+  left: 645px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_43 {
+  width: 104px;
+  height: 97px;
+  left: 780px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_44 {
+  width: 102px;
+  height: 97px;
+  left: 910px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_45 {
+  width: 105px;
+  height: 97px;
+  left: 1040px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_46 {
+  width: 103px;
+  height: 97px;
+  left: 1173px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_47 {
+  width: 105px;
+  height: 97px;
+  left: 1304px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_48 {
+  width: 101px;
+  height: 97px;
+  left: 1437px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_49 {
+  width: 101px;
+  height: 97px;
+  left: 1576px;
+  top: 509px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_50 {
+  width: 110px;
+  height: 98px;
+  left: 250px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_51 {
+  width: 105px;
+  height: 98px;
+  left: 382px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_52 {
+  width: 108px;
+  height: 98px;
+  left: 516px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_53 {
+  width: 113px;
+  height: 98px;
+  left: 645px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_54 {
+  width: 104px;
+  height: 98px;
+  left: 780px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_55 {
+  width: 102px;
+  height: 98px;
+  left: 910px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_56 {
+  width: 105px;
+  height: 98px;
+  left: 1040px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_57 {
+  width: 103px;
+  height: 98px;
+  left: 1173px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_58 {
+  width: 105px;
+  height: 98px;
+  left: 1304px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+.Battery_60 {
+  width: 101px;
+  height: 98px;
+  left: 1437px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_61 {
+  width: 105px;
+  height: 98px;
+  left: 1568px;
+  top: 620px;
+  position: absolute;
+  background: white;
+  border-radius: 17px;
+  border: 1px black solid;
+}
+
+.Battery_62 {
+  width: 88px;
+  height: 0;
+  left: 185px;
+  top: 137px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Battery_63 {
+  width: 305px;
+  height: 0;
+  left: 185px;
+  top: 108px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Battery_64 {
+  width: 19.25px;
+  height: 0;
+  left: 470.42px;
+  top: 98.28px;
+  position: absolute;
+  transform: rotate(22.3deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.Battery_65 {
+  width: 19.25px;
+  height: 0;
+  left: 471.89px;
+  top: 115.27px;
+  position: absolute;
+  transform: rotate(-22.3deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Battery_66 {
+  width: 168px;
+  height: 134px;
+  left: 58px;
+  top: 42px;
+  position: absolute;
+  background: white;
+  border-radius: 5px;
+  border: 1px black solid;
+}
+
+.Battery_67 {
+  width: 164px;
+  height: 133px;
+  left: 58px;
+  top: 75px;
+  position: absolute;
+  text-align: center;
+  color: #f90c0c;
+  font-size: 34px;
+  font-family: Inter;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+.Battery_68 {
+  width: 118px;
+  height: 25px;
+  left: 337px;
+  top: 74px;
+  position: absolute;
+  color: black;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Battery_69 {
+  width: 437px;
+  height: 81px;
+  left: 710px;
+  top: 42px;
+  position: absolute;
+  text-align: center;
+  color: #22917d;
+  font-size: 30px;
+  font-family: Inter;
+  font-weight: 800;
+  word-wrap: break-word;
+}
+
+.Battery_70 {
+  width: 14px;
+  height: 0;
+  left: 1617px;
+  top: 274px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+.Battery_71 {
+  width: 9px;
+  height: 0;
+  left: 1617px;
+  top: 500px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Battery_72 {
+  width: 9px;
+  height: 0;
+  left: 305px;
+  top: 385px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Battery_73 {
+  width: 14px;
+  height: 0;
+  left: 305px;
+  top: 606px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Battery_74 {
+  width: 156px;
+  height: 26px;
+  left: 0;
+  top: 233px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Battery_75 {
+  width: 179px;
+  height: 31px;
+  left: 0;
+  top: 352px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Battery_76 {
+  width: 295px;
+  height: 27px;
+  left: 0;
+  top: 508px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+.Battery_77 {
+  width: 75px;
+  height: 40px;
+  left: 259px;
+  top: 181px;
+  position: absolute;
+
+  font-family: Inter;
+
+  word-wrap: break-word;
+  font-size: 15px;
+  color: green;
+  font-weight: 640;
+}
+
+.Battery_78 {
+  width: 75px;
+  height: 40px;
+  left: 393px;
+  top: 181px;
+  position: absolute;
+
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 640;
+  word-wrap: break-word;
+  color: green;
+}
+
+.Battery_79 {
+  width: 66px;
+  height: 40px;
+  left: 528px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 640;
+  word-wrap: break-word;
+}
+
+.Battery_80 {
+  width: 66px;
+  height: 40px;
+  left: 653px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery_81 {
+  width: 66px;
+  height: 42px;
+  left: 259px;
+  top: 297px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery82 {
+  width: 66px;
+  height: 41px;
+  left: 259px;
+  top: 400px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery83 {
+  width: 66px;
+  height: 41px;
+  left: 393px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery84 {
+  width: 66px;
+  height: 40px;
+  left: 259px;
+  top: 523px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery85 {
+  width: 66px;
+  height: 40px;
+  left: 259px;
+  top: 625px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery86 {
+  width: 66px;
+  height: 38px;
+  left: 393px;
+  top: 404px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery87 {
+  width: 66px;
+  height: 40px;
+  left: 393px;
+  top: 523px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery88 {
+  width: 66px;
+  height: 40px;
+  left: 393px;
+  top: 625px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery89 {
+  width: 66px;
+  height: 41px;
+  left: 528px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery90 {
+  width: 66px;
+  height: 38px;
+  left: 528px;
+  top: 404px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery91 {
+  width: 66px;
+  height: 37px;
+  left: 528px;
+  top: 517px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery92 {
+  width: 75px;
+  height: 40px;
+  left: 524px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery93 {
+  width: 75px;
+  height: 41px;
+  left: 653px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery94 {
+  width: 66px;
+  height: 38px;
+  left: 655px;
+  top: 404px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery95 {
+  width: 66px;
+  height: 37px;
+  left: 655px;
+  top: 517px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery96 {
+  width: 66px;
+  height: 40px;
+  left: 655px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery97 {
+  width: 75px;
+  height: 40px;
+  left: 790px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery98 {
+  width: 75px;
+  height: 41px;
+  left: 790px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery99 {
+  width: 75px;
+  height: 38px;
+  left: 790px;
+  top: 404px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery100 {
+  width: 75px;
+  height: 37px;
+  left: 790px;
+  top: 517px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery101 {
+  width: 75px;
+  height: 40px;
+  left: 788px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery102 {
+  width: 66px;
+  height: 40px;
+  left: 1050px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery103 {
+  width: 75px;
+  height: 40px;
+  left: 919px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery104 {
+  width: 75px;
+  height: 38px;
+  left: 919px;
+  top: 404px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery105 {
+  width: 75px;
+  height: 41px;
+  left: 919px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery106 {
+  width: 75px;
+  height: 41px;
+  left: 919px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery107 {
+  width: 75px;
+  height: 40px;
+  left: 919px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery108 {
+  width: 66px;
+  height: 41px;
+  left: 1052px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery109 {
+  width: 66px;
+  height: 40px;
+  left: 1049px;
+  top: 401px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery110 {
+  width: 66px;
+  height: 41px;
+  left: 1049px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery111 {
+  width: 66px;
+  height: 40px;
+  left: 1050px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery112 {
+  width: 66px;
+  height: 40px;
+  left: 1185px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery113 {
+  width: 66px;
+  height: 41px;
+  left: 1185px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery114 {
+  width: 66px;
+  height: 40px;
+  left: 1313px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery115 {
+  width: 66px;
+  height: 40px;
+  left: 1444px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery116 {
+  width: 66px;
+  height: 40px;
+  left: 1575px;
+  top: 181px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery117 {
+  width: 75px;
+  height: 41px;
+  left: 1578px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery118 {
+  width: 66px;
+  height: 41px;
+  left: 1444px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery119 {
+  width: 66px;
+  height: 41px;
+  left: 1313px;
+  top: 294px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery120 {
+  width: 66px;
+  height: 41px;
+  left: 1313px;
+  top: 397px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery121 {
+  width: 66px;
+  height: 40px;
+  left: 1181px;
+  top: 401px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery122 {
+  width: 66px;
+  height: 41px;
+  left: 1181px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery123 {
+  width: 66px;
+  height: 41px;
+  left: 1315px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery124 {
+  width: 66px;
+  height: 41px;
+  left: 1444px;
+  top: 397px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery125 {
+  width: 66px;
+  height: 41px;
+  left: 1575px;
+  top: 397px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery126 {
+  width: 75px;
+  height: 41px;
+  left: 1578px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery127 {
+  width: 75px;
+  height: 40px;
+  left: 1578px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery128 {
+  width: 66px;
+  height: 41px;
+  left: 1447px;
+  top: 512px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+.Battery129 {
+  width: 66px;
+  height: 40px;
+  left: 1447px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery130 {
+  width: 66px;
+  height: 40px;
+  left: 1316px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery131 {
+  width: 66px;
+  height: 40px;
+  left: 1185px;
+  top: 621px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery132 {
+  width: 1423px;
+  height: 0;
+  left: 250px;
+  top: 226px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+
+.Battery133 {
+  width: 1423px;
+  height: 0;
+  left: 248px;
+  top: 335px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+.Battery134 {
+  width: 1423px;
+  height: 0;
+  left: 248px;
+  top: 442px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+
+.Battery135 {
+  width: 1423px;
+  height: 0;
+  left: 248px;
+  top: 558px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+
+.Battery136 {
+  width: 1423px;
+  height: 0;
+  left: 248px;
+  top: 668px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+
+.Battery137 {
+  width: 27px;
+  height: 27px;
+  left: 325px;
+  top: 245px;
+  position: absolute;
+  color: green;
+  font-size: 15px;
+  font-family: Inter;
+   font-weight: 646;
+  word-wrap: break-word;
+}
+
+.Battery138 {
+  width: 27px;
+  height: 27px;
+  left: 455px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery139 {
+  width: 27px;
+  height: 27px;
+  left: 590px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery140 {
+  width: 26px;
+  height: 27px;
+  left: 722px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery141 {
+  width: 26px;
+  height: 27px;
+  left: 847px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery142 {
+  width: 26px;
+  height: 27px;
+  left: 977px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery143 {
+  width: 25px;
+  height: 27px;
+  left: 1113px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery144 {
+  width: 26px;
+  height: 27px;
+  left: 1242px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery145 {
+  width: 26px;
+  height: 27px;
+  left: 1373px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery146 {
+  width: 26px;
+  height: 27px;
+  left: 1505px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery147 {
+  width: 26px;
+  height: 27px;
+  left: 1640px;
+  top: 245px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery148 {
+  width: 26px;
+  height: 23px;
+  left: 328px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery149 {
+  width: 27px;
+  height: 23px;
+  left: 453px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery150 {
+  width: 27px;
+  height: 23px;
+  left: 590px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery151 {
+  width: 26px;
+  height: 23px;
+  left: 722px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery152 {
+  width: 26px;
+  height: 23px;
+  left: 847px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery153 {
+  width: 26px;
+  height: 23px;
+  left: 977px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Batter154 {
+  width: 25px;
+  height: 23px;
+  left: 1113px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery155 {
+  width: 26px;
+  height: 23px;
+  left: 1242px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery156 {
+  width: 26px;
+  height: 23px;
+  left: 1373px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery157 {
+  width: 26px;
+  height: 23px;
+  left: 1505px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery158 {
+  width: 26px;
+  height: 23px;
+  left: 1640px;
+  top: 355px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery159 {
+  width: 26px;
+  height: 26px;
+  left: 330px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery160 {
+  width: 27px;
+  height: 25px;
+  left: 453px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery161 {
+  width: 27px;
+  height: 26px;
+  left: 590px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery162 {
+  width: 26px;
+  height: 26px;
+  left: 722px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery163 {
+  width: 26px;
+  height: 26px;
+  left: 847px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery164 {
+  width: 26px;
+  height: 26px;
+  left: 977px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery165 {
+  width: 25px;
+  height: 26px;
+  left: 1113px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery166 {
+  width: 26px;
+  height: 26px;
+  left: 1242px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery167 {
+  width: 26px;
+  height: 26px;
+  left: 1373px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery168 {
+  width: 26px;
+  height: 26px;
+  left: 1505px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery169 {
+  width: 26px;
+  height: 26px;
+  left: 1640px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery170 {
+  width: 26px;
+  height: 28px;
+  left: 328px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery171 {
+  width: 27px;
+  height: 28px;
+  left: 453px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery172 {
+  width: 27px;
+  height: 28px;
+  left: 590px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery173 {
+  width: 26px;
+  height: 28px;
+  left: 722px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery174 {
+  width: 26px;
+  height: 28px;
+  left: 847px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery175 {
+  width: 26px;
+  height: 28px;
+  left: 977px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery176 {
+  width: 25px;
+  height: 28px;
+  left: 1113px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery177 {
+  width: 26px;
+  height: 28px;
+  left: 1242px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery178 {
+  width: 26px;
+  height: 28px;
+  left: 1373px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery179 {
+  width: 26px;
+  height: 28px;
+  left: 1505px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery180 {
+  width: 26px;
+  height: 28px;
+  left: 1640px;
+  top: 576px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery181 {
+  width: 26px;
+  height: 27px;
+  left: 327px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery182 {
+  width: 27px;
+  height: 27px;
+  left: 453px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery183 {
+  width: 27px;
+  height: 27px;
+  left: 590px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery184 {
+  width: 26px;
+  height: 27px;
+  left: 722px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery185 {
+  width: 26px;
+  height: 27px;
+  left: 847px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery186 {
+  width: 26px;
+  height: 27px;
+  left: 977px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery187 {
+  width: 25px;
+  height: 25px;
+  left: 1113px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery188 {
+  width: 26px;
+  height: 25px;
+  left: 1242px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery189 {
+  width: 26px;
+  height: 27px;
+  left: 1373px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery190 {
+  width: 26px;
+  height: 27px;
+  left: 1505px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery191 {
+  width: 26px;
+  height: 25px;
+  left: 1640px;
+  top: 690px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery192 {
+  width: 17px;
+  height: 16px;
+  left: 228px;
+  top: 198px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery193 {
+  width: 32px;
+  height: 26px;
+  left: 355px;
+  top: 193px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery194 {
+  width: 32px;
+  height: 25px;
+  left: 487px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery195 {
+  width: 32px;
+  height: 25px;
+  left: 619px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery196 {
+  width: 31px;
+  height: 26px;
+  left: 754px;
+  top: 193px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery197 {
+  width: 33px;
+  height: 25px;
+  left: 882px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery198 {
+  width: 32px;
+  height: 25px;
+  left: 1011px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery199 {
+  width: 31px;
+  height: 25px;
+  left: 1144px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery200 {
+  width: 31px;
+  height: 26px;
+  left: 1275px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery201 {
+  width: 29px;
+  height: 25px;
+  left: 1409px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery202 {
+  width: 32px;
+  height: 26px;
+  left: 1537px;
+  top: 195px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery203 {
+  width: 32px;
+  height: 27px;
+  left: 1538px;
+  top: 301px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery204 {
+  width: 31px;
+  height: 27px;
+  left: 1538px;
+  top: 412px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery205 {
+  width: 32px;
+  height: 28px;
+  left: 1537px;
+  top: 530px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery206 {
+  width: 31px;
+  height: 27px;
+  left: 1538px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery207 {
+  width: 32px;
+  height: 27px;
+  left: 1409px;
+  top: 301px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery208 {
+  width: 29px;
+  height: 27px;
+  left: 1408px;
+  top: 407px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery209 {
+  width: 30px;
+  height: 26px;
+  left: 1408px;
+  top: 528px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery210 {
+  width: 29px;
+  height: 26px;
+  left: 1409px;
+  top: 639px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery211 {
+  width: 31px;
+  height: 27px;
+  left: 1275px;
+  top: 301px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery212 {
+  width: 32px;
+  height: 27px;
+  left: 1273px;
+  top: 407px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery213 {
+  width: 32px;
+  height: 27px;
+  left: 1274px;
+  top: 526px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery214 {
+  width: 31px;
+  height: 27px;
+  left: 1275px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery215 {
+  width: 31px;
+  height: 25px;
+  left: 1144px;
+  top: 303px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery216 {
+  width: 32px;
+  height: 27px;
+  left: 1145px;
+  top: 411px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery217 {
+  width: 31px;
+  height: 25px;
+  left: 1144px;
+  top: 528px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery218 {
+  width: 29px;
+  height: 27px;
+  left: 1144px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery219 {
+  width: 32px;
+  height: 28px;
+  left: 1010px;
+  top: 303px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery220 {
+  width: 31px;
+  height: 27px;
+  left: 1011px;
+  top: 412px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery221 {
+  width: 33px;
+  height: 25px;
+  left: 882px;
+  top: 303px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery222 {
+  width: 33px;
+  height: 27px;
+  left: 882px;
+  top: 411px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery223 {
+  width: 31px;
+  height: 27px;
+  left: 880px;
+  top: 526px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery224 {
+  width: 32px;
+  height: 27px;
+  left: 1010px;
+  top: 526px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery225 {
+  width: 32px;
+  height: 27px;
+  left: 1010px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery226 {
+  width: 32px;
+  height: 27px;
+  left: 882px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery227 {
+  width: 31px;
+  height: 27px;
+  left: 753px;
+  top: 300px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery228 {
+  width: 30px;
+  height: 27px;
+  left: 755px;
+  top: 411px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery229 {
+  width: 32px;
+  height: 27px;
+  left: 619px;
+  top: 300px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery230 {
+  width: 32px;
+  height: 27px;
+  left: 619px;
+  top: 407px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery231 {
+  width: 31px;
+  height: 25px;
+  left: 619px;
+  top: 528px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery232 {
+  width: 30px;
+  height: 26px;
+  left: 755px;
+  top: 528px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery233 {
+  width: 30px;
+  height: 27px;
+  left: 754px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery234 {
+  width: 31px;
+  height: 27px;
+  left: 619px;
+  top: 637px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery235 {
+  width: 32px;
+  height: 27px;
+  left: 487px;
+  top: 300px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery236 {
+  width: 31px;
+  height: 25px;
+  left: 486px;
+  top: 414px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery237 {
+  width: 30px;
+  height: 27px;
+  left: 487px;
+  top: 526px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery238 {
+  width: 30px;
+  height: 25px;
+  left: 487px;
+  top: 639px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery239 {
+  width: 32px;
+  height: 25px;
+  left: 355px;
+  top: 303px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery240 {
+  width: 32px;
+  height: 27px;
+  left: 355px;
+  top: 412px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery241 {
+  width: 32px;
+  height: 27px;
+  left: 355px;
+  top: 523px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery242 {
+  width: 32px;
+  height: 25px;
+  left: 355px;
+  top: 639px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery243 {
+  width: 44px;
+  height: 15px;
+  left: 215px;
+  top: 308px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+.Battery244 {
+  width: 56px;
+  height: 16px;
+  left: 210px;
+  top: 415px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery245 {
+  width: 69px;
+  height: 16px;
+  left: 203px;
+  top: 639px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery246 {
+  width: 38px;
+  height: 16px;
+  left: 219px;
+  top: 526px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Battery247 {
+  width: 80px;
+  height: 52px;
+  left: 35px;
+  top: 265px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Battery248 {
+  width: 70px;
+  height: 62px;
+  left: 35px;
+  top: 390px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Battery249 {
+  width: 70px;
+  height: 42px;
+  left: 35px;
+  top: 544px;
+  position: absolute;
+  text-align: center;
+  color: black;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+ 
+.Battery132_1 {
+  width: 635px;
+  height: 0;
+  left: 250px;
+  top: 226px;
+  position: absolute;
+  box-shadow: 1px 1px 1px;
+  border: 0.5px rgba(0, 0, 0, 0.38) solid;
+  filter: blur(4px);
+}
+
+.Battery_2_1 {
+  width: 700px;
+  height: 0;
+  left: 183px;
+  top: 226px;
+  position: absolute;
+  border: 1px black solid;
+}

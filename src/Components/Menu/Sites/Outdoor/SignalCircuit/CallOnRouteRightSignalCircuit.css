@@ -1,0 +1,4875 @@
+.Route_Frame1 {
+  width: 1372px;
+  height: 590px;
+  position: relative;
+  background: white;
+}
+
+.Route_Line37 {
+  width: 22px;
+  height: 0;
+  left: 48px;
+  top: 514px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line38 {
+  width: 14.31px;
+  height: 0;
+  left: 47.39px;
+  top: 534.18px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line39 {
+  width: 14.32px;
+  height: 0;
+  left: 46.78px;
+  top: 537.61px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_ElBits_1 {
+  width: 70px;
+  height: 26px;
+  left: 45px;
+  top: 29px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle2 {
+  width: 100px;
+  height: 180px;
+  left: 33px;
+  top: 79px;
+  position: absolute;
+  background: #f6eeee;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+
+.Route_5546_1 {
+  width: 73px;
+  height: 26px;
+  left: 72px;
+  top: 92px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dr_1 {
+  width: 23px;
+  height: 26px;
+  left: 43px;
+  top: 83px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line5 {
+  width: 31.24px;
+  height: 0;
+  left: 114.24px;
+  top: 151.32px;
+  position: absolute;
+  transform: rotate(-152.83deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+}
+
+.Route_LinFe1 {
+  width: 23px;
+  height: 0;
+  left: 121px;
+  top: 79px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 2px solid #f32424;
+}
+
+.Route_Line2 {
+  width: 10.31px;
+  height: 0;
+  left: 75.62px;
+  top: 100.74px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line3 {
+  width: 29.27px;
+  height: 0;
+  left: 119.8px;
+  top: 144.19px;
+  position: absolute;
+  transform: rotate(-121.48deg);
+  transform-origin: 0 0;
+}
+
+.Route_Line4 {
+  width: 30.27px;
+  height: 0;
+  left: 119.8px;
+  top: 144.19px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  background: #F32424;
+}
+
+.Route_Line6 {
+  width: 12.32px;
+  height: 0;
+  left: 77.01px;
+  top: 102.17px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Hr_1 {
+  width: 23px;
+  height: 27px;
+  left: 43px;
+  top: 124px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5546_2 {
+  width: 73px;
+  height: 26px;
+  left: 73px;
+  top: 122px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2625_1 {
+  width: 73px;
+  height: 26px;
+  left: 76px;
+  top: 177px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2554_1 {
+  width: 73px;
+  height: 28px;
+  left: 75px;
+  top: 220px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Bhr_1 {
+  width: 35px;
+  height: 28px;
+  left: 43px;
+  top: 222px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ugr_1 {
+  width: 37px;
+  height: 26px;
+  left: 43px;
+  top: 180px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line7 {
+  width: 18px;
+  height: 0;
+  left: 80px;
+  top: 120px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line7_1 {
+  width: 18px;
+  height: 0;
+  left: 78px;
+  top: 83px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line8 {
+  width: 11.99px;
+  height: 0;
+  left: 78px;
+  top: 135.54px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line9 {
+  width: 10.32px;
+  height: 0;
+  left: 77px;
+  top: 136.97px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Line10 {
+  width: 16px;
+  height: 0;
+  left: 85px;
+  top: 176px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line11 {
+  width: 12.44px;
+  height: 0;
+  left: 84.13px;
+  top: 190.82px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line12 {
+  width: 12.44px;
+  height: 0;
+  left: 83.13px;
+  top: 192.82px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Line13 {
+  width: 16px;
+  height: 0;
+  left: 83px;
+  top: 234px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line14 {
+  width: 11.37px;
+  height: 0;
+  left: 85.52px;
+  top: 217.65px;
+  position: absolute;
+  transform: rotate(50.74deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line15 {
+  width: 12.26px;
+  height: 0;
+  left: 84.8px;
+  top: 217.8px;
+  position: absolute;
+  transform: rotate(131.36deg);
+  transform-origin: 0 0;
+  border: 1px solid #1f8416;
+}
+
+.Route_Rectangle3 {
+  width: 100px;
+  height: 220px;
+  left: 39px;
+  top: 275px;
+  position: absolute;
+  background: #f6eeee;
+  border-radius: 9px;
+  border: 1px solid black;
+}
+
+.Route_5547_1 {
+  width: 73px;
+  height: 25px;
+  left: 81px;
+  top: 282px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Decpr_1 {
+  width: 56px;
+  height: 25px;
+  left: 30px;
+  top: 282px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line16 {
+  width: 31.24px;
+  height: 0;
+  left: 114.24px;
+  top: 350.62px;
+  position: absolute;
+  transform: rotate(-152.83deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+}
+
+.Route_Line17 {
+  width: 12px;
+  height: 0;
+  left: 88px;
+  top: 278px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line18 {
+  width: 11.31px;
+  height: 0;
+  left: 87px;
+  top: 290.04px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line19 {
+  width: 29.27px;
+  height: 0;
+  left: 119.8px;
+  top: 343.48px;
+  position: absolute;
+  transform: rotate(-121.48deg);
+  transform-origin: 0 0;
+}
+
+.Route_Line20 {
+  width: 30.27px;
+  height: 0;
+  left: 119.8px;
+  top: 343.48px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  background: #f32424;
+}
+
+.Route_Line21 {
+  width: 11.32px;
+  height: 0;
+  left: 86px;
+  top: 291.47px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Hecpr_1 {
+  width: 58px;
+  height: 26px;
+  left: 30px;
+  top: 324px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_4947_1 {
+  width: 73px;
+  height: 26px;
+  left: 81px;
+  top: 324px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5548 {
+  width: 73px;
+  height: 27px;
+  left: 81px;
+  top: 379px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2626 {
+  width: 73px;
+  height: 28px;
+  left: 81px;
+  top: 422px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Uecpr {
+  width: 58px;
+  height: 28px;
+  left: 30px;
+  top: 422px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Recpr_1 {
+  width: 55px;
+  height: 27px;
+  left: 30px;
+  top: 379px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line22 {
+  width: 14px;
+  height: 0;
+  left: 88px;
+  top: 319px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line23 {
+  width: 12.99px;
+  height: 0;
+  left: 85.64px;
+  top: 334.27px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line24 {
+  width: 12.32px;
+  height: 0;
+  left: 85.64px;
+  top: 334.27px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Bhecpr {
+  width: 67px;
+  height: 26px;
+  left: 30px;
+  top: 466px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line31 {
+  width: 14px;
+  height: 0;
+  left: 85px;
+  top: 395px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line32 {
+  width: 12.26px;
+  height: 0;
+  left: 86px;
+  top: 380.3px;
+  position: absolute;
+  transform: rotate(50.74deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line33 {
+  width: 12.26px;
+  height: 0;
+  left: 86px;
+  top: 382.3px;
+  position: absolute;
+  transform: rotate(131.36deg);
+  transform-origin: 0 0;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line34 {
+  width: 14px;
+  height: 0;
+  left: 92px;
+  top: 463px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line35 {
+  width: 12.44px;
+  height: 0;
+  left: 91px;
+  top: 475.49px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line36 {
+  width: 11.32px;
+  height: 0;
+  left: 90px;
+  top: 476.92px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_Line25 {
+  width: 14px;
+  height: 0;
+  left: 86px;
+  top: 420px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #f32424;
+}
+
+.Route_Line26 {
+  width: 12.44px;
+  height: 0;
+  left: 84px;
+  top: 433.69px;
+  position: absolute;
+  transform: rotate(-52.07deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #f32424;
+}
+
+.Route_Line27 {
+  width: 12.32px;
+  height: 0;
+  left: 85px;
+  top: 434.13px;
+  position: absolute;
+  transform: rotate(-130.01deg);
+  transform-origin: 0 0;
+  border: 1px solid #f32424;
+}
+
+.Route_2555 {
+  width: 73px;
+  height: 26px;
+  left: 81px;
+  top: 469px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line40 {
+  width: 23px;
+  height: 0;
+  left: 133px;
+  top: 539px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  background: #f32424;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line41 {
+  width: 14.37px;
+  height: 0;
+  left: 134px;
+  top: 512.65px;
+  position: absolute;
+  transform: rotate(50.74deg);
+  transform-origin: 0 0;
+  background: #d9d9d9;
+  border: 1px solid #1f8416;
+}
+
+.Route_Line42 {
+  width: 14.26px;
+  height: 0;
+  left: 134px;
+  top: 515.79px;
+  position: absolute;
+  transform: rotate(131.36deg);
+  transform-origin: 0 0;
+  border: 1px solid #1f8416;
+}
+
+.Route_RelayDown {
+  width: 113px;
+  height: 27px;
+  left: 0;
+  top: 550px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_RelayUp {
+  width: 83px;
+  height: 27px;
+  left: 100px;
+  top: 550px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_RelayRoom_1 {
+  width: 48px;
+  height: 10px;
+  left: 107px;
+  top: 585px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_ElBits_2 {
+  width: 48px;
+  height: 10px;
+  left: 25px;
+  top: 585px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle16 {
+  width: 15px;
+  height: 18px;
+  left: 125px;
+  top: 568px;
+  position: absolute;
+  background: #1f8416;
+}
+
+.Route_Rectangle15 {
+  width: 15px;
+  height: 18px;
+  left: 40px;
+  top: 568px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Dr_2 {
+  width: 30px;
+  height: 12px;
+  left: 497px;
+  top: 60px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_EldSigTy_1 {
+  width: 100px;
+  height: 11px;
+  left: 375px;
+  top: 113px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_V151024_1 {
+  width: 100px;
+  height: 12px;
+  left: 255px;
+  top: 96px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle6 {
+  width: 24px;
+  height: 17px;
+  left: 140px;
+  top: 155px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Dr_3 {
+  width: 29px;
+  height: 11px;
+  left: 140px;
+  top: 156px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_RelayRoom_2 {
+  width: 103px;
+  height: 27px;
+  left: 469px;
+  top: 14px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line43 {
+  width: 219px;
+  height: 0;
+  left: 245px;
+  top: 89px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line45 {
+  width: 219px;
+  height: 0;
+  left: 245px;
+  top: 126px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+/* .Route_3 {
+    width: 31px;
+    height: 12px;
+    left: 327px;
+    top: 96px;
+    position: absolute;
+    color: #1f8416;
+    font-size: 15px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  } */
+
+.Route_Decr_1 {
+  width: 40px;
+  height: 12px;
+  left: 650px;
+  top: 250px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse1 {
+  width: 9px;
+  height: 9px;
+  left: 542px;
+  top: 84px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_5546_3 {
+  width: 77px;
+  height: 12px;
+  left: 768px;
+  top: 105px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line46 {
+  width: 206px;
+  height: 0;
+  left: 501px;
+  top: 87px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line47 {
+  width: 206px;
+  height: 0;
+  left: 502px;
+  top: 124px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line48 {
+  width: 103px;
+  height: 0;
+  left: 739px;
+  top: 87px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line49 {
+  width: 97px;
+  height: 0;
+  left: 744px;
+  top: 126px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line50 {
+  width: 39px;
+  height: 0;
+  left: 843px;
+  top: 89px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line51 {
+  width: 320px;
+  height: 0;
+  left: 523px;
+  top: 146px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line52 {
+  width: 320px;
+  height: 0;
+  left: 525px;
+  top: 181px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line53 {
+  width: 36px;
+  height: 0;
+  left: 845px;
+  top: 146px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line54 {
+  width: 15.62px;
+  height: 0;
+  left: 245.14px;
+  top: 90.97px;
+  position: absolute;
+  transform: rotate(-136.92deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line55 {
+  width: 15.27px;
+  height: 0;
+  left: 245.73px;
+  top: 89.84px;
+  position: absolute;
+  transform: rotate(142.82deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line56 {
+  width: 16.19px;
+  height: 0;
+  left: 245px;
+  top: 127.39px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line57 {
+  width: 16.19px;
+  height: 0;
+  left: 247px;
+  top: 125.49px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line58 {
+  width: 35.02px;
+  height: 0;
+  left: 481.1px;
+  top: 74.73px;
+  position: absolute;
+  transform: rotate(135.09deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line59 {
+  width: 60px;
+  height: 0;
+  left: 457px;
+  top: 97px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line60 {
+  width: 22px;
+  height: 0;
+  left: 457px;
+  top: 155px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line61 {
+  width: 30.13px;
+  height: 0;
+  left: 501.1px;
+  top: 135.89px;
+  position: absolute;
+  transform: rotate(137.57deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line62 {
+  width: 52px;
+  height: 0;
+  left: 449px;
+  top: 140px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line63 {
+  width: 31px;
+  height: 0;
+  left: 447px;
+  top: 191px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_5546_4 {
+  width: 45px;
+  height: 13px;
+  left: 165px;
+  top: 155px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5546_5 {
+  width: 45px;
+  height: 13px;
+  left: 165px;
+  top: 182px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle7 {
+  width: 24px;
+  height: 17px;
+  left: 140px;
+  top: 180px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Hr_2 {
+  width: 20px;
+  height: 11px;
+  left: 140px;
+  top: 181px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* .Route_5546_6 {
+    width: 44px;
+    height: 14px;
+    left: 363px;
+    top: 180px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  } */
+
+.Route_Rectangle8 {
+  width: 24px;
+  height: 18px;
+  left: 140px;
+  top: 210px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Ugr_2 {
+  width: 27px;
+  height: 10px;
+  left: 140px;
+  top: 212px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2625_2 {
+  width: 44px;
+  height: 14px;
+  left: 165px;
+  top: 210px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle9 {
+  width: 24px;
+  height: 17px;
+  left: 140px;
+  top: 239px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Bhr_2 {
+  width: 25px;
+  height: 12px;
+  left: 140px;
+  top: 240px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2554_2 {
+  width: 45px;
+  height: 14px;
+  left: 165px;
+  top: 239px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_VDcExtTy_1 {
+  width: 129px;
+  height: 12px;
+  left: 220px;
+  top: 66px;
+  position: absolute;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dr_4 {
+  width: 31px;
+  height: 10px;
+  left: 497px;
+  top: 92px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_118 {
+  width: 31px;
+  height: 10px;
+  left: 853px;
+  top: 94px;
+  position: absolute;
+  color: #1f8416;
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hr_3 {
+  width: 30px;
+  height: 10px;
+  left: 512px;
+  top: 124px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hr_4 {
+  width: 30px;
+  height: 10px;
+  left: 512px;
+  top: 155px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hpr_1 {
+  width: 42px;
+  height: 12px;
+  left: 675px;
+  top: 59px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hpr_2 {
+  width: 42px;
+  height: 12px;
+  left: 675px;
+  top: 95px;
+  position: absolute;
+  color: black;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle10 {
+  width: 45px;
+  height: 13px;
+  left: 785px;
+  top: 87px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Hpr_3 {
+  width: 31px;
+  height: 12px;
+  left: 790px;
+  top: 82px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line64 {
+  width: 24.52px;
+  height: 0;
+  left: 545.68px;
+  top: 91.32px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Line65 {
+  width: 53.52px;
+  height: 0;
+  left: 446.52px;
+  top: 138.49px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse2 {
+  width: 9px;
+  height: 9px;
+  left: 542px;
+  top: 120px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Ellipse3 {
+  width: 8px;
+  height: 9px;
+  left: 705px;
+  top: 82px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse4 {
+  width: 8px;
+  height: 9px;
+  left: 706px;
+  top: 119px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line66 {
+  width: 24.52px;
+  height: 0;
+  left: 708.38px;
+  top: 85.93px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+}
+
+.Route_Line67 {
+  width: 24.52px;
+  height: 0;
+  left: 710.63px;
+  top: 121.89px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+}
+
+.Route_Line68 {
+  width: 8.1px;
+  height: 0;
+  left: 734.76px;
+  top: 80.04px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line69 {
+  width: 8.1px;
+  height: 0;
+  left: 740px;
+  top: 86.88px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line70 {
+  width: 8.1px;
+  height: 0;
+  left: 744.89px;
+  top: 125.69px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line71 {
+  width: 8.1px;
+  height: 0;
+  left: 740.15px;
+  top: 118.66px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_4947_2 {
+  width: 48px;
+  height: 11px;
+  left: 785px;
+  top: 165px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle11 {
+  width: 42px;
+  height: 13px;
+  left: 787px;
+  top: 146px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Hpr_4 {
+  width: 23px;
+  height: 10px;
+  left: 794px;
+  top: 145px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line72 {
+  width: 8.1px;
+  height: 0;
+  left: 499px;
+  top: 87.57px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line73 {
+  width: 8.1px;
+  height: 0;
+  left: 496px;
+  top: 80.53px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line74 {
+  width: 8.1px;
+  height: 0;
+  left: 502px;
+  top: 123.69px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line75 {
+  width: 8.1px;
+  height: 0;
+  left: 498px;
+  top: 117.66px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line76 {
+  width: 8.1px;
+  height: 0;
+  left: 525.45px;
+  top: 145.86px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line77 {
+  width: 8.1px;
+  height: 0;
+  left: 519.7px;
+  top: 139.82px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line78 {
+  width: 8.1px;
+  height: 0;
+  left: 526.86px;
+  top: 180.82px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line79 {
+  width: 8.1px;
+  height: 0;
+  left: 522.12px;
+  top: 174.79px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line82 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 272px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse5 {
+  width: 10px;
+  height: 9px;
+  left: 540px;
+  top: 152px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line83 {
+  width: 24.52px;
+  height: 0;
+  left: 475.68px;
+  top: 190.9px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse6 {
+  width: 9px;
+  height: 8px;
+  left: 542px;
+  top: 189px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line84 {
+  width: 24.52px;
+  height: 0;
+  left: 547.1px;
+  top: 193.82px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Line85 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 307px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line86 {
+  width: 38px;
+  height: 0;
+  left: 450px;
+  top: 271px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line87 {
+  width: 131px;
+  height: 0;
+  left: 840px;
+  top: 271px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line88 {
+  width: 140px;
+  height: 0;
+  left: 710px;
+  top: 310px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line89 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 347px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line90 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 382px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line91 {
+  width: 37px;
+  height: 0;
+  left: 450px;
+  top: 347px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line92 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 424px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line93 {
+  width: 230px;
+  height: 0;
+  left: 450px;
+  top: 460px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line94 {
+  width: 38px;
+  height: 0;
+  left: 450px;
+  top: 424px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_5546_6 {
+  width: 48px;
+  height: 10px;
+  left: 465px;
+  top: 290px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle12 {
+  width: 50px;
+  height: 15px;
+  left: 465px;
+  top: 272px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Decpr_2 {
+  width: 42px;
+  height: 11px;
+  left: 465px;
+  top: 271px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5546_7 {
+  width: 48px;
+  height: 10px;
+  left: 465px;
+  top: 365px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle13 {
+  width: 46px;
+  height: 16px;
+  left: 465px;
+  top: 347px;
+  position: absolute;
+  background: #f32424;
+}
+
+.Route_Hecpr_2 {
+  width: 40px;
+  height: 10px;
+  left: 465px;
+  top: 347px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5547_2 {
+  width: 48px;
+  height: 11px;
+  left: 465px;
+  top: 440px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle14 {
+  width: 46px;
+  height: 17px;
+  left: 465px;
+  top: 424px;
+  position: absolute;
+  background: #1f8416;
+}
+
+.Route_Recpr_2 {
+  width: 40px;
+  height: 10px;
+  left: 465px;
+  top: 424px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Decr_2 {
+  width: 40px;
+  height: 12px;
+  left: 650px;
+  top: 285px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hecr_1 {
+  width: 40px;
+  height: 11px;
+  left: 650px;
+  top: 320px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hecr_2 {
+  width: 40px;
+  height: 10px;
+  left: 650px;
+  top: 360px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Recr_1 {
+  width: 40px;
+  height: 10px;
+  left: 650px;
+  top: 400px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Recr_2 {
+  width: 40px;
+  height: 11px;
+  left: 650px;
+  top: 440px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_VDcExtTy_2 {
+  width: 124px;
+  height: 12px;
+  left: 708px;
+  top: 254px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_V151024_2 {
+  width: 120px;
+  height: 11px;
+  left: 750px;
+  top: 290px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_3 {
+  width: 30px;
+  height: 11px;
+  left: 745px;
+  top: 287px;
+  position: absolute;
+  color: #1f8416;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line97 {
+  width: 12.62px;
+  height: 0;
+  left: 848.18px;
+  top: 310.15px;
+  position: absolute;
+  transform: rotate(-136.92deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line98 {
+  width: 12.27px;
+  height: 0;
+  left: 849.78px;
+  top: 312.02px;
+  position: absolute;
+  transform: rotate(142.82deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line101 {
+  width: 10px;
+  height: 0;
+  left: 840.04px;
+  top: 269.83px;
+  position: absolute;
+  transform: rotate(32.41deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line102 {
+  width: 10.9px;
+  height: 0;
+  left: 839.45px;
+  top: 268.87px;
+  position: absolute;
+  transform: rotate(-47.47deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse7 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 803.37px;
+  top: 274.73px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line103 {
+  width: 25.16px;
+  height: 0;
+  left: 806.42px;
+  top: 268.16px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Ellipse8 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 804.79px;
+  top: 312.49px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line104 {
+  width: 25.16px;
+  height: 0;
+  left: 807.84px;
+  top: 305.92px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Ellipse9 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 803.37px;
+  top: 389.81px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line105 {
+  width: 25.16px;
+  height: 0;
+  left: 806.42px;
+  top: 383.24px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Ellipse10 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 806.2px;
+  top: 346.66px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line106 {
+  width: 25.16px;
+  height: 0;
+  left: 809.26px;
+  top: 340.08px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Line107 {
+  width: 45.82px;
+  height: 0;
+  left: 699.48px;
+  top: 250.94px;
+  position: absolute;
+  transform: rotate(56.7deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line108 {
+  width: 60px;
+  height: 0;
+  left: 725px;
+  top: 290px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line109 {
+  width: 18px;
+  height: 0;
+  left: 705px;
+  top: 348px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line110 {
+  width: 45.84px;
+  height: 0;
+  left: 703.48px;
+  top: 300.11px;
+  position: absolute;
+  transform: rotate(44.62deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line111 {
+  width: 50px;
+  height: 0;
+  left: 736px;
+  top: 332px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line112 {
+  width: 27px;
+  height: 0;
+  left: 735px;
+  top: 382px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line113 {
+  width: 26.63px;
+  height: 0;
+  left: 701.89px;
+  top: 340.28px;
+  position: absolute;
+  transform: rotate(52.38deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line114 {
+  width: 62.95px;
+  height: 0;
+  left: 718.23px;
+  top: 359.26px;
+  position: absolute;
+  transform: rotate(88.71deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line115 {
+  width: 14px;
+  height: 0;
+  left: 717px;
+  top: 423px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line116 {
+  width: 40.35px;
+  height: 0;
+  left: 700.89px;
+  top: 371.43px;
+  position: absolute;
+  transform: rotate(41.85deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line117 {
+  width: 60px;
+  height: 0;
+  left: 731px;
+  top: 399px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line118 {
+  width: 27px;
+  height: 0;
+  left: 730px;
+  top: 460px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse11 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 800.54px;
+  top: 429.37px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line119 {
+  width: 25.16px;
+  height: 0;
+  left: 803.59px;
+  top: 422.8px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Ellipse12 {
+  width: 8.88px;
+  height: 7.22px;
+  left: 801.95px;
+  top: 463.54px;
+  position: absolute;
+  transform: rotate(-101.5deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line120 {
+  width: 25.16px;
+  height: 0;
+  left: 805.01px;
+  top: 456.97px;
+  position: absolute;
+  transform: rotate(-132.37deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Line121 {
+  width: 148px;
+  height: 0;
+  left: 865px;
+  top: 88px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line122 {
+  width: 148px;
+  height: 0;
+  left: 865px;
+  top: 125px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line123 {
+  width: 120px;
+  height: 0;
+  left: 1043px;
+  top: 83px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line124 {
+  width: 121px;
+  height: 0;
+  left: 1043px;
+  top: 121px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line125 {
+  width: 70px;
+  height: 0;
+  left: 1202px;
+  top: 83px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line126 {
+  width: 70px;
+  height: 0;
+  left: 1202px;
+  top: 121px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line127 {
+  width: 10px;
+  height: 0;
+  left: 1272px;
+  top: 84px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line128 {
+  width: 17px;
+  height: 0;
+  left: 1272px;
+  top: 104px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line129 {
+  width: 18px;
+  height: 0;
+  left: 1271px;
+  top: 93px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line130 {
+  width: 14px;
+  height: 0;
+  left: 1272px;
+  top: 104px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line131 {
+  width: 28.83px;
+  height: 0;
+  left: 1286.97px;
+  top: 104.28px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line132 {
+  width: 26.8px;
+  height: 0;
+  left: 1289.98px;
+  top: 93.88px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line133 {
+  width: 12.89px;
+  height: 0;
+  left: 865px;
+  top: 89.07px;
+  position: absolute;
+  transform: rotate(-150.2deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line134 {
+  width: 12px;
+  height: 0;
+  left: 865px;
+  top: 88.05px;
+  position: absolute;
+  transform: rotate(130.24deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line135 {
+  width: 12px;
+  height: 0;
+  left: 865px;
+  top: 125px;
+  position: absolute;
+  transform: rotate(32.41deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line136 {
+  width: 12px;
+  height: 0;
+  left: 865px;
+  top: 125px;
+  position: absolute;
+  transform: rotate(-47.47deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Dr_5 {
+  width: 15px;
+  height: 11px;
+  left: 855px;
+  top: 64px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+
+
+.Route_1024 {
+  width: 42px;
+  height: 10px;
+  left: 879px;
+  top: 98px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_EldSigTy_2 {
+  width: 40px;
+  height: 8px;
+  left: 885px;
+  top: 114px;
+  position: absolute;
+  color: black;
+  font-size: 7px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dr_6 {
+  width: 25px;
+  height: 11px;
+  left: 1050px;
+  top: 64px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ugpr {
+  width: 44px;
+  height: 10px;
+  left: 1047px;
+  top: 102px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* .Route_Ellipse13 {
+    width: 8px;
+    height: 9px;
+    left: 1020px;
+    top: 77px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+  } */
+
+/* .Route_Line137 {
+    width: 24.52px;
+    height: 0;
+    left: 1024.75px;
+    top: 82.33px;
+    position: absolute;
+    transform: rotate(-41.29deg);
+    transform-origin: 0 0;
+    border: 2px black solid;
+  } */
+
+.Route_EldSigTy_3 {
+  width: 27px;
+  height: 8px;
+  left: 998px;
+  top: 112px;
+  position: absolute;
+  color: black;
+  font-size: 5px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dr_7 {
+  width: 25px;
+  height: 11px;
+  left: 1050px;
+  top: 64px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+/* 
+  .Route_Ugpr {
+    width: 44px;
+    height: 10px;
+    left: 1047px;
+    top: 102px;
+    position: absolute;
+    color: black;
+    font-size: 10px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word;
+  } */
+
+.Route_Ellipse13 {
+  width: 6px;
+  height: 6px;
+  left: 1008px;
+  top: 85px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line137 {
+  width: 24.52px;
+  height: 0;
+  left: 1010.8px;
+  top: 85.33px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse14 {
+  width: 6px;
+  height: 6px;
+  left: 1007px;
+  top: 122px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line138 {
+  width: 24.52px;
+  height: 0;
+  left: 1010.75px;
+  top: 123.69px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_V192626 {
+  width: 74px;
+  height: 10px;
+  left: 1100px;
+  top: 98px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_81 {
+  width: 22px;
+  height: 10px;
+  left: 1095px;
+  top: 90px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse15 {
+  width: 42px;
+  height: 12px;
+  left: 1161px;
+  top: 76px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse16 {
+  width: 5px;
+  height: 5px;
+  left: 1188px;
+  top: 80px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse18 {
+  width: 40px;
+  height: 12px;
+  left: 1163px;
+  top: 115px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse19 {
+  width: 5px;
+  height: 5px;
+  left: 1168px;
+  top: 118px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse20 {
+  width: 5px;
+  height: 5px;
+  left: 1190px;
+  top: 118px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse21 {
+  width: 4px;
+  height: 4px;
+  left: 1168px;
+  top: 80px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse22 {
+  width: 4px;
+  height: 4px;
+  left: 1195px;
+  top: 80px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_C_1 {
+  width: 40px;
+  height: 10px;
+  left: 1183px;
+  top: 95px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ma135546_1 {
+  width: 90px;
+  height: 15px;
+  left: 1197px;
+  top: 95px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_LocationNo2 {
+  width: 135px;
+  height: 21px;
+  left: 1058px;
+  top: 27px;
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dr_8 {
+  width: 10px;
+  height: 10px;
+  left: 561px;
+  top: 142px;
+  position: absolute;
+  color: black;
+  font-size: 5px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle17 {
+  width: 17.08px;
+  height: 70.77px;
+  left: 1298.24px;
+  top: 143.54px;
+  position: absolute;
+  transform: rotate(-129.01deg);
+  transform-origin: 0 0;
+  background: black;
+  border-radius: 4px;
+}
+
+.Route_Ellipse23 {
+  width: 25px;
+  height: 30px;
+  left: 1285px;
+  top: 127px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Rectangle18 {
+  width: 40px;
+  height: 270px;
+  left: 1276px;
+  top: 149px;
+  position: absolute;
+  background: black;
+  border-radius: 6.5px;
+}
+
+.Route_Rectangle19 {
+  width: 30px;
+  height: 45px;
+  left: 1282px;
+  top: 415px;
+  position: absolute;
+  background: black;
+  border-radius: 3.5px;
+}
+
+.Route_Rectangle20 {
+  width: 9px;
+  height: 38px;
+  left: 1295px;
+  top: 460px;
+  position: absolute;
+  background: black;
+}
+
+.Route_Ellipse27 {
+  width: 8px;
+  height: 8px;
+  left: 1325px;
+  top: 142px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse28 {
+  width: 8px;
+  height: 8px;
+  left: 1325px;
+  top: 133px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse29_W {
+  width: 8px;
+  height: 8px;
+  left: 1296px;
+  top: 129px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse29_Gr {
+  width: 8px;
+  height: 8px;
+  left: 1296px;
+  top: 129px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse30_W {
+  width: 8px;
+  height: 8px;
+  left: 1306px;
+  top: 120px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse30_Gr {
+  width: 8px;
+  height: 8px;
+  left: 1306px;
+  top: 120px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse31_W {
+  width: 8px;
+  height: 8px;
+  left: 1316px;
+  top: 112px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse31_Gr {
+  width: 8px;
+  height: 8px;
+  left: 1316px;
+  top: 112px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse31_1_W {
+  width: 5px;
+  height: 5px;
+  left: 1355px;
+  top: 113px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+
+.Route_Ellipse31_1_Gr {
+  width: 8px;
+  height: 8px;
+  left: 1326px;
+  top: 104px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse32_1_W {
+  width: 5px;
+  height: 5px;
+  left: 1361px;
+  top: 108px;
+  position: absolute;
+  background: #d9d9d9;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse32_1_Gr {
+  width: 8px;
+  height: 8px;
+  left: 1337px;
+  top: 94px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse32_LY {
+  width: 18px;
+  height: 18px;
+  left: 1290px;
+  top: 430px;
+  position: absolute;
+  background: rgb(210, 232, 79);
+  border-radius: 9999px;
+}
+
+.Route_Ellipse32_Gr {
+  width: 18px;
+  height: 18px;
+  left: 1290px;
+  top: 430px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_Line139 {
+  width: 80px;
+  height: 0;
+  left: 1198px;
+  top: 155px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line140 {
+  width: 82px;
+  height: 0;
+  left: 1195px;
+  top: 190px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse33 {
+  width: 37px;
+  height: 12px;
+  left: 1163px;
+  top: 148px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse34 {
+  width: 42px;
+  height: 12px;
+  left: 1154px;
+  top: 184px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Hpr_5 {
+  width: 30px;
+  height: 7px;
+  left: 1030px;
+  top: 136px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse35 {
+  width: 4px;
+  height: 4px;
+  left: 1168px;
+  top: 152px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse36 {
+  width: 4px;
+  height: 4px;
+  left: 1190px;
+  top: 152px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse37 {
+  width: 4px;
+  height: 5px;
+  left: 1158px;
+  top: 187px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse38 {
+  width: 5px;
+  height: 5px;
+  left: 1184px;
+  top: 187px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Line141 {
+  width: 70px;
+  height: 0;
+  left: 1164px;
+  top: 155px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line142 {
+  width: 32px;
+  height: 0;
+  left: 1036px;
+  top: 155px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line143 {
+  width: 40px;
+  height: 0;
+  left: 1007px;
+  top: 159px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line144 {
+  width: 78px;
+  height: 0;
+  left: 1077px;
+  top: 190px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line145 {
+  width: 43px;
+  height: 0;
+  left: 999px;
+  top: 190px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line146 {
+  width: 19.33px;
+  height: 0;
+  left: 975.65px;
+  top: 88.33px;
+  position: absolute;
+  transform: rotate(115.51deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line147 {
+  width: 55px;
+  height: 0;
+  left: 968px;
+  top: 104px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line148 {
+  width: 23.38px;
+  height: 0;
+  left: 974.65px;
+  top: 126.69px;
+  position: absolute;
+  transform: rotate(142.02deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line149 {
+  width: 51px;
+  height: 0;
+  left: 956px;
+  top: 139px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line150 {
+  width: 34px;
+  height: 0;
+  left: 1032px;
+  top: 190px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Rectangle21 {
+  width: 40px;
+  height: 15px;
+  left: 1095px;
+  top: 120px;
+  position: absolute;
+  background: #ff0a0a;
+}
+
+.Route_Uecr {
+  width: 34px;
+  height: 7px;
+  left: 1099px;
+  top: 120px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2625_3 {
+  width: 49px;
+  height: 12px;
+  left: 1137px;
+  top: 127px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hpr_6 {
+  width: 23px;
+  height: 7px;
+  left: 1022px;
+  top: 174px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dpr_4 {
+  width: 23px;
+  height: 7px;
+  left: 1045px;
+  top: 174px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dpr_1 {
+  width: 32px;
+  height: 6px;
+  left: 1095px;
+  top: 138px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Decr_3 {
+  width: 32px;
+  height: 7px;
+  left: 1077px;
+  top: 175px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_V135547 {
+  width: 74px;
+  height: 11px;
+  left: 1128px;
+  top: 167px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_98 {
+  width: 34px;
+  height: 11px;
+  left: 1117px;
+  top: 166px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_C_2 {
+  width: 41px;
+  height: 11px;
+  left: 1195px;
+  top: 168px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ma135546_2 {
+  width: 64px;
+  height: 15px;
+  left: 1222px;
+  top: 170px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ma135546_3 {
+  width: 64px;
+  height: 15px;
+  left: 1219px;
+  top: 215px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse39 {
+  width: 6px;
+  height: 6px;
+  left: 995px;
+  top: 154px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line151 {
+  width: 24.52px;
+  height: 0;
+  left: 1026.17px;
+  top: 166.85px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 2px black solid;
+  display: none;
+}
+
+.Route_Ellipse40 {
+  width: 6px;
+  height: 6px;
+  left: 985px;
+  top: 185px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;  
+}
+
+.Route_Line152 {
+  width: 150.39px;
+  height: 0;
+  left: 883.58px;
+  top: 297.2px;
+  position: absolute;
+  transform: rotate(-47.18deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse41 {
+  width: 7px;
+  height: 9px;
+  left: 1077px;
+  top: 158px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line153 {
+  width: 20.52px;
+  height: 0;
+  left: 1063.44px;
+  top: 155.25px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse42 {
+  width: 9px;
+  height: 9px;
+  left: 1063px;
+  top: 181px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Line154 {
+  width: 20.52px;
+  height: 0;
+  left: 1066.69px;
+  top: 186.63px;
+  position: absolute;
+  transform: rotate(-41.29deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line155 {
+  width: 92px;
+  height: 0;
+  left: 1184px;
+  top: 235px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse43 {
+  width: 43px;
+  height: 12px;
+  left: 1142px;
+  top: 228px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse44 {
+  width: 4px;
+  height: 6px;
+  left: 1150px;
+  top: 230px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse45 {
+  width: 4px;
+  height: 6px;
+  left: 1174px;
+  top: 230px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Line156 {
+  width: 75px;
+  height: 0;
+  left: 1142px;
+  top: 236px;
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line157 {
+  width: 95px;
+  height: 0;
+  left: 1181px;
+  top: 275px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse46 {
+  width: 42px;
+  height: 12px;
+  left: 1140px;
+  top: 269px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse47 {
+  width: 5px;
+  height: 5px;
+  left: 1148px;
+  top: 272px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse48 {
+  width: 5px;
+  height: 5px;
+  left: 1172px;
+  top: 272px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Line158 {
+  width: 86px;
+  height: 0;
+  left: 1054px;
+  top: 275px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_C_3 {
+  width: 40px;
+  height: 10px;
+  left: 1193px;
+  top: 215px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle22 {
+  width: 31px;
+  height: 10px;
+  left: 1095px;
+  top: 189px;
+  position: absolute;
+  background: #ff0a0a;
+}
+
+.Route_Decr_4 {
+  width: 24px;
+  height: 7px;
+  left: 1099px;
+  top: 189px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5546_8 {
+  width: 54px;
+  height: 10px;
+  left: 1117px;
+  top: 196px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_V135546_1 {
+  width: 61px;
+  height: 10px;
+  left: 1133px;
+  top: 250px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_16 {
+  width: 38px;
+  height: 10px;
+  left: 1109px;
+  top: 250px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line159 {
+  width: 9.95px;
+  height: 0;
+  left: 1081.44px;
+  top: 161.45px;
+  position: absolute;
+  transform: rotate(115.31deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  display: none;
+}
+
+.Route_Line160 {
+  width: 80px;
+  height: 0;
+  left: 1068px;
+  top: 155px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line162 {
+  width: 20.54px;
+  height: 0;
+  left: 1067.27px;
+  top: 188.43px;
+  position: absolute;
+  transform: rotate(118.89deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line163 {
+  width: 71px;
+  height: 0;
+  left: 1057px;
+  top: 206px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line164 {
+  width: 10.1px;
+  height: 0;
+  left: 1077.28px;
+  top: 225.21px;
+  position: absolute;
+  transform: rotate(51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line165 {
+  width: 10.1px;
+  height: 0;
+  left: 1101.92px;
+  top: 232.59px;
+  position: absolute;
+  transform: rotate(-51.75deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line166 {
+  width: 12px;
+  height: 0;
+  left: 1075px;
+  top: 226px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line167 {
+  width: 12px;
+  height: 0;
+  left: 1108px;
+  top: 225px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line168 {
+  width: 35px;
+  height: 0;
+  left: 1074px;
+  top: 213px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line171 {
+  width: 35.68px;
+  height: 0;
+  left: 1093.89px;
+  top: 302.1px;
+  position: absolute;
+  transform: rotate(179.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line174 {
+  width: 15.08px;
+  height: 0;
+  left: 1093.86px;
+  top: 287.9px;
+  position: absolute;
+  transform: rotate(-128.59deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line175 {
+  width: 14.11px;
+  height: 0;
+  left: 1068.18px;
+  top: 277.66px;
+  position: absolute;
+  transform: rotate(127.91deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line176 {
+  width: 17.19px;
+  height: 0;
+  left: 1094.44px;
+  top: 285.91px;
+  position: absolute;
+  transform: rotate(89.72deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line177 {
+  width: 17.19px;
+  height: 0;
+  left: 1060.18px;
+  top: 285.08px;
+  position: absolute;
+  transform: rotate(89.72deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line178 {
+  width: 94px;
+  height: 0;
+  left: 1182px;
+  top: 325px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse49 {
+  width: 44px;
+  height: 12px;
+  left: 1139px;
+  top: 321px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse50 {
+  width: 4px;
+  height: 6px;
+  left: 1146px;
+  top: 324px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse51 {
+  width: 5px;
+  height: 6px;
+  left: 1174px;
+  top: 324px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_C_4 {
+  width: 40px;
+  height: 11px;
+  left: 1185px;
+  top: 340px;
+  position: absolute;
+  color: green;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Route_126 {
+  width: 36px;
+  height: 11px;
+  left: 1241px;
+  top: 266px;
+  position: absolute;
+  color: #1f8416;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line179 {
+  width: 90px;
+  height: 0;
+  left: 1186px;
+  top: 361px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse52 {
+  width: 43px;
+  height: 12px;
+  left: 1143px;
+  top: 356px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse53 {
+  width: 4px;
+  height: 6px;
+  left: 1150px;
+  top: 359px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse54 {
+  width: 4px;
+  height: 6px;
+  left: 1175px;
+  top: 359px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ma135547 {
+  width: 64px;
+  height: 14px;
+  left: 1210px;
+  top: 341px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Line180 {
+  width: 135px;
+  height: 0;
+  left: 1005px;
+  top: 327px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line181 {
+  width: 149px;
+  height: 0;
+  left: 996px;
+  top: 362px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Rectangle23 {
+  width: 26px;
+  height: 9px;
+  left: 1101px;
+  top: 276px;
+  position: absolute;
+  background: #ff0a0a;
+}
+
+.Route_Hecr_3 {
+  width: 24px;
+  height: 6px;
+  left: 1102px;
+  top: 275px;
+  position: absolute;
+  color: black;
+  font-size: 7px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_4946 {
+  width: 45px;
+  height: 12px;
+  left: 1117px;
+  top: 285px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_V135546_2 {
+  width: 100px;
+  height: 11px;
+  left: 1030px;
+  top: 340px;
+  position: absolute;
+  color: green;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+
+.Route_V135546_2_1 {
+  width: 100px;
+  height: 11px;
+  left: 1077px;
+  top: 340px;
+  position: absolute;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_value {
+  width: 14px;
+  height: 11px;
+  left: 1109px;
+  top: 266px;
+  position: absolute;
+  color: #1f8416;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle24 {
+  width: 40px;
+  height: 15px;
+  left: 1080px;
+  top: 363px;
+  position: absolute;
+  background: #1f8416;
+}
+
+.Route_Recr_3 {
+  width: 27px;
+  height: 7px;
+  left: 1084px;
+  top: 363px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_5546_9 {
+  width: 78px;
+  height: 11px;
+  left: 1082px;
+  top: 375px;
+  position: absolute;
+  color: black;
+  font-size: 11px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Route_Line182 {
+  width: 16.99px;
+  height: 0;
+  left: 1025.92px;
+  top: 166.07px;
+  position: absolute;
+  transform: rotate(123.69deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+  display: none;
+}
+
+.Route_Line183 {
+  width: 170px;
+  height: 0;
+  left: 1007px;
+  top: 159px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line184 {
+  width: 128.21px;
+  height: 0;
+  left: 997.58px;
+  top: 159.63px;
+  position: absolute;
+  transform: rotate(137.3deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line185 {
+  width: 175px;
+  height: 0;
+  left: 998px;
+  top: 188px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line186 {
+  width: 30.68px;
+  height: 0;
+  left: 1014.68px;
+  top: 306.57px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line187 {
+  width: 10.1px;
+  height: 0;
+  left: 1014.67px;
+  top: 319.76px;
+  position: absolute;
+  transform: rotate(51.88deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line188 {
+  width: 9.09px;
+  height: 0;
+  left: 1039.3px;
+  top: 328.19px;
+  position: absolute;
+  transform: rotate(-51.63deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line189 {
+  width: 15.19px;
+  height: 0;
+  left: 1014.09px;
+  top: 321.76px;
+  position: absolute;
+  transform: rotate(-89.9deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line190 {
+  width: 15.19px;
+  height: 0;
+  left: 1044px;
+  top: 321.76px;
+  position: absolute;
+  transform: rotate(-89.9deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line191 {
+  width: 35.68px;
+  height: 0;
+  left: 1045.37px;
+  top: 380.65px;
+  position: absolute;
+  transform: rotate(179.56deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line192 {
+  width: 8.08px;
+  height: 0;
+  left: 1045.34px;
+  top: 369.5px;
+  position: absolute;
+  transform: rotate(-128.59deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line193 {
+  width: 8.11px;
+  height: 0;
+  left: 1014.66px;
+  top: 363.2px;
+  position: absolute;
+  transform: rotate(127.91deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line194 {
+  width: 12.19px;
+  height: 0;
+  left: 1045.92px;
+  top: 368.47px;
+  position: absolute;
+  transform: rotate(89.72deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line195 {
+  width: 12.19px;
+  height: 0;
+  left: 1010.66px;
+  top: 367.63px;
+  position: absolute;
+  transform: rotate(89.72deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line196 {
+  width: 84px;
+  height: 0;
+  left: 1151px;
+  top: 419px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse55 {
+  width: 42px;
+  height: 12px;
+  left: 1110px;
+  top: 415px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse56 {
+  width: 4px;
+  height: 6px;
+  left: 1116px;
+  top: 418px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse57 {
+  width: 6px;
+  height: 6px;
+  left: 1139px;
+  top: 418px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Line197 {
+  width: 87px;
+  height: 0;
+  left: 1152px;
+  top: 459px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Ellipse58 {
+  width: 42px;
+  height: 12px;
+  left: 1110px;
+  top: 453px;
+  position: absolute;
+  background: #aea5a5;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse59 {
+  width: 4px;
+  height: 6px;
+  left: 1117px;
+  top: 456px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse60 {
+  width: 6px;
+  height: 6px;
+  left: 1138px;
+  top: 456px;
+  position: absolute;
+  background: #1f1c1c;
+  border-radius: 9999px;
+}
+
+.Route_Line199 {
+  width: 8px;
+  height: 0;
+  left: 1236px;
+  top: 419px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line200 {
+  width: 6px;
+  height: 0;
+  left: 1239px;
+  top: 453px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line201 {
+  width: 50px;
+  height: 0;
+  left: 1235px;
+  top: 426px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line202 {
+  width: 50px;
+  height: 0;
+  left: 1238px;
+  top: 452px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_C_5 {
+  width: 40px;
+  height: 20px;
+  left: 1143px;
+  top: 432px;
+  position: absolute;
+  color: black;
+  font-size: 12px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ma075243 {
+  width: 65px;
+  height: 12px;
+  left: 1258px;
+  top: 310px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: "Inter";
+  font-weight: 400;
+  word-wrap: break-word;
+  display: none; 
+  /* as of now no need   */
+}
+
+.Route_Line203 {
+  width: 157px;
+  height: 0;
+  left: 955px;
+  top: 419px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line204 {
+  width: 156px;
+  height: 0;
+  left: 955px;
+  top: 458px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line205 {
+  width: 17.74px;
+  height: 0;
+  left: 1017.16px;
+  top: 145.05px;
+  position: absolute;
+  transform: rotate(128.25deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line206 {
+  width: 175px;
+  height: 0;
+  left: 906px;
+  top: 246px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line207 {
+  width: 24px;
+  height: 0;
+  left: 905px;
+  top: 419px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line208 {
+  width: 23.71px;
+  height: 0;
+  left: 1014.9px;
+  top: 171.23px;
+  position: absolute;
+  transform: rotate(130.78deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line209 {
+  width: 165px;
+  height: 0;
+  left: 887px;
+  top: 296px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line210 {
+  width: 45px;
+  height: 0;
+  left: 885px;
+  top: 459px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_V112555 {
+  width: 65px;
+  height: 15px;
+  left: 1060px;
+  top: 430px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Route_51 {
+  width: 25px;
+  height: 15px;
+  left: 1040px;
+  top: 425px;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Rectangle25 {
+  width: 40px;
+  height: 15px;
+  left: 1023px;
+  top: 458px;
+  position: absolute;
+  background: #ff0a0a;
+}
+
+.Route_CoHecr {
+  width: 40px;
+  height: 6px;
+  left: 1023px;
+  top: 458px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_2554_3 {
+  width: 40px;
+  height: 12px;
+  left: 1065px;
+  top: 470px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse61 {
+  width: 5px;
+  height: 6px;
+  left: 928px;
+  top: 417px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line211 {
+  width: 18.55px;
+  height: 0;
+  left: 930.66px;
+  top: 419px;
+  position: absolute;
+  transform: rotate(-40.93deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Ellipse62 {
+  width: 5px;
+  height: 6px;
+  left: 928px;
+  top: 457px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Line212 {
+  width: 20.38px;
+  height: 0;
+  left: 931.66px;
+  top: 456.29px;
+  position: absolute;
+  transform: rotate(-46.59deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_CoHpr_1 {
+  width: 41px;
+  height: 8px;
+  left: 955px;
+  top: 465px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Route_CoHpr_2 {
+  width: 41px;
+  height: 8px;
+  left: 952px;
+  top: 423px;
+  position: absolute;
+  color: black;
+  font-size: 9px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.Route_Decpr_3 {
+  width: 30px;
+  height: 4px;
+  left: 990px;
+  top: 388px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hecpr_3 {
+  width: 28px;
+  height: 6px;
+  left: 1040px;
+  top: 388px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hpr_7 {
+  width: 32px;
+  height: 5px;
+  left: 1010px;
+  top: 350px;
+  position: absolute;
+  color: black;
+  font-size: 8px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Hpr_8 {
+  width: 7px;
+  height: 4px;
+  left: 1046px;
+  top: 264px;
+  position: absolute;
+  color: black;
+  font-size: 2px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  display: none;
+}
+
+.Route_Decr_5 {
+  width: 35px;
+  height: 20px;
+  left: 1085px;
+  top: 306px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Decr_6 {
+  width: 30px;
+  height: 3px;
+  left: 1026px;
+  top: 290px;
+  position: absolute;
+  color: black;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  font-size: 10px;
+}
+
+.Route_Dpr_2 {
+  width: 25px;
+  height: 4px;
+  left: 1055px;
+  top: 255px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Dpr_3 {
+  width: 30px;
+  height: 3px;
+  left: 1080px;
+  top: 235px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_S1a {
+  width: 36px;
+  height: 20px;
+  left: 1333px;
+  top: 67px;
+  position: absolute;
+  color: black;
+  font-size: 15px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_C1b {
+  width: 28px;
+  height: 22px;
+  left: 1344px;
+  top: 300px;
+  position: absolute;
+  color: black;
+  font-size: 10px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.Route_Ellipse63 {
+  width: 3px;
+  height: 6px;
+  left: 1089px;
+  top: 197px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+  display: none;
+}
+
+.Route_Ellipse64 {
+  width: 4px;
+  height: 6px;
+  left: 1090px;
+  top: 212px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse65 {
+  width: 4px;
+  height: 6px;
+  left: 1067px;
+  top: 272px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse66 {
+  width: 4px;
+  height: 4px;
+  left: 1067px;
+  top: 300px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse67 {
+  width: 4px;
+  height: 4px;
+  left: 1036px;
+  top: 305px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse68 {
+  width: 4px;
+  height: 4px;
+  left: 1018px;
+  top: 305px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse69 {
+  width: 4px;
+  height: 4px;
+  left: 1013px;
+  top: 361px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Ellipse70 {
+  width: 4px;
+  height: 4px;
+  left: 1022px;
+  top: 377px;
+  position: absolute;
+  background: black;
+  border-radius: 9999px;
+}
+
+.Route_Rectangle26 {
+  width: 15px;
+  height: 9px;
+  left: 414px;
+  top: 95px;
+  position: absolute;
+  background: #fdf9f9;
+  border: 1px black solid;
+}
+
+.Route_Line213 {
+  width: 7px;
+  height: 0;
+  left: 420px;
+  top: 97px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line214 {
+  width: 7px;
+  height: 0;
+  left: 420px;
+  top: 110px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line215 {
+  width: 10px;
+  height: 0;
+  left: 416px;
+  top: 114px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line216 {
+  width: 8px;
+  height: 0;
+  left: 417px;
+  top: 111px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line217 {
+  width: 4px;
+  height: 0;
+  left: 419px;
+  top: 108px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Rectangle27 {
+  width: 17px;
+  height: 9px;
+  left: 921px;
+  top: 94px;
+  position: absolute;
+  background: #fdf9f9;
+  border: 1px black solid;
+}
+
+.Route_Line218 {
+  width: 7px;
+  height: 0;
+  left: 927px;
+  top: 95px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line219 {
+  width: 8px;
+  height: 0;
+  left: 928px;
+  top: 110px;
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  border: 1px black solid;
+}
+
+.Route_Line220 {
+  width: 12px;
+  height: 0;
+  left: 923px;
+  top: 110px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line221 {
+  width: 7px;
+  height: 0;
+  left: 925px;
+  top: 114px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_Line222 {
+  width: 4px;
+  height: 0;
+  left: 926px;
+  top: 118px;
+  position: absolute;
+  border: 1px black solid;
+}
+
+.Route_0_G {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 161px;
+  position: absolute;
+  background: rgba(90, 193, 9, 0.95);
+  border-radius: 9999px;
+}
+
+.Route_0_Gr {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 161px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_00_Y {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 242px;
+  position: absolute;
+  background: rgb(255, 234, 0);
+  border-radius: 9999px;
+}
+
+.Route_00_Gr {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 242px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}
+
+.Route_000_R {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 332px;
+  position: absolute;
+  background: #FF0A0A;
+  border-radius: 9999px;
+}
+
+.Route_000_Gr {
+  width: 25px;
+  height: 25px;
+  left: 1283px;
+  top: 332px;
+  position: absolute;
+  background: grey;
+  border-radius: 9999px;
+}

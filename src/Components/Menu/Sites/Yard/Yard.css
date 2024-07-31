@@ -1,0 +1,3462 @@
+.YardFrame1 {
+    /* width: 100%; */
+    width: 1830px;
+    height: 835px;
+    /* left: 595px;
+    top: 60px; */
+    position: relative;
+    background: black;
+    display: block;
+}
+
+.YardMettupalayamMtp714km {
+    width: 143px;
+    height: 50px;
+    left: 1600px;
+    top: 290px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardKaramadai {
+    width: 364px;
+    height: 104px;
+    left: 595px;
+    top: 60px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 700;
+    overflow-wrap: break-word;
+}
+
+.YardLine1 {
+    width: 410px;
+    height: 0px;
+    left: 564px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine1_R {
+    width: 410px;
+    height: 0px;
+    left: 564px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine2 {
+    width: 167px;
+    height: 0px;
+    left: 978px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine2_R {
+    width: 167px;
+    height: 0px;
+    left: 978px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine4 {
+    width: 409.8px;
+    height: 0px;
+    left: 564.79px;
+    top: 359.61px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine4_R {
+    width: 409.8px;
+    height: 0px;
+    left: 564.79px;
+    top: 359.61px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine5 {
+    width: 75px;
+    height: 0px;
+    left: 1053px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine5_R {
+    width: 75px;
+    height: 0px;
+    left: 1053px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine6 {
+    width: 98px;
+    height: 0px;
+    left: 464px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine6_R {
+    width: 98px;
+    height: 0px;
+    left: 464px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine7 {
+    width: 107px;
+    height: 0px;
+    left: 455px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine7_R {
+    width: 107px;
+    height: 0px;
+    left: 455px;
+    top: 205px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine8 {
+    width: 98px;
+    height: 0px;
+    left: 363px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine8_R {
+    width: 98px;
+    height: 0px;
+    left: 363px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine9 {
+    width: 100px;
+    height: 0px;
+    left: 260px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine9_R {
+    width: 100px;
+    height: 0px;
+    left: 260px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine10 {
+    width: 99px;
+    height: 0px;
+    left: 159px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine11 {
+    width: 232px;
+    height: 0px;
+    left: 26px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine11_R {
+    width: 232px;
+    height: 0px;
+    left: 26px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine12 {
+    width: 72px;
+    height: 0px;
+    left: 978px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine12_R {
+    width: 72px;
+    height: 0px;
+    left: 978px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine13 {
+    width: 49px;
+    height: 0px;
+    left: 1132px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine14 {
+    width: 131px;
+    height: 0px;
+    left: 1132px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine14_R {
+    width: 131px;
+    height: 0px;
+    left: 1132px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine15 {
+    width: 99px;
+    height: 0px;
+    left: 1265px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine15_R {
+    width: 99px;
+    height: 0px;
+    left: 1265px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine16 {
+    width: 386px;
+    height: 0px;
+    left: 1368px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine16_R {
+    width: 386px;
+    height: 0px;
+    left: 1368px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid red;
+}
+
+.YardLine17 {
+    width: 288px;
+    height: 0px;
+    left: 1469px;
+    top: 360px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardRectangle1 {
+    width: 164px;
+    height: 155px;
+    left: 800px;
+    top: 535px;
+    position: absolute;
+    background: black;
+    border: 2px solid white;
+}
+
+.YardRectangle2 {
+    width: 163px;
+    height: 155px;
+    left: 580px;
+    top: 535px;
+    position: absolute;
+    background: black;
+    border: 2px solid white;
+}
+
+.YardRectangle3 {
+    width: 163px;
+    height: 155px;
+    left: 1020px;
+    top: 535px;
+    position: absolute;
+    background: black;
+    border: 2px solid white;
+}
+
+.YardLine18 {
+    width: 168.15px;
+    height: 0px;
+    left: 559px;
+    top: 208px;
+    position: absolute;
+    transform: rotate(112.34deg);
+    transform-origin: 0px 0px 0px;
+    border: 4px solid white;
+}
+
+.YardLine19 {
+    width: 165.98px;
+    height: 0px;
+    left: 1042px;
+    top: 368px;
+    position: absolute;
+    transform: rotate(-112.34deg);
+    transform-origin: 0px 0px 0px;
+    border: 4px solid white;
+}
+
+.YardLine20 {
+    width: 26px;
+    height: 0px;
+    left: 426px;
+    top: 204px;
+    position: absolute;
+    border: 6px solid rgb(240, 123, 56);
+}
+
+.YardRectangle4 {
+    width: 25px;
+    height: 22px;
+    left: 420px;
+    top: 199px;
+    position: absolute;
+    background: rgb(240, 123, 56);
+}
+
+.YardLine21 {
+    width: 26px;
+    height: 0px;
+    left: 1147px;
+    top: 204px;
+    position: absolute;
+    border: 6px solid rgb(240, 123, 56);
+}
+
+.YardRectangle5 {
+    width: 25px;
+    height: 22px;
+    left: 1156px;
+    top: 199px;
+    position: absolute;
+    background: rgb(240, 123, 56);
+}
+
+.YardLine22 {
+    width: 168.15px;
+    height: 0px;
+    left: 1244.91px;
+    top: 208.08px;
+    position: absolute;
+    transform: rotate(112.34deg);
+    transform-origin: 0px 0px 0px;
+    border: 4px solid white;
+}
+
+.YardLine23 {
+    width: 45px;
+    height: 0px;
+    left: 1214px;
+    top: 206px;
+    position: absolute;
+    border: 4px solid white;
+}
+
+.YardLine24 {
+    width: 26px;
+    height: 0px;
+    left: 1262px;
+    top: 204px;
+    position: absolute;
+    border: 6px solid rgb(240, 123, 56);
+}
+
+.YardRectangle6 {
+    width: 25px;
+    height: 22px;
+    left: 1269px;
+    top: 199px;
+    position: absolute;
+    background: rgb(240, 123, 56);
+}
+
+.YardRectangle7 {
+    width: 20px;
+    height: 20px;
+    left: 707px;
+    top: 198px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 11px;
+}
+
+.YardRectangle8 {
+    width: 20px;
+    height: 20px;
+    left: 707px;
+    top: 167px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 11px;
+}
+
+.YardRectangle9 {
+    width: 20px;
+    height: 20px;
+    left: 707px;
+    top: 354px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle10 {
+    width: 20px;
+    height: 20px;
+    left: 378px;
+    top: 354px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 11px;
+}
+
+.YardRectangle11 {
+    width: 20px;
+    height: 20px;
+    left: 334px;
+    top: 354px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 11px;
+}
+
+.YardRectangle12 {
+    width: 93px;
+    height: 47px;
+    left: 748px;
+    top: 419px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardRectangle13 {
+    width: 79px;
+    height: 30px;
+    left: 755px;
+    top: 428px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardLine25 {
+    width: 35px;
+    height: 0px;
+    left: 777px;
+    top: 435px;
+    position: absolute;
+    border: 2px solid white;
+}
+
+.YardRectangle14 {
+    width: 13px;
+    height: 13px;
+    left: 787px;
+    top: 440px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardPassengerPlatform {
+    width: 263px;
+    height: 44px;
+    left: 668px;
+    top: 385px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardControlPanel {
+    width: 263px;
+    height: 44px;
+    left: 668px;
+    top: 475px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle15 {
+    width: 19px;
+    height: 19px;
+    left: 825px;
+    top: 567px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle15G {
+    width: 19px;
+    height: 19px;
+    left: 825px;
+    top: 567px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle16 {
+    width: 19px;
+    height: 19px;
+    left: 870px;
+    top: 555px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle16G {
+    width: 19px;
+    height: 19px;
+    left: 870px;
+    top: 555px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle17 {
+    width: 19px;
+    height: 19px;
+    left: 920px;
+    top: 570px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle17G {
+    width: 19px;
+    height: 19px;
+    left: 920px;
+    top: 570px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle18 {
+    width: 19px;
+    height: 19px;
+    left: 1040px;
+    top: 568px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle18G {
+    width: 19px;
+    height: 19px;
+    left: 1040px;
+    top: 568px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle19 {
+    width: 19px;
+    height: 19px;
+    left: 1090px;
+    top: 555px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle19G {
+    width: 19px;
+    height: 19px;
+    left: 1090px;
+    top: 555px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle20 {
+    width: 19px;
+    height: 19px;
+    left: 1135px;
+    top: 570px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle20G {
+    width: 19px;
+    height: 19px;
+    left: 1135px;
+    top: 570px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle21 {
+    width: 19px;
+    height: 19px;
+    left: 606px;
+    top: 570px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle21G {
+    width: 19px;
+    height: 19px;
+    left: 606px;
+    top: 570px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle22 {
+    width: 19px;
+    height: 19px;
+    left: 650px;
+    top: 555px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle22G {
+    width: 19px;
+    height: 19px;
+    left: 650px;
+    top: 555px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle23 {
+    width: 19px;
+    height: 19px;
+    left: 692px;
+    top: 570px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle23G {
+    width: 19px;
+    height: 19px;
+    left: 692px;
+    top: 570px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle24 {
+    /* width: 28px;
+    height: 28px;
+    left: 1086px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 14px; */
+
+    width: 28px;
+    height: 28px;
+    left: 1086px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.YardRectangle24 :after {
+    content: '';
+    width: 10px;
+    /* Adjust the size of the knob */
+    height: 10px;
+    /* Adjust the size of the knob */
+    background: #fff;
+    /* Knob color */
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+}
+
+.YardRectangle25 {
+    /* width: 28px;
+    height: 28px;
+    left: 866px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 14px; */
+
+    width: 28px;
+    height: 28px;
+    left: 866px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.YardRectangle25 :after {
+    content: '';
+    width: 10px;
+    /* Adjust the size of the knob */
+    height: 10px;
+    /* Adjust the size of the knob */
+    background: #fff;
+    /* Knob color */
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+}
+
+.YardRectangle26 {
+    /* width: 28px;
+    height: 28px;
+    left: 645px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 14px; */
+
+
+    width: 28px;
+    height: 28px;
+    left: 645px;
+    /* Adjust the position */
+    top: 618px;
+    /* Adjust the position */
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.YardRectangle26:after {
+    content: '';
+    width: 10px;
+    /* Adjust the size of the knob */
+    height: 10px;
+    /* Adjust the size of the knob */
+    background: #fff;
+    /* Knob color */
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+}
+
+.YardN-1 {
+    width: 27px;
+    height: 22px;
+    left: 602px;
+    top: 587px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardC-1 {
+    width: 27px;
+    height: 22px;
+    left: 646px;
+    top: 574px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardN-2 {
+    width: 27px;
+    height: 22px;
+    left: 822px;
+    top: 584px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardR-1 {
+    width: 27px;
+    height: 22px;
+    left: 688px;
+    top: 587px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardC-2 {
+    width: 27px;
+    height: 22px;
+    left: 866px;
+    top: 574px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardR-2 {
+    width: 27px;
+    height: 22px;
+    left: 916px;
+    top: 588px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardN-3 {
+    width: 27px;
+    height: 22px;
+    left: 1038px;
+    top: 585px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardC-3 {
+    width: 27px;
+    height: 22px;
+    left: 1086px;
+    top: 574px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardR-3 {
+    width: 27px;
+    height: 22px;
+    left: 1130px;
+    top: 586px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardLine26 {
+    width: 29px;
+    height: 0px;
+    left: 121px;
+    top: 324px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle28 {
+    width: 18px;
+    height: 19px;
+    left: 100px;
+    top: 316px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardP-1 {
+    width: 38px;
+    height: 17px;
+    left: 120px;
+    top: 307px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle29 {
+    width: 54px;
+    height: 18px;
+    left: 266px;
+    top: 314px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardLine27 {
+    width: 58px;
+    height: 0px;
+    left: 266px;
+    top: 323px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle30 {
+    width: 18px;
+    height: 20px;
+    left: 216px;
+    top: 314px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardP-2 {
+    width: 38px;
+    height: 29px;
+    left: 236px;
+    top: 306px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle31 {
+    width: 21px;
+    height: 18px;
+    left: 239px;
+    top: 314px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle32 {
+    width: 13px;
+    height: 13px;
+    left: 270px;
+    top: 317px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle32_R {
+    width: 13px;
+    height: 13px;
+    left: 270px;
+    top: 317px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle33 {
+    width: 13px;
+    height: 13px;
+    left: 287px;
+    top: 317px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle33_Y {
+    width: 13px;
+    height: 13px;
+    left: 287px;
+    top: 317px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle34 {
+    width: 13px;
+    height: 13px;
+    left: 304px;
+    top: 317px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle34_G {
+    width: 13px;
+    height: 13px;
+    left: 304px;
+    top: 317px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle35 {
+    width: 13px;
+    height: 13px;
+    left: 243px;
+    top: 316px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardRectangle35_LY {
+    width: 13px;
+    height: 13px;
+    left: 243px;
+    top: 317px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle36 {
+    width: 54px;
+    height: 17px;
+    left: 121px;
+    top: 317px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle37 {
+    width: 13px;
+    height: 13px;
+    left: 125px;
+    top: 319px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle37_Y {
+    width: 13px;
+    height: 13px;
+    left: 125px;
+    top: 319px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle38 {
+    width: 13px;
+    height: 13px;
+    left: 142px;
+    top: 319px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle38_G {
+    width: 13px;
+    height: 13px;
+    left: 142px;
+    top: 319px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle39 {
+    width: 13px;
+    height: 13px;
+    left: 159px;
+    top: 319px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle39_LY {
+    width: 13px;
+    height: 13px;
+    left: 159px;
+    top: 319px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle40 {
+    width: 37px;
+    height: 17px;
+    left: 389px;
+    top: 385px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle41 {
+    width: 13px;
+    height: 13px;
+    left: 393px;
+    top: 387px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+}
+
+.YardRectangle41_G {
+    width: 13px;
+    height: 13px;
+    left: 393px;
+    top: 387px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+}
+
+.YardRectangle43 {
+    width: 13px;
+    height: 13px;
+    left: 410px;
+    top: 387px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle43_R {
+    width: 13px;
+    height: 13px;
+    left: 410px;
+    top: 387px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle44 {
+    width: 37px;
+    height: 18px;
+    left: 611px;
+    top: 230px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle45 {
+    width: 13px;
+    height: 13px;
+    left: 615px;
+    top: 233px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle45_Y {
+    width: 13px;
+    height: 13px;
+    left: 615px;
+    top: 233px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle46 {
+    width: 13px;
+    height: 13px;
+    left: 632px;
+    top: 233px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle46_R {
+    width: 13px;
+    height: 13px;
+    left: 632px;
+    top: 233px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle47 {
+    width: 54px;
+    height: 17px;
+    left: 611px;
+    top: 381px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle48 {
+    width: 13px;
+    height: 13px;
+    left: 615px;
+    top: 383px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle48_G {
+    width: 13px;
+    height: 13px;
+    left: 615px;
+    top: 383px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle49 {
+    width: 13px;
+    height: 13px;
+    left: 632px;
+    top: 383px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle49_Y {
+    width: 13px;
+    height: 13px;
+    left: 632px;
+    top: 383px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle50 {
+    width: 13px;
+    height: 13px;
+    left: 649px;
+    top: 383px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle50_R {
+    width: 13px;
+    height: 13px;
+    left: 649px;
+    top: 383px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle51 {
+    width: 54px;
+    height: 17px;
+    left: 1296px;
+    top: 393px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle52 {
+    width: 13px;
+    height: 13px;
+    left: 1299px;
+    top: 395px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle52_G {
+    width: 13px;
+    height: 13px;
+    left: 1299px;
+    top: 395px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle53 {
+    width: 13px;
+    height: 13px;
+    left: 1316px;
+    top: 395px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle53_Y {
+    width: 13px;
+    height: 13px;
+    left: 1316px;
+    top: 395px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle54 {
+    width: 13px;
+    height: 13px;
+    left: 1333px;
+    top: 395px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle54_R {
+    width: 13px;
+    height: 13px;
+    left: 1333px;
+    top: 395px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle55 {
+    width: 54px;
+    height: 17px;
+    left: 1556px;
+    top: 394px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle56 {
+    width: 13px;
+    height: 13px;
+    left: 1560px;
+    top: 396px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle56_LY {
+    width: 13px;
+    height: 13px;
+    left: 1560px;
+    top: 396px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle57 {
+    width: 13px;
+    height: 13px;
+    left: 1576px;
+    top: 396px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle57_G {
+    width: 13px;
+    height: 13px;
+    left: 1576px;
+    top: 396px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle58 {
+    width: 13px;
+    height: 13px;
+    left: 1592px;
+    top: 396px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+
+.YardRectangle58_Y {
+    width: 13px;
+    height: 13px;
+    left: 1592px;
+    top: 396px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle59 {
+    width: 54px;
+    height: 17px;
+    left: 940px;
+    top: 328px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle60 {
+    width: 13px;
+    height: 13px;
+    left: 944px;
+    top: 330px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle60_R {
+    width: 13px;
+    height: 13px;
+    left: 944px;
+    top: 330px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle61 {
+    width: 13px;
+    height: 13px;
+    left: 961px;
+    top: 330px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle61_Y {
+    width: 13px;
+    height: 13px;
+    left: 961px;
+    top: 330px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+
+.YardRectangle62 {
+    width: 13px;
+    height: 13px;
+    left: 978px;
+    top: 330px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle62_G {
+    width: 13px;
+    height: 13px;
+    left: 978px;
+    top: 330px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle63 {
+    width: 37px;
+    height: 17px;
+    left: 942px;
+    top: 166px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle64 {
+    width: 13px;
+    height: 13px;
+    left: 946px;
+    top: 168px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle64_R {
+    width: 13px;
+    height: 13px;
+    left: 946px;
+    top: 168px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle65 {
+    width: 13px;
+    height: 13px;
+    left: 963px;
+    top: 168px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle65_Y {
+    width: 13px;
+    height: 13px;
+    left: 963px;
+    top: 168px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle66 {
+    width: 37px;
+    height: 18px;
+    left: 1264px;
+    top: 331px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle67 {
+    width: 13px;
+    height: 13px;
+    left: 1268px;
+    top: 333px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle67_R {
+    width: 13px;
+    height: 13px;
+    left: 1268px;
+    top: 333px;
+    position: absolute;
+    background: red;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle68 {
+    width: 13px;
+    height: 13px;
+    left: 1285px;
+    top: 333px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle68_G {
+    width: 13px;
+    height: 13px;
+    left: 1285px;
+    top: 333px;
+    position: absolute;
+    background: green;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardLine28 {
+    width: 29px;
+    height: 0px;
+    left: 1264px;
+    top: 340px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle69 {
+    width: 18px;
+    height: 20px;
+    left: 1243px;
+    top: 331px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardP-3 {
+    width: 39px;
+    height: 17px;
+    left: 1260px;
+    top: 322px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardLine29 {
+    width: 29px;
+    height: 0px;
+    left: 1640px;
+    top: 403px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle70 {
+    width: 20px;
+    height: 20px;
+    left: 1614px;
+    top: 392px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardP-4 {
+    width: 38px;
+    height: 17px;
+    left: 1634.5px;
+    top: 384px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+/* .YardLine30{
+    width: 43px;
+  height: 0px;
+  left: 1648px;
+  top: 380px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 4px solid white;
+} */
+/* .YardLine31{
+    width: 10px;
+  height: 0px;
+  left: 1642px;
+  top: 383px;
+  position: absolute;
+  transform: rotate(130deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid white;
+} */
+.YardRectangle71 {
+    width: 36px;
+    height: 19px;
+    left: 1677px;
+    top: 394px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardLine32 {
+    width: 17px;
+    height: 0px;
+    left: 1705px;
+    top: 394px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle72 {
+    width: 11px;
+    height: 11px;
+    left: 1686px;
+    top: 397px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardLine33 {
+    width: 10px;
+    height: 0px;
+    left: 1712px;
+    top: 403px;
+    position: absolute;
+    border: 1px solid white;
+}
+
+/* .YardLine35{
+    width: 10px;
+  height: 0px;
+  left: 1723px;
+  top: 383px;
+  position: absolute;
+  transform: rotate(130deg);
+  transform-origin: 0px 0px 0px;
+  border: 2px solid white;
+} */
+.YardRectangle73 {
+    width: 10.51px;
+    height: 40.27px;
+    left: 1261px;
+    top: 375px;
+    position: absolute;
+    transform: rotate(-47.07deg);
+    transform-origin: 0px 0px 0px;
+    background: rgb(217, 217, 217);
+    border-radius: 4px;
+}
+
+/* .YardRectangle74 {
+    width: 8px;
+    height: 9px;
+    left: 1264px;
+    top: 370px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle74_W {
+    width: 8px;
+    height: 9px;
+    left: 1264px;
+    top: 370px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle75 {
+    width: 8px;
+    height: 9px;
+    left: 1273px;
+    top: 379px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle75_W {
+    width: 8px;
+    height: 9px;
+    left: 1273px;
+    top: 379px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle76 {
+    width: 8px;
+    height: 9px;
+    left: 1283px;
+    top: 388px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle76_W {
+    width: 8px;
+    height: 9px;
+    left: 1283px;
+    top: 388px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+.YardRectangle77 {
+    width: 11px;
+    height: 40px;
+    left: 344px;
+    top: 286px;
+    position: absolute;
+    transform: rotate(51.51deg);
+    transform-origin: 0px 0px 0px;
+    background: rgb(217, 217, 217);
+    border-radius: 4px;
+}
+
+/* .YardRectangle78 {
+    width: 8.81px;
+    height: 8px;
+    left: 344.73px;
+    top: 290.1px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle78_W {
+    width: 8.81px;
+    height: 8px;
+    left: 344.73px;
+    top: 290.1px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle79 {
+    width: 8.81px;
+    height: 8px;
+    left: 336.31px;
+    top: 298.42px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle79_W {
+    width: 8.81px;
+    height: 8px;
+    left: 336.31px;
+    top: 298.42px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle80 {
+    width: 8.81px;
+    height: 8px;
+    left: 327.89px;
+    top: 306.75px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+/* .YardRectangle80_W {
+    width: 8.81px;
+    height: 8px;
+    left: 327.89px;
+    top: 306.75px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+} */
+
+
+.YardRectangle81 {
+    width: 36px;
+    height: 19px;
+    left: 38px;
+    top: 317px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardLine36 {
+    width: 17px;
+    height: 0px;
+    left: 68px;
+    top: 318px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardRectangle82 {
+    width: 10px;
+    height: 11px;
+    left: 51px;
+    top: 321px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 11px;
+}
+
+.YardLine37 {
+    width: 17px;
+    height: 0px;
+    left: 45px;
+    top: 318px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardLine38 {
+    width: 8px;
+    height: 0px;
+    left: 30px;
+    top: 327px;
+    position: absolute;
+    border: 1px solid white;
+}
+
+.Arrow1 {
+    position: absolute;
+    top: 10px;
+}
+
+.YardLine39 {
+    width: 38px;
+    height: 0px;
+    left: 32px;
+    top: 311px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0px 0px 0px;
+    border: 2px solid white;
+}
+
+.YardLine40 {
+    width: 7px;
+    height: 0px;
+    left: 32px;
+    top: 347px;
+    position: absolute;
+    transform: rotate(-47.76deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.YardLine41 {
+    width: 7px;
+    height: 0px;
+    left: 24px;
+    top: 341px;
+    position: absolute;
+    transform: rotate(47.76deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow2 {
+    position: absolute;
+    left: 60px;
+    top: 10px;
+}
+
+.Arrow3 {
+    position: absolute;
+    left: 178px;
+    top: 10px;
+}
+
+.YardD-1 {
+    width: 50px;
+    height: 19px;
+    left: 121px;
+    top: 290px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardUp-1 {
+    width: 46px;
+    height: 20px;
+    left: 33px;
+    top: 370px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardDown-1 {
+    width: 72px;
+    height: 26px;
+    left: 86px;
+    top: 370px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardCit {
+    width: 43px;
+    height: 19px;
+    left: 169px;
+    top: 370px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardAscr-1 {
+    width: 80px;
+    height: 25px;
+    left: 396px;
+    top: 428px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle83 {
+    width: 17px;
+    height: 18px;
+    left: 334px;
+    top: 325px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardJ {
+    width: 17px;
+    height: 18px;
+    left: 334px;
+    top: 322px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle84 {
+    width: 17px;
+    height: 18px;
+    left: 378px;
+    top: 325px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardH {
+    width: 17px;
+    height: 18px;
+    left: 378px;
+    top: 322px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle85 {
+    width: 17px;
+    height: 17px;
+    left: 732px;
+    top: 153px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardB1 {
+    width: 54px;
+    height: 17px;
+    left: 714px;
+    top: 151px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle86 {
+    width: 17px;
+    height: 17px;
+    left: 732px;
+    top: 176px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardB-1 {
+    width: 17px;
+    height: 17px;
+    left: 732px;
+    top: 174px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle87 {
+    width: 17px;
+    height: 17px;
+    left: 732px;
+    top: 329px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardA-1 {
+    width: 17px;
+    height: 17px;
+    left: 732px;
+    top: 327px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle88 {
+    width: 17px;
+    height: 18px;
+    left: 1201px;
+    top: 325px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardK {
+    width: 17px;
+    height: 18px;
+    left: 1201px;
+    top: 324px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle89 {
+    width: 17px;
+    height: 20px;
+    left: 1342px;
+    top: 325px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardL {
+    width: 17px;
+    height: 18px;
+    left: 1342px;
+    top: 323px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle90 {
+    width: 35px;
+    height: 20px;
+    left: 1471px;
+    top: 393px;
+    position: absolute;
+    background: black;
+    border: 1px solid white;
+}
+
+.YardCob {
+    width: 55px;
+    height: 17px;
+    left: 1461px;
+    top: 393px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 600;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle91 {
+    width: 20px;
+    height: 20px;
+    left: 1200px;
+    top: 354px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardRectangle92 {
+    width: 20px;
+    height: 20px;
+    left: 1340px;
+    top: 354px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+}
+
+.YardA-2 {
+    width: 45px;
+    height: 15px;
+    left: 1302px;
+    top: 414px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardAU-2 {
+    width: 45px;
+    height: 15px;
+    left: 1233px;
+    top: 384px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardRectangle93 {
+    width: 21px;
+    height: 17px;
+    left: 1359px;
+    top: 393px;
+    position: absolute;
+    background: rgb(217, 217, 217);
+    border-radius: 5px;
+}
+
+.YardRectangle94 {
+    width: 13px;
+    height: 13px;
+    left: 1363px;
+    top: 395px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+.YardRectangle94_LY {
+    width: 13px;
+    height: 13px;
+    left: 1363px;
+    top: 395px;
+    position: absolute;
+    background: yellow;
+    border-radius: 11px;
+    border: 2px solid white;
+}
+
+.YardB-2 {
+    width: 45px;
+    height: 15px;
+    left: 1348px;
+    top: 414px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardD-2 {
+    width: 45px;
+    height: 15px;
+    left: 1565px;
+    top: 414px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardDown-2 {
+    width: 72px;
+    height: 25px;
+    left: 1530px;
+    top: 328px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardUp-2 {
+    width: 46px;
+    height: 20px;
+    left: 1439px;
+    top: 328px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardC32t {
+    width: 45px;
+    height: 22px;
+    left: 1412px;
+    top: 368px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardSlipSiding {
+    width: 136.5px;
+    height: 37.72px;
+    left: 1156px;
+    top: 335.06px;
+    position: absolute;
+    transform: rotate(-66.59deg);
+    transform-origin: 0px 0px 0px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardAscr-2 {
+    width: 66px;
+    height: 20px;
+    left: 1322px;
+    top: 293px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+/* .YardLine42{
+    width: 43px;
+  height: 0px;
+  left: 1730px;
+  top: 380px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0px 0px 0px;
+  border: 4px solid white;
+} */
+.Yard02at {
+    width: 90px;
+    height: 27px;
+    left: 761px;
+    top: 176px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.Yard01at {
+    width: 90px;
+    height: 27px;
+    left: 761px;
+    top: 331px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardCoimbatoreNorthJnCbf2569km {
+    width: 240px;
+    height: 105px;
+    left: -10px;
+    top: 410px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.YardLine43 {
+    width: 7px;
+    height: 0px;
+    left: 426px;
+    top: 393px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow4 {
+    position: absolute;
+    left: 466px;
+    top: 719px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.YardLine44 {
+    width: 7px;
+    height: 0px;
+    left: 665px;
+    top: 389px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow5 {
+    position: absolute;
+    left: 704px;
+    top: 719px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.YardLine45 {
+    width: 7px;
+    height: 0px;
+    left: 648px;
+    top: 239px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow6 {
+    position: absolute;
+    left: 687px;
+    top: 563px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.YardLine46 {
+    width: 7px;
+    height: 0px;
+    left: 934px;
+    top: 175px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow7 {
+    position: absolute;
+    left: 902px;
+    top: -146px;
+}
+
+.YardLine47 {
+    width: 7px;
+    height: 0px;
+    left: 932px;
+    top: 336px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow8 {
+    position: absolute;
+    left: 900px;
+    top: 10px;
+}
+
+.Arrow9 {
+    position: absolute;
+    left: 1205px;
+    top: 10px;
+}
+
+.YardLine48 {
+    width: 45px;
+    height: 0px;
+    left: 1350px;
+    top: 400px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow10 {
+    position: absolute;
+    left: 1423px;
+    top: 722px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.YardLine49 {
+    width: 7px;
+    height: 0px;
+    left: 1507px;
+    top: 402px;
+    position: absolute;
+    transform: rotate(0deg);
+    transform-origin: 0px 0px 0px;
+    border: 1px solid white;
+}
+
+.Arrow11 {
+    position: absolute;
+    left: 1546px;
+    top: 719px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.Arrow12 {
+    position: absolute;
+    left: 1672px;
+    top: 719px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+.Arrow13 {
+    position: absolute;
+    left: 1752px;
+    top: 719px;
+    transform: rotate(180deg);
+    transform-origin: 0px 0px 0px;
+}
+
+#content {
+    width: 100%;
+    height: 480px;
+}
+
+/* styling  for station YARD */
+@media (max-width: 768px) {
+    /* .YardFrame1 {
+        display: none !important;
+    }
+
+    .content_msg {
+        padding-top: 50%;
+        text-align: center;
+        display: block;
+        background: #1c1c1c;
+        height: 100vh;
+        color: white;
+    } */
+
+    .YardFrame1 {
+        width: 1785px !important;
+        height: 835px;
+        position: relative;
+        background: black;
+        display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    /* .content_msg {
+        display: none !important;
+    } */
+    /* .YardFrame1 {
+        width: 250% !important;
+        height: 835px;
+        position: relative;
+        background: black;
+        display: block;
+    } */
+}
+
+
+/* for signal name 1*/
+.signalName_1 {
+    width: 37px;
+    height: 17px;
+    left: 955px;
+    top: 140px;
+    position: absolute;
+    border-radius: 5px;
+    color: white;
+}
+
+/* for signame 2 */
+.signalName_2 {
+    width: 54px;
+    height: 17px;
+    left: 961px;
+    top: 305px;
+    position: absolute;
+    border-radius: 5px;
+    color: white;
+}
+
+/* for pointmachinename 1 */
+
+.poitmachinename_1 {
+    width: 28px;
+    height: 28px;
+    left: 650px;
+    top: 650px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* for pointmachinename 2 */
+
+.pointmachinename_2 {
+    width: 28px;
+    height: 28px;
+    left: 870px;
+    top: 648px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* for pointmachinename 3 */
+
+.pointmachinename_3 {
+    width: 28px;
+    height: 28px;
+    left: 1090px;
+    top: 648px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+/* for trackcircuitname 1 */
+
+.trackcircuitname_1 {
+    width: 409.8px;
+    height: 0px;
+    left: 990.79px;
+    top: 370.61px;
+    position: absolute;
+    color: white;
+}
+
+/* for yard pointmschine arrow */
+.YardArrow_1 {
+    width: 12px;
+    height: 32px;
+    left: 634px;
+    top: 603px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(-40deg);
+    background-color: green;
+}
+
+.YardArrow_2 {
+    width: 12px;
+    height: 29px;
+    left: 653px;
+    top: 594px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(-3deg);
+    background-color: green;
+}
+
+.YardArrow_3 {
+    width: 12px;
+    height: 34px;
+    left: 675px;
+    top: 604px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(50deg);
+    background-color: green;
+}
+
+.YardArrow_1_2 {
+    width: 28px;
+    height: 28px;
+    left: 835px;
+    top: 595px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(-40deg);
+}
+
+.YardArrow_2_2 {
+    width: 21px;
+    height: 28px;
+    left: 870px;
+    top: 590px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(0deg);
+}
+
+.YardArrow_3_2 {
+    width: 28px;
+    height: 28px;
+    left: 900px;
+    top: 595px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(50deg);
+}
+
+.YardArrow_1_3 {
+    width: 28px;
+    height: 28px;
+    left: 1055px;
+    top: 595px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(-45deg)
+}
+
+.YardArrow_2_3 {
+    width: 21px;
+    height: 28px;
+    left: 1089px;
+    top: 590px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(0deg);
+}
+
+.YardArrow_3_3 {
+    width: 28px;
+    height: 28px;
+    left: 1120px;
+    top: 596px;
+    position: absolute;
+    border-radius: 14px;
+    transform: rotate(50deg);
+}
+
+.arrowIcon {
+    font-size: 20px;
+    color: grey;
+}
+
+.KnobWithSwitch_1 {
+    width: 28px;
+    height: 28px;
+    left: 645px;
+    /* Adjust the position */
+    top: 618px;
+    /* Adjust the position */
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.KnobWithSwitch_1:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.KnobWithSwitch_1 .knob {
+    width: 28px;
+    height: 28px;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    position: relative;
+}
+
+
+.KnobWithSwitch_1 .switchCenter {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 3px;
+}
+
+
+.KnobWithSwitch_1 .switchLeft {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -15px;
+    left: -25%;
+    transform: translateX(-110%);
+    border-radius: 3px;
+    transform: rotate(-45deg);
+}
+
+.KnobWithSwitch_1 .switchRight {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -14px;
+    left: 70%;
+    border-radius: 3px;
+    transform: rotate(45deg);
+}
+
+.KnobWithSwitch_2 {
+    width: 28px;
+    height: 28px;
+    left: 866px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.KnobWithSwitch_2:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.KnobWithSwitch_2 .knob {
+    width: 28px;
+    height: 28px;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    position: relative;
+}
+
+
+.KnobWithSwitch_2 .switchCenter {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 3px;
+}
+
+
+.KnobWithSwitch_2 .switchLeft {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -15px;
+    left: -25%;
+    transform: translateX(-110%);
+    border-radius: 3px;
+    transform: rotate(-45deg);
+}
+
+.KnobWithSwitch_2 .switchRight {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -14px;
+    left: 70%;
+    border-radius: 3px;
+    transform: rotate(45deg);
+}
+
+
+
+.KnobWithSwitch_3 {
+    width: 28px;
+    height: 28px;
+    left: 1086px;
+    top: 618px;
+    position: absolute;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.KnobWithSwitch_3:after {
+    content: '';
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.KnobWithSwitch_3 .knob {
+    width: 28px;
+    height: 28px;
+    background: rgb(45, 171, 243);
+    border-radius: 50%;
+    /* Use border-radius to create a circular shape */
+    position: relative;
+}
+
+
+.KnobWithSwitch_3 .switchCenter {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 3px;
+}
+
+
+.KnobWithSwitch_3 .switchLeft {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -15px;
+    left: -25%;
+    transform: translateX(-110%);
+    border-radius: 3px;
+    transform: rotate(-45deg);
+}
+
+.KnobWithSwitch_3 .switchRight {
+    width: 15px;
+    height: 25px;
+    background: #2dabf3;
+    position: absolute;
+    top: -14px;
+    left: 70%;
+    border-radius: 3px;
+    transform: rotate(45deg);
+}
+
+.YardRectangle74 {
+    width: 5px;
+    height: 5px;
+    left: 1266px;
+    top: 372px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle75 {
+    width: 5px;
+    height: 5px;
+    left: 1272px;
+    top: 378px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76 {
+    width: 5px;
+    height: 5px;
+    left: 1278px;
+    top: 384px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76_1 {
+    width: 5px;
+    height: 5px;
+    left: 1283px;
+    top: 389px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76_2 {
+    width: 5px;
+    height: 5px;
+    left: 1289px;
+    top: 394px;
+    position: absolute;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle74_W {
+    width: 5px;
+    height: 5px;
+    left: 1266px;
+    top: 372px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle75_W {
+    width: 5px;
+    height: 5px;
+    left: 1272px;
+    top: 378px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76_W {
+    width: 5px;
+    height: 5px;
+    left: 1278px;
+    top: 384px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76_1_W {
+    width: 5px;
+    height: 5px;
+    left: 1283px;
+    top: 389px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle76_2_W {
+    width: 5px;
+    height: 5px;
+    left: 1289px;
+    top: 394px;
+    position: absolute;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle78 {
+    width: 5px;
+    height: 5px;
+    left: 346px;
+    top: 291px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle78_W {
+    width: 5px;
+    height: 5px;
+    left: 346px;
+    top: 291px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle79 {
+    width: 5px;
+    height: 5px;
+    left: 340px;
+    top: 296px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle79_W {
+    width: 5px;
+    height: 5px;
+    left: 340px;
+    top: 296px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80 {
+    width: 5px;
+    height: 5px;
+    left: 334px;
+    top: 301px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80_W {
+    width: 5px;
+    height: 5px;
+    left: 334px;
+    top: 301px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80_1 {
+    width: 5px;
+    height: 5px;
+    left: 328px;
+    top: 306px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80_1_W {
+    width: 5px;
+    height: 5px;
+    left: 328px;
+    top: 306px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80_2 {
+    width: 5px;
+    height: 5px;
+    left: 322px;
+    top: 311px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: black;
+    border-radius: 11px;
+    border: 1px solid black;
+}
+
+.YardRectangle80_2_W {
+    width: 5px;
+    height: 5px;
+    left: 322px;
+    top: 311px;
+    position: absolute;
+    transform: rotate(92.81deg);
+    transform-origin: 0px 0px 0px;
+    background: white;
+    border-radius: 11px;
+    border: 1px solid black;
+}

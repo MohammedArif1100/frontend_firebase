@@ -1,0 +1,3476 @@
+.IPSLine4Group1 {
+    width: 1264px;
+    height: 742px;
+    top: -40px;
+    left: 305px;
+    position: relative;
+  }
+  
+  .IPSLine4Line1 {
+    width: 22.34px;
+    height: 0;
+    left: 799.55px;
+    top: 23.04px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Avr_1 {
+    width: 36.45px;
+    height: 12.51px;
+    left: 558.51px;
+    top: -3.19px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: "Inter";
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Transformer {
+    width: 109.35px;
+    height: 12.51px;
+    left: 846.59px;
+    top: -12px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: "Inter";
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4110v500va_1 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.54px;
+    top: 13.84px;
+    position: relative;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+
+  .arrow {
+    position: relative;
+    width: 120.01px;
+    height: 0;
+    left: 986.5px;
+    top: 24.36px;
+    position: absolute;
+  }
+  
+  .arrow-shaft {
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_2 {
+    position: relative;
+    width: 120.01px;
+    left: 986.51px;
+    top: 48.08px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_2 {
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_2 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_3{
+    position: relative;
+    width: 120.01px;
+    left: 986.51px;
+    top: 81.08px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_3{
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_3 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_4{
+    position: relative;
+    width: 120.01px;
+    left: 986.51px;
+    top: 108.08px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_4{
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_4 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_5{
+    position: relative;
+    width: 120.01px;
+    left: 986.51px;
+    top: 134.08px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_5{
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_5 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_6{
+    position: relative;
+    width: 120.01px;
+    left: 986.51px;
+    top: 156.08px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_6{
+    position: absolute;
+    width: 101px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_6 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_7{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 297.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_7{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_7 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_8{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 393.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_8{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_8 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_9{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 436.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_9{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_9 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_10{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 490.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_10{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_10 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_11{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 543.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_11{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_11 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_12{
+    position: relative;
+    width: 75.01px;
+    left: 814.83px;
+    top: 596.67px;
+   
+    position: absolute;
+  }
+  
+  .arrow-shaft_12{
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_12 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  .arrow_13 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 293.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_13 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_13 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_14 {
+  
+    width: 75.01px;
+    left: 181.66px;
+    top: 396.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_14 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_14 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_15 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 464.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_15 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_15 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_16 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 525.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_16 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_16 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_17 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 597.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_17 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_17 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_18 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 637.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_18 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_18 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  .arrow_19 {
+    position: relative;
+    width: 75.01px;
+    left: 181.66px;
+    top: 682.62px;
+    position: absolute;
+  }
+  
+  .arrow-shaft_19 {
+    position: absolute;
+    width: 70px; 
+    height: 2px; 
+    background-color: black; 
+    top: 50%;
+    left:83px;
+    transform: translateY(-50%);
+  }
+  
+  .arrow-head_19 {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-right: 20px solid black; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+  }
+  
+
+  .IPSLine4TrackCircuitUp {
+    width: 143.45px;
+    height: 12.51px;
+    left: 1118.2px;
+    top: 17.77px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4Rectangle58 {
+    width: 80.95px;
+    height: 17.77px;
+    left: 680.27px;
+    top: 742px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  /* .IPSLine4Rectangle1 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 14.48px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  } */
+  .IPSLine4Rectangle1 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 14.48px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif; 
+    font-size: 13px; 
+    color: black; 
+    font-weight: 700;
+  }
+  
+  .IPSLine4Rectangle2 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 37.52px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line2 {
+    width: 23.04px;
+    height: 0;
+    left: 780.21px;
+    top: 23.04px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line3 {
+    width: 22.34px;
+    height: 0;
+    left: 799.55px;
+    top: 46.08px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line4 {
+    width: 131.69px;
+    height: 0;
+    left: 645.52px;
+    top: 34.23px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle3 {
+    width: 2.35px;
+    height: 6.58px;
+    left: 693.73px;
+    top: 142.84px;
+    position: absolute;
+    background: #606EE0;
+  }
+  
+  .IPSLine4Rectangle4 {
+    width: 137.57px;
+    height: 17.77px;
+    left: 507.95px;
+    top: 25.67px;
+    position: absolute;
+    background: #4AE6D8;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Kva {
+    width: 44.68px;
+    height: 11.19px;
+    left: 560.93px;
+    top: 24.31px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line5 {
+    width: 403.35px;
+    height: 0;
+    left: 105.82px;
+    top: 34.65px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line6 {
+    width: 93.5px;
+    height: 0;
+    left: 108.76px;
+    top: 125.76px;
+    position: absolute;
+    transform: rotate(-90.36deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle5 {
+    width: 137.57px;
+    height: 17.77px;
+    left: 507.96px;
+    top: 63.85px;
+    position: absolute;
+    background: #4AE6D8;
+    border: 1px black solid;
+  }
+  
+  .IPSLine40Kva {
+    width: 61.14px;
+    height: 11.19px;
+    left: 560.23px;
+    top: 62.48px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line7 {
+    width: 399.83px;
+    height: 0;
+    left: 108.17px;
+    top: 72.41px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle6 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 72.41px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle7 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 98.08px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle8 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 123.09px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle9 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 799.55px;
+    top: 146.13px;
+    position: absolute;
+    background: #606EE0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line8 {
+    width: 71.1px;
+    height: 0;
+    left: 783.68px;
+    top: 154.69px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line9 {
+    width: 17.64px;
+    height: 0;
+    left: 781.92px;
+    top: 83.6px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line10 {
+    width: 17.64px;
+    height: 0;
+    left: 783.09px;
+    top: 154.03px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line11 {
+    width: 17.64px;
+    height: 0;
+    left: 783.09px;
+    top: 106.64px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line12 {
+    width: 17.64px;
+    height: 0;
+    left: 783.09px;
+    top: 131.65px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle10 {
+    width: 137.57px;
+    height: 17.77px;
+    left: 509.13px;
+    top: 105.32px;
+    position: absolute;
+    background: #4AE6D8;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle11 {
+    width: 137.57px;
+    height: 17.77px;
+    left: 509.13px;
+    top: 123.09px;
+    position: absolute;
+    background: #4AE6D8;
+    border: 1px black solid;
+  }
+  .IPSLine4Line13 {
+    width: 14.11px;
+    height: 0;
+    left: 645.52px;
+    top: 115.85px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line14 {
+    width: 15.8px;
+    height: 0;
+    left: 659.28px;
+    top: 115.85px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line15 {
+    width: 14.11px;
+    height: 0;
+    left: 643.17px;
+    top: 131.65px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line16 {
+    width: 14.11px;
+    height: 0;
+    left: 511.51px;
+    top: 131.65px;
+    position: absolute;
+    transform: rotate(179.97deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line17 {
+    width: 15.8px;
+    height: 0;
+    left: 496.75px;
+    top: 131.66px;
+    position: absolute;
+    transform: rotate(-90.11deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line18 {
+    width: 14.11px;
+    height: 0;
+    left: 511.48px;
+    top: 115.85px;
+    position: absolute;
+    transform: rotate(179.97deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line19 {
+    width: 126.99px;
+    height: 0;
+    left: 657.28px;
+    top: 123.75px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle12 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 196.36px;
+    top: 90.18px;
+    position: absolute;
+    background: #F1CA56;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle13 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 196.36px;
+    top: 107.95px;
+    position: absolute;
+    background:  #F1CA56;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle14 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 196.36px;
+    top: 125.73px;
+    position: absolute;
+    background:  #F1CA56;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle15 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 196.36px;
+    top: 143.5px;
+    position: absolute;
+    background: #F1CA56;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line20 {
+    width: 51.36px;
+    height: 0;
+    left: 179.61px;
+    top: 152.72px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line21 {
+    width: 17.64px;
+    height: 0;
+    left: 178.72px;
+    top: 101.37px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line22 {
+    width: 17.64px;
+    height: 0;
+    left: 179.9px;
+    top: 152.72px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line23 {
+    width: 17.64px;
+    height: 0;
+    left: 179.9px;
+    top: 117.17px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line24 {
+    width: 17.64px;
+    height: 0;
+    left: 179.9px;
+    top: 134.94px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line25 {
+    width: 51.36px;
+    height: 0;
+    left: 401.91px;
+    top: 151.77px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line26 {
+    width: 17.63px;
+    height: 0;
+    left: 401.04px;
+    top: 151.76px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line27 {
+    width: 17.63px;
+    height: 0;
+    left: 403.36px;
+    top: 100.43px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line28 {
+    width: 17.63px;
+    height: 0;
+    left: 400.94px;
+    top: 135.95px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line29 {
+    width: 17.63px;
+    height: 0;
+    left: 402.15px;
+    top: 118.19px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line30 {
+    width: 94.07px;
+    height: 0;
+    left: 403.3px;
+    top: 123.75px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line31 {
+    width: 211.25px;
+    height: 0;
+    left:-0.5px;
+    top: 124.74px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse1 {
+    width: 12.76px;
+    height: 12.58px;
+    left: -8.76px;
+    top: 117.78px;
+    position: absolute;
+    background: #F5F5F5;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle16 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 196.36px;
+    top: 168.52px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  .IPSLine4Line32 {
+    width: 53.36px;
+    height: 0;
+    left: 712.25px;
+    top: 123.79px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line33 {
+    width: 69.37px;
+    height: 0;
+    left: 643.17px;
+    top: 72.41px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse2 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 706.66px;
+    top: 119.15px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse3 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 416.24px;
+    top: 120.46px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle17 {
+    width: 137.57px;
+    height: 17.77px;
+    left: 509.13px;
+    top: 146.13px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle18 {
+    width: 127.37px;
+    height: 17.77px;
+    left: 75.25px;
+    top: 195.5px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4LpdSpdBox {
+    width: 123.46px;
+    height: 11.19px;
+    left: 96.42px;
+    top: 194.14px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Rectangle19 {
+    width: 210.95px;
+    height: 29.62px;
+    left: 310.41px;
+    top: 203.4px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line34 {
+    width: 78.99px;
+    height: 0;
+    left: 423.29px;
+    top: 204.06px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line36 {
+    width: 151.68px;
+    height: 0;
+    left: 572.62px;
+    top: 186.29px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Ellipse4 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 416.24px;
+    top: 183px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle20 {
+    width: 210.26px;
+    height: 17.77px;
+    left: 799.92px;
+    top: 171.81px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4StatusMonitoringPanel {
+    width: 263.38px;
+    height: 12.51px;
+    left: 817.44px;
+    top: 171.1px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4AcInput {
+    width: 76.43px;
+    height: 12.51px;
+    left: -90px;
+    top: 104.66px;
+    position: absolute;
+    color: rgb(5, 5, 5);
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Vac_1 {
+    width: 78.78px;
+    height: 12.51px;
+    left: -90px;
+    top: 134.94px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  .IPSLine4Avr_2 {
+    width: 36.45px;
+    height: 12.51px;
+    left: 557.34px;
+    top: 45.71px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Inverter {
+    width: 69.37px;
+    height: 12.51px;
+    left: 547.93px;
+    top: 85.16px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine45Kva_1 {
+    width: 58.79px;
+    height: 11.19px;
+    left: 560.75px;
+    top: 103.95px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine45Kva_2 {
+    width: 58.79px;
+    height: 11.19px;
+    left: 560.11px;
+    top: 122.04px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4ColdStdBy_1 {
+    width: 110.53px;
+    height: 11.19px;
+    left: 550.59px;
+    top: 145.43px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4Vdc {
+    width: 61.14px;
+    height: 11.19px;
+    left: 426.82px;
+    top: 107.3px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4VAc_2 {
+    width: 69.37px;
+    height: 11.19px;
+    left: 690.2px;
+    top: 129.68px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4110v500va_2 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.19px;
+    top: 146.45px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4110v500va_3 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.54px;
+    top: 122.73px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4110v500va_4 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.19px;
+    top: 97.37px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4110v500va_5 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.54px;
+    top: 72.04px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4110v500va_6 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 843.54px;
+    top: 37.84px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+
+  .IPSLine4TrackCircuitDn {
+    width: 145.8px;
+    height: 12.51px;
+    left: 1118.2px;
+    top: 38.84px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4_101 {
+    width: 9.41px;
+    height: 12.51px;
+    left: 1124.08px;
+    top: 73.73px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4_102 {
+    width: 11.76px;
+    height: 12.51px;
+    left: 1124.08px;
+    top: 100.06px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4_103 {
+    width: 9.41px;
+    height: 12.51px;
+    left: 1125.25px;
+    top: 129.02px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4_104 {
+    width: 11.76px;
+    height: 12.51px;
+    left: 1125.25px;
+    top: 148.11px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4SignalsUp {
+    width: 95.24px;
+    height: 12.51px;
+    left: 1157px;
+    top: 86.89px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4SignalsDn {
+    width: 102.3px;
+    height: 12.51px;
+    left: 1159.35px;
+    top: 136.26px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Frbc {
+    width: 49.38px;
+    height: 12.51px;
+    left: 268.09px;
+    top: 74.02px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4V20a_1 {
+    width: 82.31px;
+    height: 12.51px;
+    left: 265.27px;
+    top: 90.81px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4V20a_2 {
+    width: 82.31px;
+    height: 12.51px;
+    left: 265.27px;
+    top: 107.25px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4V20a_3 {
+    width: 82.31px;
+    height: 12.51px;
+    left: 265.45px;
+    top: 142.48px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4V20a_4 {
+    width: 82.31px;
+    height: 12.51px;
+    left: 265.1px;
+    top: 124.7px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4ColdStdBy_2 {
+    width: 110.53px;
+    height: 11.19px;
+    left: 235.16px;
+    top: 166.83px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4V300AhLmlaBatteryBox {
+    width: -22.1px;
+    height: 22.38px;
+    left: 314.7px;
+    top: 206.04px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4Line61 {
+    width: 17.63px;
+    height: 0;
+    left: 583.2px;
+    top: 306.36px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line62 {
+    width: 17.64px;
+    height: 0;
+    left: 584.41px;
+    top: 288.78px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line63 {
+    width: 17.13px;
+    height: 0;
+    left: 583.68px;
+    top: 306.18px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line64 {
+    width: 17.63px;
+    height: 0;
+    left: 584.38px;
+    top: 401.81px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line65 {
+    width: 17.64px;
+    height: 0;
+    left: 585.59px;
+    top: 384.23px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line67 {
+    width: 17.63px;
+    height: 0;
+    left: 583.2px;
+    top: 446.57px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line68 {
+    width: 17.64px;
+    height: 0;
+    left: 584.41px;
+    top: 428.99px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line69 {
+    width: 17.13px;
+    height: 0;
+    left: 583.68px;
+    top: 446.39px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line77 {
+    width: 23.52px;
+    height: 0;
+    left: 564.39px;
+    top: 392.98px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line78 {
+    width: 23.52px;
+    height: 0;
+    left: 564.39px;
+    top: 439.72px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line79 {
+    width: 17.63px;
+    height: 0;
+    left: 584.38px;
+    top: 499.23px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line80 {
+    width: 17.64px;
+    height: 0;
+    left: 585.59px;
+    top: 481.65px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line81 {
+    width: 17.13px;
+    height: 0;
+    left: 584.86px;
+    top: 499.05px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line81_2 {
+    width: 17.13px;
+    height: 0;
+    left: 584.86px;
+    top: 402.05px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line82 {
+    width: 23.52px;
+    height: 0;
+    left: 565.57px;
+    top: 492.38px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line83 {
+    width: 17.63px;
+    height: 0;
+    left: 583.2px;
+    top: 551.89px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line84 {
+    width: 17.64px;
+    height: 0;
+    left: 584.41px;
+    top: 534.31px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line85 {
+    width: 17.13px;
+    height: 0;
+    left: 583.68px;
+    top: 551.71px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line86 {
+    width: 23.52px;
+    height: 0;
+    left: 564.39px;
+    top: 545.04px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line87 {
+    width: 17.63px;
+    height: 0;
+    left: 584.38px;
+    top: 605.21px;
+    position: absolute;
+    transform: rotate(1.27deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line88 {
+    width: 17.64px;
+    height: 0;
+    left: 585.59px;
+    top: 587.63px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line89 {
+    width: 17.13px;
+    height: 0;
+    left: 584.86px;
+    top: 605.03px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line90 {
+    width: 23.52px;
+    height: 0;
+    left: 565.57px;
+    top: 598.36px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Fuse20a {
+    width: 83.48px;
+    height: 12.51px;
+    left: 613.52px;
+    top: 724.72px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line91 {
+    width: 28.22px;
+    height: 0;
+    left: 570.27px;
+    top: 730.96px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle59 {
+    width: 503.25px;
+    height: 464.07px;
+    left: 54.09px;
+    top: 243.56px;
+    position: absolute;
+    background: #f3ccd2;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line96 {
+    width: 546.39px;
+    height: 0;
+    left: 572.47px;
+    top: 732.68px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle60 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.76px;
+    top: 258.07px;
+    position: absolute;
+    background: #ff3e3e;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle61 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.76px;
+    top: 275.85px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle62 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.76px;
+    top: 293.62px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle63 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.76px;
+    top: 311.39px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle64 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.76px;
+    top: 336.41px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_1 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 258.71px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4ColdStdBy_3 {
+    width: 110.53px;
+    height: 11.19px;
+    left: 389.56px;
+    top: 335.72px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line97 {
+    width: 17.63px;
+    height: 0;
+    left: 537.4px;
+    top: 268.98px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line98 {
+    width: 17.63px;
+    height: 0;
+    left: 536.23px;
+    top: 320.33px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line99 {
+    width: 51.36px;
+    height: 0;
+    left: 537.35px;
+    top: 320.62px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_2 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.49px;
+    top: 275.11px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine432v5a_3 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 292.59px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_4 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.49px;
+    top: 311.68px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+
+  .IPSLine4Rectangle65 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.75px;
+    top: 361.42px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle66 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.75px;
+    top: 379.85px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle67 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.75px;
+    top: 396.97px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle68 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 332.75px;
+    top: 414.74px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_5 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 361.05px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line100 {
+    width: 17.63px;
+    height: 0;
+    left: 537.4px;
+    top: 372.33px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line101 {
+    width: 17.63px;
+    height: 0;
+    left: 536.23px;
+    top: 423.67px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line102 {
+    width: 51.36px;
+    height: 0;
+    left: 537.35px;
+    top: 423.97px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_6 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.49px;
+    top: 381.46px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_7 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 396.94px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_8 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.49px;
+    top: 415.03px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+
+  
+  .IPSLine4Rectangle69 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 331.58px;
+    top: 439.1px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle70 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 331.58px;
+    top: 456.87px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle71 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 331.58px;
+    top: 474.64px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_9 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.79px;
+    top: 438.73px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line103 {
+    width: 17.63px;
+    height: 0;
+    left: 536.23px;
+    top: 450px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line104 {
+    width: 17.63px;
+    height: 0;
+    left: 535.05px;
+    top: 484.23px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine432v5a_10 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.31px;
+    top: 458.14px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_11 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.79px;
+    top: 473.62px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  .IPSLine4Rectangle72 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 329.23px;
+    top: 497.68px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle73 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 329.23px;
+    top: 515.45px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle74 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 329.23px;
+    top: 533.23px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine432v5a_12 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.44px;
+    top: 497.31px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line106 {
+    width: 17.63px;
+    height: 0;
+    left: 533.88px;
+    top: 508.59px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line107 {
+    width: 17.63px;
+    height: 0;
+    left: 532.7px;
+    top: 542.82px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line108 {
+    width: 32.91px;
+    height: 0;
+    left: 533.82px;
+    top: 541.78px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line108_2 {
+    width: 32.91px;
+    height: 0;
+    left: 533.82px;
+    top: 483.78px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine432v5a_13 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 517.72px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_14 {
+    width: 101.12px;
+    height: 12.51px;
+    left: 397.44px;
+    top: 532.2px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+
+  
+  .IPSLine4Rectangle75 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.4px;
+    top: 556.27px;
+    position: absolute;
+    background: #FEF9F9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4ColdStdBy_4 {
+    width: 110.53px;
+    height: 11.19px;
+    left: 389.21px;
+    top: 555.58px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Rectangle76 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.4px;
+    top: 579.31px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle77 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.4px;
+    top: 597.08px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line109 {
+    width: 17.63px;
+    height: 0;
+    left: 535.05px;
+    top: 590.21px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line110 {
+    width: 17.63px;
+    height: 0;
+    left: 533.88px;
+    top: 607.99px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line111 {
+    width: 17.13px;
+    height: 0;
+    left: 534.28px;
+    top: 607.61px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+ 
+  .IPSLine4Rectangle78 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.4px;
+    top: 619.46px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle79 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.4px;
+    top: 637.23px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line112 {
+    width: 17.63px;
+    height: 0;
+    left: 535.05px;
+    top: 630.37px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line113 {
+    width: 17.63px;
+    height: 0;
+    left: 533.88px;
+    top: 648.14px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line114 {
+    width: 17.13px;
+    height: 0;
+    left: 534.28px;
+    top: 647.77px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  
+  .IPSLine4Rectangle80 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.11px;
+    top: 664.22px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle81 {
+    width: 186.95px;
+    height: 17.77px;
+    left: 330.11px;
+    top: 681.99px;
+    position: absolute;
+     background: #ff3e3e;
+    border: 1px black solid;
+  }
+  
+  .IPSLine426v1a_1 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.31px;
+    top: 663.85px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: "Inter";
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line115 {
+    width: 23.63px;
+    height: 0;
+    left: 539.75px;
+    top: 675.13px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  .IPSLine4Line116 {
+    width: 23.63px;
+    height: 0;
+    left: 538.58px;
+    top: 692.9px;
+    position: absolute;
+    transform: rotate(-178.78deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line117 {
+    width: 17.13px;
+    height: 0;
+    left: 538.99px;
+    top: 692.53px;
+    position: absolute;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+  
+
+  .IPSLine4Line118 {
+    width: 48.21px;
+    height: 0;
+    left: 537.35px;
+    top: 295.59px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line119 {
+    width: 37.63px;
+    height: 0;
+    left: 537.35px;
+    top: 390.38px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line120 {
+    width: 37.63px;
+    height: 0;
+    left: 537.35px;
+    top: 466.74px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line121 {
+    width: 44.68px;
+    height: 0;
+    left: 531.47px;
+    top: 524.67px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line122 {
+    width: 44.68px;
+    height: 0;
+    left: 533.82px;
+    top: 597.74px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line123 {
+    width: 44.68px;
+    height: 0;
+    left: 531.47px;
+    top: 637.89px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line124 {
+    width: 35.27px;
+    height: 0;
+    left: 539.7px;
+    top: 683.97px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line125 {
+    width: 16.52px;
+    height: 0;
+    left: 572.62px;
+    top: 392.36px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line126 {
+    width: 15.52px;
+    height: 0;
+    left: 572.62px;
+    top: 439.1px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse13 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 567.92px;
+    top: 290.99px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse14 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 566.74px;
+    top: 388.41px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse15 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 567.92px;
+    top: 435.8px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line127 {
+    width: 15.52px;
+    height: 0;
+    left: 573.8px;
+    top: 491.76px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line128 {
+    width: 15.52px;
+    height: 0;
+    left: 572.62px;
+    top: 544.42px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line129 {
+    width: 15.52px;
+    height: 0;
+    left: 573.8px;
+    top: 597.74px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse16 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 567.92px;
+    top: 489.12px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse17 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 567.92px;
+    top: 541.13px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Ellipse18 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 569.09px;
+    top: 594.45px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  .IPSLine4Ellipse19 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 566.74px;
+    top: 634.6px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4DcDcConverters_1 {
+    width: 216.35px;
+    height: 15.8px;
+    left: 72.9px;
+    top: 250.83px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine426v1a_2 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.31px;
+    top: 682.29px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine426v1a_3 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 577.6px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine426v1a_4 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.96px;
+    top: 595.03px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine426v1a_5 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.32px;
+    top: 618.78px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine426v1a_6 {
+    width: 95.24px;
+    height: 12.51px;
+    left: 397.32px;
+    top: 638.18px;
+    position: absolute;
+    color: black;
+     font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Ellipse20 {
+    width: 12.76px;
+    height: 12.58px;
+    left: 564.39px;
+    top: 680.68px;
+    position: absolute;
+    background: black;
+    border-radius: 9999px;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4RelayInternal1 {
+    width: 137.57px;
+    height: 12.51px;
+    left: 125.81px;
+    top: 287.04px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4RelayInternal2 {
+    width: 139.92px;
+    height: 12.51px;
+    left: 125.81px;
+    top: 391.7px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4RelayExternal1 {
+    width: 143.45px;
+    height: 12.51px;
+    left: 125.81px;
+    top: 460.82px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4RelayExternal2 {
+    width: 146.98px;
+    height: 12.51px;
+    left: 125.99px;
+    top: 522.04px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4PanelIndication {
+    width: 141.1px;
+    height: 12.51px;
+    left: 125.7px;
+    top: 591.15px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4BlockLocal {
+    width: 102.3px;
+    height: 12.51px;
+    left: 125.21px;
+    top: 633.28px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4HktMagneto {
+    width: 139.92px;
+    height: 12.51px;
+    left: 125.52px;
+    top: 675.41px;
+    position: absolute;
+    color: black;
+     font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Rectangle83 {
+    width: 497.37px;
+    height: 464.07px;
+    left: 597.31px;
+    top: 243.56px;
+    position: absolute;
+    /* background: #fef1b4;  */
+    background:   #bff8ab87;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle84 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.54px;
+    top: 315.45px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+    background: #74c576;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle85 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.58px;
+    top: 297.67px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+
+  .IPSLine4Rectangle86 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.78px;
+    top: 410.89px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle87 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.82px;
+    top: 393.12px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+ 
+  
+  .IPSLine4Rectangle88 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.54px;
+    top: 455.66px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle89 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.54px;
+    top: 437.66px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  .IPSLine4Rectangle90 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.78px;
+    top: 508.32px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle91 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.82px;
+    top: 490.54px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+
+  
+  .IPSLine4Rectangle92 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.54px;
+    top: 560.98px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle93 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 818.58px;
+    top: 543.2px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+
+  .IPSLine4Rectangle94 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.78px;
+    top: 614.3px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Rectangle95 {
+    width: 197.71px;
+    height: 17.77px;
+    left: 819.82px;
+    top: 596.52px;
+    position: absolute;
+    transform: rotate(-179.96deg);
+    transform-origin: 0 0;
+      background: #74c576;
+    border: 1px black solid;
+  }
+
+  
+  .IPSLine4Rectangle96 {
+    width: 197.54px;
+    height: 17.77px;
+    left: 623.18px;
+    top: 319.92px;
+    position: absolute;
+    background: #fef9f9;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4ColdStdBy_5 {
+    width: 116.41px;
+    height: 11.19px;
+    left: 689.33px;
+    top: 318.23px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4DcDcConverters_2 {
+    width: 229.28px;
+    height: 15.8px;
+    left: 860.7px;
+    top: 248.82px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4150v1a_1 {
+    width: 102.3px;
+    height: 11.19px;
+    left: 689.39px;
+    top: 375.5px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4150v1a_2 {
+    width: 102.3px;
+    height: 11.19px;
+    left: 689.57px;
+    top: 393.93px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4150v1a_3 {
+    width: 102.3px;
+    height: 11.19px;
+    left: 689.04px;
+    top: 297.83px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4150v1a_4 {
+    width: 102.3px;
+    height: 11.19px;
+    left: 689.04px;
+    top: 280.05px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine46v01a_1 {
+    width: 77.6px;
+    height: 11.19px;
+    left: 689.5px;
+    top: 472.92px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine46v01a_2 {
+    width: 77.6px;
+    height: 11.19px;
+    left: 689.5px;
+    top: 436.06px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine46v01a_3 {
+    width: 76.43px;
+    height: 11.19px;
+    left: 689.32px;
+    top: 418.26px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine46v01a_4 {
+    width: 77.6px;
+    height: 11.19px;
+    left: 689.5px;
+    top: 489.38px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine412v5a_1 {
+    width: 74.08px;
+    height: 11.19px;
+    left: 689.27px;
+    top: 525.27px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine412v5a_2 {
+    width: 74.08px;
+    height: 11.19px;
+    left: 689.27px;
+    top: 544.67px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine432v5a_15 {
+    width: 88.19px;
+    height: 11.19px;
+    left: 689.51px;
+    top: 575.9px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine432v5a_16 {
+    width: 88.19px;
+    height: 11.19px;
+    left: 689.33px;
+    top: 596.36px;
+    position: absolute;
+    color: black;
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4BlockLineUp {
+    width: 161.09px;
+    height: 15.8px;
+    left: 899.5px;
+    top: 285.64px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4BlockLineDn {
+    width: 164.61px;
+    height: 15.8px;
+    left: 901.85px;
+    top: 381.72px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4BlockTeleUp {
+    width: 161.09px;
+    height: 15.8px;
+    left: 899.5px;
+    top: 425.87px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4BlockTeleDn {
+    width: 164.61px;
+    height: 15.8px;
+    left: 901.85px;
+    top: 479.87px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  .IPSLine4ForSpareCells {
+    width: 177.55px;
+    height: 15.8px;
+    left: 901.85px;
+    top: 535.17px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4ForDataLogger {
+    width: 190.48px;
+    height: 15.8px;
+    left: 903.03px;
+    top: 587.17px;
+    position: absolute;
+    color: black;
+  font-size: 16px;
+    font-family: Inter;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .IPSLine4Line130 {
+    width: 41.24px;
+    height: 0;
+    left: 556.94px;
+    top: 244.22px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line131 {
+    width: 41.24px;
+    height: 0;
+    left: 556.52px;
+    top: 707.63px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line132 {
+    width: 39.98px;
+    height: 0;
+    left: 583.2px;
+    top: 288.32px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line133 {
+    width: 39.98px;
+    height: 0;
+    left: 582.03px;
+    top: 306.75px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line134 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 384.42px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line135 {
+    width: 39.98px;
+    height: 0;
+    left: 583.2px;
+    top: 401.54px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line136 {
+    width: 39.98px;
+    height: 0;
+    left: 585.56px;
+    top: 429.19px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line137 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 446.96px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line138 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 481.85px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line139 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 499.62px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line140 {
+    width: 39.98px;
+    height: 0;
+    left: 583.2px;
+    top: 534.51px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line141 {
+    width: 39.98px;
+    height: 0;
+    left: 580.85px;
+    top: 551.62px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  
+  .IPSLine4Line142 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 605.6px;
+    position: absolute;
+    border: 1px black solid;
+  }
+  .IPSLine4Line143 {
+    width: 39.98px;
+    height: 0;
+    left: 584.38px;
+    top: 587.83px;
+    position: absolute;
+    border: 1px black solid;
+  }
+                                                                                                            

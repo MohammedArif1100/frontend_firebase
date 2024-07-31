@@ -1,0 +1,1594 @@
+.ShuntSignal_Frame1 {
+    width: 1352px;
+    height: 581px;
+    position: relative;
+    background: white;
+}
+
+.ShuntSignal_Line1 {
+    width: 189px;
+    height: 0;
+    left: 1126px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line2 {
+    width: 189px;
+    height: 0;
+    left: 1126px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line3 {
+    width: 189px;
+    height: 0;
+    left: 1126px;
+    top: 252px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line4 {
+    width: 189px;
+    height: 0;
+    left: 1126px;
+    top: 290px;
+    position: absolute;
+    transform: rotate(179.70deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line5 {
+    width: 198px;
+    height: 0;
+    left: 892px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line6 {
+    width: 198px;
+    height: 0;
+    left: 892px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line7 {
+    width: 618px;
+    height: 0;
+    left: 892px;
+    top: 250px;
+    position: absolute;
+    transform: rotate(-179.91deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line9 {
+    width: 168px;
+    height: 0;
+    left: 652px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line10 {
+    width: 145px;
+    height: 0;
+    left: 444px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line11 {
+    width: 222px;
+    height: 0;
+    left: 278px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line12 {
+    width: 15px;
+    height: 0;
+    left: 56px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(-123.69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line13 {
+    width: 15px;
+    height: 0;
+    left: 56px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(128.16deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse4 {
+    width: 10px;
+    height: 10px;
+    left: 269px;
+    top: 165px;
+    position: absolute;
+    background: #100F0F;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse5 {
+    width: 14px;
+    height: 1px;
+    left: 269px;
+    top: 165px;
+    position: absolute;
+    background: #100F0F;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse6 {
+    width: 10px;
+    height: 10px;
+    left: 437px;
+    top: 166px;
+    position: absolute;
+    background: #0E0D0D;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse7 {
+    width: 10px;
+    height: 10px;
+    left: 645px;
+    top: 166px;
+    position: absolute;
+    background: #0E0D0D;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line14 {
+    width: 13px;
+    height: 0;
+    left: 484px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(-117.65deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line15 {
+    width: 13px;
+    height: 0;
+    left: 484px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(-69.15deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line16 {
+    width: 13px;
+    height: 0;
+    left: 694px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(-112.17deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line17 {
+    width: 13px;
+    height: 0;
+    left: 694px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(-64.29deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line18 {
+    width: 30px;
+    height: 0;
+    left: 274px;
+    top: 166.32px;
+    position: absolute;
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line19 {
+    width: 30px;
+    height: 0;
+    left: 437px;
+    top: 171.82px;
+    position: absolute;
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line20 {
+    width: 30px;
+    height: 0;
+    left: 646px;
+    top: 170.82px;
+    position: absolute;
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Ellipse8 {
+    width: 80px;
+    height: 20px;
+    left: 881px;
+    top: 162px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse17 {
+    width: 80px;
+    height: 20px;
+    left: 881px;
+    top: 246px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse9 {
+    width: 10px;
+    height: 10px;
+    left: 902px;
+    top: 167px;
+    position: absolute;
+    background: #FDF4F4;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse12 {
+    width: 10px;
+    height: 10px;
+    left: 406px;
+    top: 330px;
+    position: absolute;
+    background: #F9EDED;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse10 {
+    width: 10px;
+    height: 10px;
+    left: 932px;
+    top: 167px;
+    position: absolute;
+    background: #FDEEEE;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse11 {
+    width: 80px;
+    height: 20px;
+    left: 881px;
+    top: 209px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse13 {
+    width: 10px;
+    height: 10px;
+    left: 904px;
+    top: 214px;
+    position: absolute;
+    background: #F9F0F0;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse14 {
+    width: 10px;
+    height: 10px;
+    left: 932px;
+    top: 214px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line21 {
+    width: 13px;
+    height: 0;
+    left: 696.87px;
+    top: 217.05px;
+    position: absolute;
+    transform: rotate(-112deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line22 {
+    width: 13px;
+    height: 0;
+    left: 697px;
+    top: 215.68px;
+    position: absolute;
+    transform: rotate(-64deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line23 {
+    width: 358.01px;
+    height: 0;
+    left: 659px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(179.71deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line24 {
+    width: 232px;
+    height: 0;
+    left: 276px;
+    top: 217px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line25 {
+    width: 15px;
+    height: 0;
+    left: 44px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(-30.96deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line26 {
+    width: 15px;
+    height: 0;
+    left: 43px;
+    top: 215px;
+    position: absolute;
+    transform: rotate(49.40deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse15 {
+    width: 10px;
+    height: 10px;
+    left: 269px;
+    top: 210px;
+    position: absolute;
+    background: #050505;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse16 {
+    width: 10px;
+    height: 10px;
+    left: 652px;
+    top: 206px;
+    position: absolute;
+    background: #0B0A0A;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line27 {
+    width: 30px;
+    height: 0;
+    left: 273px;
+    top: 213px;
+    position: absolute;
+    transform: rotate(-45deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line28 {
+    width: 30px;
+    height: 0;
+    left: 656px;
+    top: 208.69px;
+    position: absolute;
+    transform: rotate(-43deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line29 {
+    width: 13px;
+    height: 0;
+    left: 299.88px;
+    top: 173.38px;
+    position: absolute;
+    transform: rotate(-117deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line30 {
+    width: 13px;
+    height: 0;
+    left: 299.26px;
+    top: 172.75px;
+    position: absolute;
+    transform: rotate(-69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line31 {
+    width: 13px;
+    height: 0;
+    left: 300.96px;
+    top: 218.37px;
+    position: absolute;
+    transform: rotate(-117deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line32 {
+    width: 13px;
+    height: 0;
+    left: 301.29px;
+    top: 217.79px;
+    position: absolute;
+    transform: rotate(-69deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse18 {
+    width: 10px;
+    height: 10px;
+    left: 904px;
+    top: 250px;
+    position: absolute;
+    background: #EEE2E2;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse19 {
+    width: 10px;
+    height: 10px;
+    left: 929px;
+    top: 250px;
+    position: absolute;
+    background: #EEE0E0;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line33 {
+    width: 13px;
+    height: 0;
+    left: 695.36px;
+    top: 249.81px;
+    position: absolute;
+    transform: rotate(127.96deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line34 {
+    width: 13px;
+    height: 0;
+    left: 695.17px;
+    top: 250.62px;
+    position: absolute;
+    transform: rotate(45.74deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line35 {
+    width: 35px;
+    height: 0;
+    left: 272px;
+    top: 173px;
+    position: absolute;
+    transform: rotate(137.29deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line36 {
+    width: 56px;
+    height: 0;
+    left: 247px;
+    top: 196px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line37 {
+    width: 26.02px;
+    height: 0;
+    left: 248px;
+    top: 250px;
+    position: absolute;
+    transform: rotate(2.20deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse20 {
+    width: 10px;
+    height: 10px;
+    left: 652px;
+    top: 244px;
+    position: absolute;
+    background: #0D0C0C;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse21 {
+    width: 10px;
+    height: 10px;
+    left: 430px;
+    top: 246px;
+    position: absolute;
+    background: #0E0D0D;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse22 {
+    width: 10px;
+    height: 10px;
+    left: 269px;
+    top: 244px;
+    position: absolute;
+    background: #0E0D0D;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line38 {
+    width: 13px;
+    height: 0;
+    left: 482.61px;
+    top: 250.89px;
+    position: absolute;
+    transform: rotate(127deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line39 {
+    width: 13px;
+    height: 0;
+    left: 482.11px;
+    top: 247.67px;
+    position: absolute;
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line40 {
+    width: 13px;
+    height: 0;
+    left: 304.87px;
+    top: 251.55px;
+    position: absolute;
+    transform: rotate(127deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line41 {
+    width: 13px;
+    height: 0;
+    left: 304.79px;
+    top: 251.95px;
+    position: absolute;
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line42 {
+    width: 30px;
+    height: 0;
+    left: 278px;
+    top: 246.77px;
+    position: absolute;
+    transform: rotate(-1.47deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line43 {
+    width: 30px;
+    height: 0;
+    left: 440px;
+    top: 247px;
+    position: absolute;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line44 {
+    width: 30px;
+    height: 0;
+    left: 660px;
+    top: 247.28px;
+    position: absolute;
+    transform: rotate(-0.53deg);
+    transform-origin: 0 0;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Ellipse23 {
+    width: 80px;
+    height: 20px;
+    left: 882px;
+    top: 286px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse24 {
+    width: 10px;
+    height: 10px;
+    left: 902px;
+    top: 291px;
+    position: absolute;
+    background: #F2EBEB;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse25 {
+    width: 10px;
+    height: 10px;
+    left: 932px;
+    top: 291px;
+    position: absolute;
+    background: #F5E9E9;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line45 {
+    width: 580.03px;
+    height: 0;
+    left: 302px;
+    top: 292.5px;
+    position: absolute;
+    transform: rotate(0.54deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line46 {
+    width: 21px;
+    height: 0;
+    left: 271.37px;
+    top: 220px;
+    position: absolute;
+    transform: rotate(131.99deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line47 {
+    width: 56px;
+    height: 0;
+    left: 258px;
+    top: 236px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line48 {
+    width: 46px;
+    height: 0;
+    left: 258.98px;
+    top: 292.04px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse26 {
+    width: 10px;
+    height: 10px;
+    left: 272px;
+    top: 285px;
+    position: absolute;
+    background: #090808;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line49 {
+    width: 13px;
+    height: 0;
+    left: 303.8px;
+    top: 292.21px;
+    position: absolute;
+    transform: rotate(127deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line50 {
+    width: 13px;
+    height: 0;
+    left: 303.87px;
+    top: 292.9px;
+    position: absolute;
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line51 {
+    width: 13px;
+    height: 0;
+    left: 705.35px;
+    top: 296.78px;
+    position: absolute;
+    transform: rotate(127deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line53 {
+    width: 13px;
+    height: 0;
+    left: 706.49px;
+    top: 296.13px;
+    position: absolute;
+    transform: rotate(45deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse27 {
+    width: 10px;
+    height: 10px;
+    left: 649px;
+    top: 288px;
+    position: absolute;
+    background: #0A0909;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line54 {
+    width: 30px;
+    height: 0;
+    left: 658px;
+    top: 295px;
+    position: absolute;
+    border: 3px black solid;
+}
+
+.ShuntSignal_Line55 {
+    width: 80px;
+    height: 0;
+    left: 1171px;
+    top: 292px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line56 {
+    width: 237px;
+    height: 0;
+    left: 1171px;
+    top: 372px;
+    position: absolute;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse28 {
+    width: 80px;
+    height: 30px;
+    left: 856px;
+    top: 356px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line57 {
+    width: 35.38px;
+    height: 0;
+    left: 650px;
+    top: 172px;
+    position: absolute;
+    transform: rotate(137.29deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line58 {
+    width: 169px;
+    height: 0;
+    left: 624px;
+    top: 196px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line59 {
+    width: 235px;
+    height: 0;
+    left: 624px;
+    top: 365px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line60 {
+    width: 57.78px;
+    height: 0;
+    left: 662px;
+    top: 208px;
+    position: absolute;
+    transform: rotate(156.54deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line61 {
+    width: 144px;
+    height: 0;
+    left: 609px;
+    top: 232px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line62 {
+    width: 253.03px;
+    height: 0;
+    left: 605px;
+    top: 376.75px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line63 {
+    width: 68.94px;
+    height: 0;
+    left: 659px;
+    top: 246px;
+    position: absolute;
+    transform: rotate(156.04deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line64 {
+    width: 144px;
+    height: 0;
+    left: 596px;
+    top: 275px;
+    position: absolute;
+    transform: rotate(90.40deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line65 {
+    width: 87.32px;
+    height: 0;
+    left: 657px;
+    top: 287px;
+    position: absolute;
+    transform: rotate(150.50deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line66 {
+    width: 103px;
+    height: 0;
+    left: 581px;
+    top: 330px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line68 {
+    width: 263px;
+    height: 0;
+    left: 596px;
+    top: 420px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse29 {
+    width: 80px;
+    height: 30px;
+    left: 847px;
+    top: 409px;
+    position: absolute;
+    background: #9D9696;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line69 {
+    width: 327px;
+    height: 0;
+    left: 927px;
+    top: 424px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line70 {
+    width: 163px;
+    height: 0;
+    left: 1254px;
+    top: 261px;
+    position: absolute;
+    transform: rotate(90deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Ellipse30 {
+    width: 10px;
+    height: 10px;
+    left: 703px;
+    top: 427px;
+    position: absolute;
+    background: #F3E8E8;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse31 {
+    width: 10px;
+    height: 10px;
+    left: 872px;
+    top: 367px;
+    position: absolute;
+    background: #F5E9E9;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse32 {
+    width: 10px;
+    height: 10px;
+    left: 907px;
+    top: 366px;
+    position: absolute;
+    background: #F6E9E9;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse33 {
+    width: 10px;
+    height: 10px;
+    left: 872px;
+    top: 419px;
+    position: absolute;
+    background: #FDF3F3;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Ellipse34 {
+    width: 10px;
+    height: 10px;
+    left: 902px;
+    top: 418px;
+    position: absolute;
+    background: #FFF5F5;
+    border-radius: 9999px;
+}
+
+.ShuntSignal_Line71 {
+    width: 274px;
+    height: 0;
+    left: 580px;
+    top: 432px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_VAc {
+    left: 44px;
+    top: 185px;
+    position: absolute;
+    color: #100F0F;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle1 {
+    width: 70px;
+    height: 20px;
+    left: 320px;
+    top: 173px;
+    position: absolute;
+    background: #F92222;
+}
+
+.ShuntSignal_Hecr {
+    left: 337px;
+    top: 174px;
+    position: absolute;
+    color: #EFE1E1;
+    font-size: 14px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.42px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle2 {
+    width: 200px;
+    height: 30px;
+    left: 693px;
+    top: 180px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_04V {
+    left: 698px;
+    top: 180px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_0149 {
+    left: 809px;
+    top: 189px;
+    position: absolute;
+    color: black;
+    font-size: 15px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.45px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle3 {
+    width: 145px;
+    height: 22px;
+    left: 969px;
+    top: 179px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_00V {
+    left: 978px;
+    top: 176px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Ma_1 {
+    left: 1004px;
+    top: 180px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_0148 {
+    left: 1040px;
+    top: 179px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_1 {
+    left: 237px;
+    top: 153px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_2 {
+    left: 446px;
+    top: 180px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_3 {
+    left: 628px;
+    top: 191px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_4 {
+    left: 251px;
+    top: 193px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_5 {
+    left: 279px;
+    top: 225px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_3239 {
+    left: 809px;
+    top: 265px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.42px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle6 {
+    width: 150px;
+    height: 24px;
+    left: 969px;
+    top: 259px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_4 {
+    left: 967px;
+    top: 257px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Ma_2 {
+    left: 1025px;
+    top: 259px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_4856_1 {
+    width: 62px;
+    height: 20px;
+    left: 1058px;
+    top: 260px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.42px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle7 {
+    width: 204px;
+    height: 30px;
+    left: 639px;
+    top: 383px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_V_2 {
+    left: 639px;
+    top: 382px;
+    position: absolute;
+    color: #289B00;
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_556 {
+    left: 764px;
+    top: 388px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle8 {
+    width: 202px;
+    height: 34px;
+    left: 959px;
+    top: 379px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_1 {
+    left: 973px;
+    top: 378px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 24px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Ma_3 {
+    left: 1036px;
+    top: 384px;
+    position: absolute;
+    color: #F92222;
+    font-size: 16px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_4856_2 {
+    left: 1095px;
+    top: 385px;
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: "Inter";
+    font-weight: 400;
+    letter-spacing: 0.42px;
+    word-wrap: break-word;
+}
+
+
+.ShuntSignal_Line72 {
+    width: 10px;
+    height: 0;
+    left: 393.99px;
+    top: 207.5px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line73 {
+    width: 10px;
+    height: 0;
+    left: 407.98px;
+    top: 207.5px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line74 {
+    width: 10px;
+    height: 0;
+    left: 425px;
+    top: 208px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line75 {
+    width: 10px;
+    height: 0;
+    left: 440px;
+    top: 207px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line76 {
+    width: 10px;
+    height: 0;
+    left: 489px;
+    top: 282px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line77 {
+    width: 10px;
+    height: 0;
+    left: 466px;
+    top: 282px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Line78 {
+    width: 10px;
+    height: 0;
+    left: 440px;
+    top: 282px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+/* Example CSS file */
+
+.ShuntSignal_Line79 {
+    width: 10px;
+    height: 0;
+    left: 420px;
+    top: 283px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.ShuntSignal_Rectangle9 {
+    width: 74px;
+    height: 45px;
+    left: 1119px;
+    top: 78px;
+    position: absolute;
+    background: #8EDFE4;
+}
+
+.ShuntSignal_Sh9 {
+    left: 1131px;
+    top: 83px;
+    position: absolute;
+    color: #FB0000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_6 {
+    left: 278px;
+    top: 266px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hp_7 {
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+    left: 641px;
+    top: 228px;
+}
+
+
+
+
+.ShuntSignal_Hpr_8 {
+    left: 640px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+    top: 268px;
+}
+
+.ShuntSignal_Recr {
+    position: absolute;
+    left: 346px;
+    top: 257px;
+    color: #D9D9D9;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_9 {
+    left: 615px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+    top: 149px;
+}
+
+.ShuntSignal_Hpr_7 {
+    position: absolute;
+    left: 641px;
+    top: 228px;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_V_1 {
+    position: absolute;
+    left: 693px;
+    top: 259px;
+    color: #1D4B0D;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.72px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Hpr_10 {
+    left: 418px;
+    top: 227px;
+    position: absolute;
+    color: black;
+    font-size: 12px;
+    font-family: Inter;
+    font-weight: 400;
+    letter-spacing: 0.36px;
+    word-wrap: break-word;
+}
+
+.ShuntSignal_Rectangle10 {
+    width: 176px;
+    height: 161px;
+    left: 1119px;
+    top: 140px;
+    position: absolute;
+    background: black;
+    border-top-right-radius: 200px;
+}
+
+.ShuntSignal_Ellipse35 {
+    width: 55px;
+    height: 55px;
+    left: 1125px;
+    top: 145px;
+    position: absolute;
+    background: #FB0000;
+    border-radius: 40px;
+}
+
+
+.ShuntSignal_Ellipse36 {
+    width: 60px;
+    height: 60px;
+    left: 1204px;
+    top: 228px;
+    position: absolute;
+    background: #289B00;
+    border-radius: 9999px;
+    /* Using large value for full circle */
+}
+
+.ShuntSignal_Ellipse37 {
+    width: 55px;
+    height: 55px;
+    left: 1125px;
+    top: 228px;
+    position: absolute;
+    background: #F0DA17;
+    border-radius: 9999px;
+    /* Using large value for full circle */
+}
