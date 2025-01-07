@@ -4,7 +4,7 @@ import authService from "./authService";
 import { json, Navigate, Redirect, useHistory } from "react-router-dom";
 ////http://ebc0238be013.ngrok.io
 const axiosClient = axios.create({
-  baseURL: process.env.REACT_APP_API_KEY,
+  baseURL: https://firebase-be-theta.vercel.app,
 });
 
 axiosClient.interceptors.request.use(
